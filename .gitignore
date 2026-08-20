@@ -1,0 +1,6 @@
+# working files, regenerated every run
+items.json
+themes.json
+brief.html
+__pycache__/
+*.log
