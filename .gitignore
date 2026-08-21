@@ -1,5 +1,7 @@
+# items.json is NOT ignored. It is the handoff between GitHub Actions
+# (which can reach the internet) and the Claude routine (which cannot).
+# It has to be committed, or the routine has nothing to read.
 # working files, regenerated every run
-items.json
 themes.json
 brief.html
 __pycache__/

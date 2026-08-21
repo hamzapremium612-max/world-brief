@@ -4,17 +4,36 @@ A daily world-and-Pakistan-affairs brief, built from live RSS feeds. Every
 factual claim links to the article it came from. Every historical parallel is
 marked as interpretation and carries no source, because it doesn't have one.
 
-Designed to be run by a scheduled cloud agent: **the code does what must be
-certain, the agent does what requires judgment.**
+Runs on **two rented machines a day**, neither of which is a laptop:
+
+```
+07:30  GITHUB ACTIONS          can reach the open internet
+       python fetch.py         BBC, Guardian, Dawn, Tribune
+       commit items.json       leaves it in the repo
+
+08:00  A CLAUDE CLOUD ROUTINE  cannot reach the open internet
+       reads items.json        groups, writes, judges precedent
+       python render.py        validates and renders
+       emails it
+```
+
+**Why two.** Anthropic's sandbox blocks outbound connections to arbitrary
+hosts — a first attempt returned zero items from all four feeds with a `403`
+on every `CONNECT`. GitHub's runners have open network access but no
+judgment. So the fetching happens where the network is, the thinking happens
+where the model is, and **the repo is the desk they share**.
+
+`items.json` is therefore **committed on purpose**. It is not a working file;
+it is the handoff.
 
 ## The split, and why it exists
 
 ```
 fetch.py     CODE    gather feeds, check freshness, filter
-   ↓  items.json
+   ↓  items.json     (committed - the handoff)
 THE AGENT     AI     group into themes, write summaries, judge precedent
    ↓  themes.json
-render.py    CODE    validate the response, render the page
+render.py    CODE    refuse stale data, validate the response, render
    ↓  brief.html
 THE AGENT     AI     email it
 ```
@@ -47,6 +66,24 @@ The agent's `themes.json` is treated as untrusted input:
 Tested against a deliberately broken response: one invalid index, one
 duplicate, 43 stories omitted. All 43 were recovered and the omission was
 printed on the page.
+
+## The staleness guard at the handoff
+
+Two machines half an hour apart is a new way for the newsletter bug to come
+back. If the fetch job fails or runs late, the second machine finds
+**yesterday's `items.json` sitting there looking perfectly valid** — and a
+brief dated today containing yesterday's news is not a partial success, it is
+a lie.
+
+So `render.py` checks the file's own `built_at` and **refuses**, rather than
+warning:
+
+```
+REFUSING TO RENDER: items.json is 30.0 hours old (limit 6).
+The fetch job did not run today, or ran late. Do NOT send a brief.
+```
+
+Exit code 2. No brief is better than a wrong one.
 
 ## The freshness guard
 
@@ -91,6 +128,10 @@ python fetch.py                                    # → items.json
 # ... an AI groups and writes, producing themes.json
 python render.py items.json themes.json brief.html
 ```
+
+The GitHub Actions job can also be run by hand from the repo's **Actions**
+tab (`workflow_dispatch`), which is the fastest way to see whether the
+fetching half still works.
 
 ## Feeds
 

@@ -13,7 +13,15 @@ Usage:  python render.py items.json themes.json brief.html
 """
 import json
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
+
+# items.json is fetched by one machine and read by another, half an hour
+# apart. If the fetch job failed or ran late, the second machine finds
+# YESTERDAY'S file sitting there looking perfectly valid - and a brief dated
+# today containing yesterday's news is not a partial success, it is a lie.
+# The handoff is the exact place the newsletter bug comes back, so the check
+# lives here, in code, and it refuses rather than warns.
+MAX_DATA_AGE_HOURS = 6
 
 # The visual language carries meaning, not decoration:
 #   GREEN = sourced. Reporting, traceable to a link.
@@ -179,6 +187,18 @@ if __name__ == "__main__":
 
     with open(items_path, encoding="utf-8") as f:
         data = json.load(f)
+
+    # Refuse stale data outright. No brief is better than a wrong one.
+    built = datetime.fromisoformat(data["built_at"])
+    if built.tzinfo is None:
+        built = built.replace(tzinfo=timezone.utc)
+    age_hours = (datetime.now(timezone.utc) - built).total_seconds() / 3600
+    if age_hours > MAX_DATA_AGE_HOURS:
+        print("REFUSING TO RENDER: items.json is " + str(round(age_hours, 1))
+              + " hours old (limit " + str(MAX_DATA_AGE_HOURS) + ").")
+        print("The fetch job did not run today, or ran late. Do NOT send a brief.")
+        sys.exit(2)
+    print("items.json is " + str(round(age_hours, 1)) + "h old - fresh enough")
     with open(themes_path, encoding="utf-8") as f:
         raw_themes = json.load(f)
     if isinstance(raw_themes, dict):
