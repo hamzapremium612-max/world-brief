@@ -26,7 +26,11 @@ FEEDS = {
     "Tribune":        "https://tribune.com.pk/feed/home",
 }
 
-MAX_ITEM_AGE_HOURS = 36     # an item older than this is not news
+MAX_ITEM_AGE_HOURS = 24     # an item older than this is not news
+                            # 24h is matched to a DAILY brief, so each story
+                            # appears once instead of yesterday's headlines
+                            # turning up again. A brief you can read in one
+                            # sitting is the product; a longer one gets skipped.
 STALE_FEED_HOURS = 24       # if a feed's NEWEST item is older than this, it is behind
 MAX_PER_FEED = 12           # ceiling, so one loud publisher cannot dominate
 
@@ -57,7 +61,15 @@ def fetch_items():
 
         # Is the FEED alive? A different question from whether an ITEM is fresh.
         # A publisher can break their feed and everything still looks normal.
-        newest = hours_old(feed.entries[0], now)
+        # Do NOT trust entries[0] to be the newest. Feeds are not required to
+        # be sorted, and the Guardian's is not: reading entries[0] reported
+        # "newest story is 39h old" while the feed was serving items 5h old.
+        # An alarm that fires on a healthy feed is worse than no alarm - it
+        # teaches you to ignore it. Take the minimum across every entry.
+        ages = [hours_old(e, now) for e in feed.entries]
+        dated = [a for a in ages if a is not None]
+        newest = min(dated) if dated else None
+
         if newest is None:
             warnings.append(source + ": entries carry no timestamp - freshness unknown")
         elif newest > STALE_FEED_HOURS:

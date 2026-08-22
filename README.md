@@ -43,7 +43,7 @@ part. It could equally be one long prompt. It is neither, on purpose:
 
 | | Belongs to |
 |---|---|
-| *Is this story less than 36 hours old?* | **code** — it is subtraction, and subtraction is right every time |
+| *Is this story less than 24 hours old?* | **code** — it is subtraction, and subtraction is right every time |
 | *Has this feed stopped updating?* | **code** — comparing two numbers |
 | *Did the grouping lose any stories?* | **code** — only a loop can prove a negative |
 | *Which of these belong together?* | **the agent** — impossible without reading them all |
@@ -51,9 +51,15 @@ part. It could equally be one long prompt. It is neither, on purpose:
 
 > **Code enforces. A prompt requests.**
 >
-> Ask a model to "only use items from the last 36 hours" and it will be right
-> most days, and silent when it isn't. `if age > 36: continue` is right on every
+> Ask a model to "only use items from the last 24 hours" and it will be right
+> most days, and silent when it isn't. `if age > 24: continue` is right on every
 > item, forever.
+
+**And do not assume a feed is sorted.** The stale-feed check originally read
+`entries[0]`, which reported *"newest story is 39h old"* for the Guardian while
+that feed was serving items 5 hours old. An alarm that fires on a healthy feed
+is worse than no alarm — it teaches you to ignore it. It now takes the minimum
+age across every entry.
 
 ## What `render.py` refuses to trust
 
@@ -90,9 +96,12 @@ Exit code 2. No brief is better than a wrong one.
 Two separate questions that look like one:
 
 ```python
-MAX_ITEM_AGE_HOURS = 36    # is this STORY news?
+MAX_ITEM_AGE_HOURS = 24    # is this STORY news?
 STALE_FEED_HOURS   = 24    # is this FEED still alive?
 ```
+
+24 hours is matched to a daily brief, so each story appears exactly once
+rather than yesterday's headlines turning up again this morning.
 
 Without the second, a publisher can break their feed and the brief keeps
 appearing — smaller, quieter, and looking completely normal. During
