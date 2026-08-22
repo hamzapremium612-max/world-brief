@@ -8,12 +8,19 @@ name: Fetch the morning's items
 # was scheduled for 02:30, ran at 03:12 - 42 minutes late - and the routine
 # had already run at 03:03 and correctly refused the stale file.
 #
-# 01:30 gives 93 minutes of slack. 02:20 is a second chance if the first is
-# dropped entirely. Neither is on the hour, which is when load peaks.
+# UTC 00:10 and 01:20 = 5:10am and 6:20am Asia/Karachi. The routine reads at
+# 8:00am, so the first attempt has 2h50m of slack and the second has 1h40m.
+#
+# The costs here are NOT symmetric. Headlines three hours older cost almost
+# nothing; a brief that never arrives costs everything. So the fetch sits far
+# earlier than it needs to on a good day.
+#
+# Both times are deliberately off the hour - GitHub's docs name the top of the
+# hour as peak load, which is when queued jobs get dropped.
 on:
   schedule:
-    - cron: "30 1 * * *"
-    - cron: "20 2 * * *"
+    - cron: "10 0 * * *"
+    - cron: "20 1 * * *"
   workflow_dispatch:        # so it can be run by hand from the Actions tab
 
 permissions:
