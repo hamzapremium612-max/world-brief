@@ -1,12 +1,19 @@
 name: Fetch the morning's items
 
-# 02:30 UTC = 7:30am Asia/Karachi. Half an hour before the Claude routine at
-# 8:00, because GitHub's scheduler is best-effort and often runs late under
-# load. If this is delayed past the routine, the routine reads yesterday's
-# file - which render.py refuses, rather than quietly building a stale brief.
+# TWO attempts, both well before the Claude routine at 03:00 UTC.
+#
+# Why two, and why so early: GitHub's scheduler is best-effort. Their own docs
+# say a scheduled run "can be delayed during periods of high load" and that
+# "some queued jobs may be dropped". On the first unattended morning this job
+# was scheduled for 02:30, ran at 03:12 - 42 minutes late - and the routine
+# had already run at 03:03 and correctly refused the stale file.
+#
+# 01:30 gives 93 minutes of slack. 02:20 is a second chance if the first is
+# dropped entirely. Neither is on the hour, which is when load peaks.
 on:
   schedule:
-    - cron: "30 2 * * *"
+    - cron: "30 1 * * *"
+    - cron: "20 2 * * *"
   workflow_dispatch:        # so it can be run by hand from the Actions tab
 
 permissions:
