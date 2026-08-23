@@ -1,0 +1,45 @@
+name: Watchdog - did the brief actually go out?
+
+# GitHub emails you when a workflow FAILS. It cannot email you about a workflow
+# that never RAN, because there is nothing to report: no run, no log, no exit
+# code. Just silence.
+#
+# And silence is the failure this project actually had. On 22 Aug the fetch was
+# scheduled for 02:30, committed at 03:12, and the routine had already read a
+# 20-hour-old file at 03:03 and refused it. Nothing errored. Nothing alerted.
+#
+# So this job does not watch for errors. It watches for ABSENCE - it reads the
+# timestamp INSIDE items.json and fails on purpose when that timestamp is too
+# old for the routine to have used it. A failing workflow is something GitHub
+# already knows how to shout about.
+#
+# 03:30 UTC = 8:30am Asia/Karachi, half an hour AFTER the routine reads the
+# file. Running it before would mean guessing whether a late fetch is still
+# coming, and a guess means false alarms. Running it after means the outcome is
+# already decided, so this alarm is never wrong.
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read            # it only looks. It never writes anything back.
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50     # checkout is shallow by default - one commit,
+                              # no history, and the redundancy count would be
+                              # blind. 50 covers well over a week of fetches.
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # No pip install. watchdog.py is standard library only, on purpose -
+      # a monitor with dependencies is a monitor that can break on its own.
+      - name: Was there fresh data at 8am?
+        run: python watchdog.py
