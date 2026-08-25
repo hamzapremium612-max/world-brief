@@ -1,5 +1,5 @@
 {
- "built_at": "2026-08-24T02:38:08.479477+00:00",
+ "built_at": "2026-08-25T01:47:08.697450+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -8,340 +8,340 @@
  ],
  "items": [
   {
-   "source": "Dawn",
-   "title": "Comstech chief remains defiant in face of ‘damning inquiry’",
-   "summary": "<p>• President-ordered probe found OIC official guilty of ‘misconduct, non-compliance’<br />• Accused official calls inquiry ‘one-sided’, claims Presidency was ‘misused’</p>\n<p>ISLAMABAD: An inquiry committee formed on the directives of President Asif Ali Zardari has declared the top official of the Organisation of Islamic Cooperation’s (OIC) Standing Committee on Scientific and Technological Coop",
-   "link": "https://www.dawn.com/news/2024822/comstech-chief-remains-defiant-in-face-of-damning-inquiry",
-   "hours_old": 0.0
-  },
-  {
    "source": "Guardian World",
-   "title": "Australia news live: KMPG axes hundreds of staff in wake of audit leaks scandal; jobseeker now barely two-thirds of pension",
-   "summary": "<p>Audit and consulting giant reports revenue fall of 1% year-on-year. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>",
-   "link": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+   "title": "Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age",
+   "summary": "<p>Supermarket chain says growth slumped amid ‘competitor’s collectibles campaign’. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></u",
+   "link": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
    "hours_old": 0.2
   },
   {
+   "source": "Guardian World",
+   "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
+   "summary": "<p>After repairs to Hirosaki Castle in Aomori prefecture, officials employed a technique known as <em>hikiya</em> to move the structure more than two metres</p><p>To chants of “so-re, so-re”, about 1,800 people came together in northern Japan over the weekend to pull a 360-tonne castle keep a little more than two metres closer to its original resting place as part of ongoing renovations.</p><p>The",
+   "link": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
+   "hours_old": 0.6
+  },
+  {
+   "source": "Guardian World",
+   "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+   "summary": "<p>Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath</p><p>Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain and deport people who are in the country irregularly or have committed crimes.</p><p>In office for just over two w",
+   "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+   "hours_old": 1.2
+  },
+  {
+   "source": "BBC World",
+   "title": "US removes Syria from list of state sponsors of terrorism",
+   "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+   "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 1.5
+  },
+  {
+   "source": "BBC World",
+   "title": "Moment tornado tears through southern France",
+   "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+   "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+   "hours_old": 1.5
+  },
+  {
+   "source": "BBC World",
+   "title": "Nearly three million Teslas recalled in China over hidden door handles",
+   "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+   "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 1.9
+  },
+  {
+   "source": "BBC World",
+   "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+   "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+   "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 2.0
+  },
+  {
+   "source": "Guardian World",
+   "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+   "summary": "<p>US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs</p><p>The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing two people accused of drug trafficking.</p><p>On Monday, US Southern Command (SouthCom) <a href=\"https://x.com/Southcom/status/2091757856018104599?s=20\">announced</a> it “executed a lethal kine",
+   "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+   "hours_old": 4.1
+  },
+  {
+   "source": "Guardian World",
+   "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+   "summary": "<p>Move is latest deterioration in trade relations between neighbors with historically strong economic ties</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> announced a new 50% <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tariff</a> on automobiles and crucial raw materials from <a href=\"https://www.theguardian.com/world/canada\">Canada</a>, the latest ",
+   "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+   "hours_old": 6.9
+  },
+  {
    "source": "Dawn",
-   "title": "Nawaz consults leaders on AJK govt formation",
-   "summary": "<p>LAHORE/MUZAFFARABAD: PML-N President Nawaz Sharif chaired a party meeting to discuss AJK government formation and potential candidates for the prime ministerial slot, as six candidates contest five women’s reserved seats in the Legislative Assembly today.</p>\n<p>The meeting also deliberated on the country’s overall political situation, the<a href=\"https://www.dawn.com/news/2024760/pti-demands-i",
-   "link": "https://www.dawn.com/news/2024830/nawaz-consults-leaders-on-ajk-govt-formation",
-   "hours_old": 0.3
-  },
-  {
-   "source": "BBC World",
-   "title": "Australian shark attack victim grateful for 'second chance at life'",
-   "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-   "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-   "hours_old": 2.1
-  },
-  {
-   "source": "Guardian World",
-   "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
-   "summary": "<p>PM will use independence day trip to announce sharing of classified information about Storm Shadow components</p><p>Britain will boost Ukraine’s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country’s independence day on his first foreign visit as prime minister.</p><p>Burnham will arrive in the Ukrainian capital on Monday morn",
-   "link": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-   "hours_old": 3.6
-  },
-  {
-   "source": "Guardian World",
-   "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-   "summary": "<p>Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state</p><p>A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.</p><p>The incident occurred less than a week after the government announced plans ",
-   "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-   "hours_old": 4.4
-  },
-  {
-   "source": "BBC World",
-   "title": "Trump waves green flag to start IndyCar race through Washington streets",
-   "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-   "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 6.3
+   "title": "Govt increases petrol price by Rs0.39, high-speed diesel by Rs2.40",
+   "summary": "<p>The government on Monday raised the price of petrol by Rs0.39 per litre and that of high-speed diesel (HSD) by Rs2.40 per litre.</p>\n<p>Following the revision, petrol will retail at Rs341.98 per litre while HSD will cost Rs370.69 per litre. The government continues to levy Rs114 per litre in taxes and duties on petrol and Rs100 per litre on diesel.</p>\n<p>According to the Petroleum Division’s n",
+   "link": "https://www.dawn.com/news/2025039/govt-increases-petrol-price-by-rs039-high-speed-diesel-by-rs240",
+   "hours_old": 6.9
   },
   {
    "source": "Dawn",
-   "title": "Cricket greats appeal to PM Shehbaz for Imran's medical treatment in line with SC directives",
-   "summary": "<p>Twenty-two international cricketers, including 21 ex-captains, have written a letter to Prime Minister Shehbaz Sharif, making an appeal for ex-Pakistani premier Imran Khan’s medical treatment in line with recent Supreme Court directives, <em>ESPN Cricinfo</em> reported on Sunday.</p>\n<p>On August 18, the Supreme Court directed the government to move Imran to Islamabad’s Shifa International Hosp",
-   "link": "https://www.dawn.com/news/2024773/cricket-greats-appeal-to-pm-shehbaz-for-imrans-medical-treatment-in-line-with-sc-directives",
-   "hours_old": 6.8
+   "title": "CDF Munir vows continued efforts to stabilise region in meeting with Iran’s Ghalibaf",
+   "summary": "<p>Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir met Iranian parliament speaker Mohammad Bagher Ghalibaf in Tehran on Monday during his visit to the Iranian capital, according to Iranian state broadcaster <em>Press TV</em>.</p>\n<p>The CDF and interior minister reached Tehran earlier today, Iranian media <a class=\"link--external\" href=\"https://x.com/FarsNews_Agency/status",
+   "link": "https://www.dawn.com/news/2024976/cdf-munir-vows-continued-efforts-to-stabilise-region-in-meeting-with-irans-ghalibaf",
+   "hours_old": 7.0
+  },
+  {
+   "source": "Dawn",
+   "title": "Joint opposition announces strategy against economic crisis, political repression",
+   "summary": "<p>ISLAMABAD: The joint opposition held its first parliamentary meeting at Parliament House on Monday and announced a collective strategy to address violence, the economic crisis and political repression.</p>\n<p>The meeting was attended by opposition party leaders, including Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman, National Assembly Opposition Leader Mahmood Khan Achakzai, Se",
+   "link": "https://www.dawn.com/news/2025034/joint-opposition-announces-strategy-against-economic-crisis-political-repression",
+   "hours_old": 7.0
   },
   {
    "source": "Guardian World",
-   "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-   "summary": "<p>PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile</a></p></li></ul><p>Donald Trump has hit back at Canada after ",
-   "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-   "hours_old": 7.1
-  },
-  {
-   "source": "BBC World",
-   "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-   "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-   "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+   "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+   "summary": "<p>Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/24/are-you-a-canadian-boycotting-us-products-wed-like-to-hear-from-you\"><strong>Are you a Canadian boycotting US products? We’d like to hear from you</strong></a></p></li></ul><p>Mark Carney said on Monday that while A",
+   "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
    "hours_old": 7.4
   },
   {
    "source": "Dawn",
-   "title": "Sindh govt to seek judicial commission to review Mir Raza murder probe; family to move SHC against decision",
-   "summary": "<p>The Sindh government said on Sunday it would be asking the chief justice of the provincial high court to establish a judicial commission to determine whether the investigation in the Mir Raza Ali murder case was being conducted impartially and in accordance with the law.</p>\n<p>But, soon after the announcement, the counsel for Ali’s family raised objections and said they would approach the Sind",
-   "link": "https://www.dawn.com/news/2024762/sindh-govt-to-seek-judicial-commission-to-review-mir-raza-murder-probe-family-to-move-shc-against-decision",
-   "hours_old": 8.1
-  },
-  {
-   "source": "BBC World",
-   "title": "Guinea rubbish landfill collapse kills 30",
-   "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-   "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 8.3
-  },
-  {
-   "source": "Dawn",
-   "title": "ISI chief meets Bahrain's crown prince, discusses regional and international developments: report",
-   "summary": "<p>Inter-Services Intelligence chief Lt Gen Muhammad Asim Malik held a meeting with Bahrain’s crown prince, Salman bin Hamad Al Khalifa, on Sunday and discussed ways to enhance cooperation, as well as the latest regional and international developments, according to Bahrain’s state news agency.</p>\n<p>Bahrain News Agency <a class=\"link--external\" href=\"https://www.bna.bh/en/HRHtheCrownPrinceDeputyS",
-   "link": "https://www.dawn.com/news/2024778/isi-chief-meets-bahrains-crown-prince-discusses-regional-and-international-developments-report",
-   "hours_old": 8.4
-  },
-  {
-   "source": "Tribune",
-   "title": "No contact with Israel after airbase attack",
-   "summary": "Syrian FM says Damascus does not trust Tel Aviv at present",
-   "link": "https://tribune.com.pk/story/2625493/no-contact-with-israel-after-airbase-attack",
-   "hours_old": 8.4
-  },
-  {
-   "source": "BBC World",
-   "title": "France links sharp rise in drownings to heatwaves",
-   "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-   "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 9.0
-  },
-  {
-   "source": "Tribune",
-   "title": "CDF heads to Tehran as Pakistan steps up mediation",
-   "summary": "Baghaei says visit to strengthen bilateral cooperation\n  Field Marshal Munir will hold talks with senior officials",
-   "link": "https://tribune.com.pk/story/2625486/cdf-heads-to-tehran-as-pakistan-steps-up-mediation",
-   "hours_old": 9.0
+   "title": "Family, legal team of Imaan and Hadi voice concerns over medical facilities at Adiala jail",
+   "summary": "<p>ISLAMABAD: The families and legal team of incarcerated lawyers and human rights activists Imaan Zainab Mazari-Hazir and Hadi Ali Chatta have voiced concerns over the medical facilities available at Adiala jail.</p>\n<p>On January 24, rights lawyers Imaan and Hadi were <a href=\"https://www.dawn.com/news/1968788\"><u>sentenced</u></a> by an Islamabad sessions court to a total of 17 years in jail on",
+   "link": "https://www.dawn.com/news/2025022/family-legal-team-of-imaan-and-hadi-voice-concerns-over-medical-facilities-at-adiala-jail",
+   "hours_old": 7.9
   },
   {
    "source": "Guardian World",
-   "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
-   "summary": "<p>Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war\">‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war</a></p></li></ul><p>The calamitous collapse of trade negotiations between ",
-   "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
-   "hours_old": 9.2
+   "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
+   "summary": "<p>Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission</p><p>The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.</p><p>Prince Harry’s spokesperson confirmed he was no longer a trustee of <a href=\"https://www.africanparks.org/\">African Parks</a>, which <",
+   "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+   "hours_old": 8.2
   },
   {
    "source": "Dawn",
-   "title": "CDF Munir to visit Tehran on Monday, says Iranian foreign ministry",
-   "summary": "<p>Chief of Defence Forces (CDF) Field Marshal Syed Asim Munir will visit Tehran on Monday to continue efforts to bring peace ​and security to the region, Iran’s foreign ministry spokesperson Esmaeil ‌Baqaei said on Sunday, according to a statement by the ministry.</p>\n<p>He said CDF Munir would lead an official delegation and the “visit aims to strengthen bilateral cooperation between Iran and Pa",
-   "link": "https://www.dawn.com/news/2024771/cdf-munir-to-visit-tehran-on-monday-says-iranian-foreign-ministry",
-   "hours_old": 9.2
-  },
-  {
-   "source": "Dawn",
-   "title": "Dar arrives in UK ahead of official visit starting on Monday",
-   "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar reached the United Kingdom on Sunday, ahead of a four-day official visit beginning on Monday, the Foreign Office (FO) said.</p>\n<p>Pakistan’s High Commissioner to the UK Tipu Usman received him at London’s Heathrow airport, FO added.</p>\n    <figure class=\"media  w-full  w-full  media--  media--embed  media--uneven media--tweet\">\n        <div",
-   "link": "https://www.dawn.com/news/2024748/dar-arrives-in-uk-ahead-of-official-visit-starting-on-monday",
-   "hours_old": 9.4
-  },
-  {
-   "source": "Dawn",
-   "title": "Nordic nations say they have lost confidence in Infantino and Fifa governance",
-   "summary": "<p>Six Nordic football associations delivered a united blow to Fifa President Gianni Infantino on Sunday, declaring they had lost confidence in his leadership while demanding sweeping governance reforms at world football’s governing body.</p>\n<p>The ​six Nordic Fifa members — Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands — met in ‌Helsinki and issued a rare joint statement backin",
-   "link": "https://www.dawn.com/news/2024770/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance",
-   "hours_old": 10.4
+   "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
+   "summary": "<p>President Donald Trump’s administration on Monday released a proposed regulation to codify an unprecedented more than $100,000 fee on new H-1B visas for highly skilled foreign workers, that Trump first <a href=\"https://www.dawn.com/news/1943579\">imposed</a> last year but has been blocked by the courts.</p>\n<p>The fee first imposed by Trump in a temporary proclamation last year vastly raises the",
+   "link": "https://www.dawn.com/news/2025003/trump-administration-moves-to-impose-more-than-100000-fee-for-h-1b-worker-visas",
+   "hours_old": 8.2
   },
   {
    "source": "BBC World",
-   "title": "Frustration builds in Indiana town struggling without power for 12 days",
-   "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-   "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+   "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+   "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 8.3
+  },
+  {
+   "source": "BBC World",
+   "title": "Outrage in Nepal over rape and murder of three-year-old girl",
+   "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
+   "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 8.4
+  },
+  {
+   "source": "Dawn",
+   "title": "ECC approves bonded storage of imported petroleum products",
+   "summary": "<p>ISLAMABAD: In view of recent supply disruptions following the <a href=\"https://www.dawn.com/live/iran-israel-war\">closure</a> of the Strait of Hormuz, the government on Monday formally approved allowing foreign fuel suppliers to establish bonded storage facilities in Pakistan at their own expense for multiple purposes, including re-export and supplies to the domestic market.</p>\n<p>Subject to f",
+   "link": "https://www.dawn.com/news/2025018/ecc-approves-bonded-storage-of-imported-petroleum-products",
+   "hours_old": 8.4
+  },
+  {
+   "source": "Dawn",
+   "title": "PTI says ‘Form 47’ govt lacks mandate to reshape country's governance structure",
+   "summary": "<p>PTI Secretary General Salman Akram Raja said on Monday that the incumbent “Form 47” government had no mandate to reshape the country’s governance structure, adding that the party would welcome anyone willing to ally with it “in principle” on the issue.</p>\n<p>Speaking on <em>Geo News</em> programme ‘Capital Talk’, Raja said the recent discussions with Jamiat Ulema-i-Islam chief Fazlur Rehman at",
+   "link": "https://www.dawn.com/news/2025016/pti-says-form-47-govt-lacks-mandate-to-reshape-countrys-governance-structure",
+   "hours_old": 9.2
+  },
+  {
+   "source": "Dawn",
+   "title": "World Cup winners, FIFA legends say Infantino blinded by power",
+   "summary": "<p>A group of former international players, including World Cup winners and FIFA legends, called on Monday for immediate change at world soccer’s governing body, saying its leadership under embattled President Gianni Infantino had been blinded by power.</p>\n<p>Infantino has been under <a href=\"https://www.dawn.com/news/2024770\">mounting</a> pressure to resign after shelving his now abandoned propo",
+   "link": "https://www.dawn.com/news/2025010/world-cup-winners-fifa-legends-say-infantino-blinded-by-power",
    "hours_old": 10.7
   },
   {
    "source": "Dawn",
-   "title": "Hina Javed murder case: Rawalpindi court sends husband, servant on 3-day physical remand",
-   "summary": "<p>RAWALPINDI: A duty magistrate in Rawalpindi on Sunday remanded the husband and servant of Hina Javed in police custody for three days in her murder case.</p>\n<p>Hina was found dead in the washroom of her apartment in Askari Apartments in Rawalpindi on Thursday evening. Police said that the body bore signs of torture, with a wire fastened around her neck and tied to the shower rod. They detained",
-   "link": "https://www.dawn.com/news/2024768/hina-javed-murder-case-rawalpindi-court-sends-husband-servant-on-3-day-physical-remand",
-   "hours_old": 11.1
-  },
-  {
-   "source": "Tribune",
-   "title": "Next crisis is growth, not dollars",
-   "summary": "Now comes harder task; remittances, reserves alone do not deliver prosperity",
-   "link": "https://tribune.com.pk/story/2625468/next-crisis-is-growth-not-dollars",
-   "hours_old": 11.3
-  },
-  {
-   "source": "Tribune",
-   "title": "Green CPEC offers Pakistan a win-win",
-   "summary": "Climate Prosperity \nPlan aligns with CPEC-II to tackle stagflation, create jobs",
-   "link": "https://tribune.com.pk/story/2625472/green-cpec-offers-pakistan-a-win-win",
-   "hours_old": 11.3
-  },
-  {
-   "source": "Tribune",
-   "title": "Trade policies: a barrier to prosperity",
-   "summary": "High tariffs, low FTA accession keep exports below 10% of GDP",
-   "link": "https://tribune.com.pk/story/2625471/trade-policies-a-barrier-to-prosperity",
-   "hours_old": 11.3
-  },
-  {
-   "source": "Tribune",
-   "title": "Pakistan can no longer wait for personal data protection law",
-   "summary": "Recurring incidents show cost of delay, while digital ambitions demonstrate scale of opportunity",
-   "link": "https://tribune.com.pk/story/2625470/pakistan-can-no-longer-wait-for-personal-data-protection-law",
-   "hours_old": 11.3
-  },
-  {
-   "source": "Tribune",
-   "title": "Rs100 trillion in debt: should Pakistan be worried?",
-   "summary": "Real challenge is country's capacity to carry and service debt sustainably; signs emerging direction may finally be c",
-   "link": "https://tribune.com.pk/story/2625469/rs100-trillion-in-debt-should-pakistan-be-worried",
-   "hours_old": 11.3
-  },
-  {
-   "source": "Guardian World",
-   "title": "The new Halloween video game has been banned in Australia – and not because of the violence",
-   "summary": "<p>Academics and a former classification board director say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-stor",
-   "link": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
-   "hours_old": 11.6
-  },
-  {
-   "source": "Guardian World",
-   "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
-   "summary": "<p>Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb\">Follow our Australia new",
-   "link": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-   "hours_old": 11.6
-  },
-  {
-   "source": "Guardian World",
-   "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
-   "summary": "<p><strong>Exclusive:</strong> New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb\">F",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-   "hours_old": 11.6
-  },
-  {
-   "source": "Guardian World",
-   "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
-   "summary": "<p>Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb\">Follow our Australia news live",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
-   "hours_old": 11.6
+   "title": "Mir Raza murder case: Victim's family moves SHC against judicial commission formation, seeks JIT for probe",
+   "summary": "<p>KARACHI: The family of Mir Raza Ali — a 25-year-old Karachi-based businessman who was found dead with a gunshot wound last month — moved the Sindh High Court (SHC) on Monday against the provincial government’s decision to form a judicial commission for a review of the probe into his murder case.</p>\n<p>The development took place as the Sindh government implemented its decision <a href=\"https://",
+   "link": "https://www.dawn.com/news/2024980/mir-raza-murder-case-victims-family-moves-shc-against-judicial-commission-formation-seeks-jit-for-probe",
+   "hours_old": 10.7
   },
   {
    "source": "Dawn",
-   "title": "PTI demands Imran's CT angiography be conducted at Shifa International Hospital",
-   "summary": "<p>ISLAMABAD: Following reports that jailed PTI founder Imran Khan could not undergo a recommended computed tomography angiography (CTA) during a hospital visit this week, his party condemned the authorities over their “continued failure” to carry out the procedure and demanded that it be immediately conducted at Shifa International Hospital.</p>\n<p>When the PTI founder was brought to the Pakistan",
-   "link": "https://www.dawn.com/news/2024760/pti-demands-imrans-ct-angiography-be-conducted-at-shifa-international-hospital",
-   "hours_old": 12.3
+   "title": "Four labourers killed by unknown assailants in Balochistan's Pishin district",
+   "summary": "<p>QUETTA: Four labourers working on an under-construction road were killed by unidentified armed men near the Saranan area of Balochistan’s Pishin district on Tuesday.</p>\n<p>Officials said the incident took place in the Sulemanzai area along the Quetta-Chaman Highway.</p>\n<p>Balochistan Chief Minister’s aide for political and media affairs Shahid Rind confirmed the incident.</p>\n<p>“The labourer",
+   "link": "https://www.dawn.com/news/2025006/four-labourers-killed-by-unknown-assailants-in-balochistans-pishin-district",
+   "hours_old": 11.2
+  },
+  {
+   "source": "Guardian World",
+   "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+   "summary": "<p>Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people</p><p>An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week.</p><p>The video, posted on Facebook and WhatsApp, ⁠showed large groups of people seated in a fore",
+   "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+   "hours_old": 11.5
   },
   {
    "source": "BBC World",
-   "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-   "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-   "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+   "title": "Access to Zambian courts prevented as election petition deadline looms",
+   "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+   "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 11.7
+  },
+  {
+   "source": "Dawn",
+   "title": "Moody's lifts Pakistan sovereign rating to B3 from Caa1, cites improved governance and easing of external risk",
+   "summary": "<p>ISLAMABAD: Global ratings agency Moody’s on Monday upgraded Pakistan’s sovereign credit rating to B3 from Caa1 and maintained a stable outlook, citing expectations of improvements in governance and easing external and fiscal vulnerabilities.</p>\n<p>“The upgrade to B3 reflects our expectations that improvements in governance will allow the government to sustain the recent improvements in the cou",
+   "link": "https://www.dawn.com/news/2024988/moodys-lifts-pakistan-sovereign-rating-to-b3-from-caa1-cites-improved-governance-and-easing-of-external-risk",
+   "hours_old": 11.7
+  },
+  {
+   "source": "BBC World",
+   "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+   "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+   "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 11.8
+  },
+  {
+   "source": "Dawn",
+   "title": "Protest at Islamabad varsity turns ugly after clash between uniformed individual, students",
+   "summary": "<p>A security official is in custody and facing disciplinary action under military law following reports of a scuffle at Islamabad’s Sarhad University of Science and Information Technology (SUSIT), sources involved in the investigation said late Monday.</p>\n<p>The individual allegedly discharged a weapon during a scuffle with protestors at the university’s Chattha Bakhtawar campus, where students ",
+   "link": "https://www.dawn.com/news/2024984/protest-at-islamabad-varsity-turns-ugly-after-clash-between-uniformed-individual-students",
+   "hours_old": 12.0
+  },
+  {
+   "source": "BBC World",
+   "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+   "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+   "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 12.5
+  },
+  {
+   "source": "Tribune",
+   "title": "Iranian parliament speaker mocks Trump with ‘Make America Hungry Again’ post",
+   "summary": "Trump called his planned Iran campaign the &quot;most crushing economic operation ever&quot; and &quot;economic warfare&quot;",
+   "link": "https://tribune.com.pk/story/2625630/iranian-parliament-speaker-mocks-trump-with-make-america-hungry-again-post",
    "hours_old": 13.1
   },
   {
    "source": "Guardian World",
-   "title": "Russia withdraws ambassador to UK as Kremlin raises pressure over Ukraine support",
-   "summary": "<p>Embassy in London says Andrey Kelin left last month after seven years in diplomatic post</p><p>Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine.</p><p>Andrey Kelin left last month after seven years in the diplomatic post, according to the Russian embassy in London.</p> <a href=\"https://www.theg",
-   "link": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
-   "hours_old": 13.6
+   "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+   "summary": "<p>Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible</p><p>Tehran has vowed to retaliate against any country that cooperates with the US <a href=\"https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei\">attempt to impose fresh sanctions against Iran</a> in what the Treasury secre",
+   "link": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+   "hours_old": 13.9
   },
   {
    "source": "BBC World",
-   "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-   "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-   "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-   "hours_old": 13.7
+   "title": "Four arrested over suspected poisoning of elephants in Kenya",
+   "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+   "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+   "hours_old": 14.6
   },
   {
    "source": "BBC World",
-   "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-   "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-   "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 13.8
-  },
-  {
-   "source": "BBC World",
-   "title": "Golf brand apologises for advert that shows woman being pushed over",
-   "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-   "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 14.2
-  },
-  {
-   "source": "BBC World",
-   "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-   "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-   "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 14.8
+   "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+   "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+   "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+   "hours_old": 15.1
   },
   {
    "source": "Guardian World",
-   "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-   "summary": "<p>President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’</p><p>Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers.</p><p>The Ukrainian president, responding for the",
-   "link": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-   "hours_old": 14.8
-  },
-  {
-   "source": "Guardian World",
-   "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
-   "summary": "<p>An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno</p><p>The ruinous fires that overran parts of France this summer have burned more land than ever recorded, forced more people from their homes than at any point since the second world war and caused what scientists suspect is the country’s",
-   "link": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
+   "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+   "summary": "<p>West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected</p><p>More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.</p><p>A national outbreak was declared on 4 July, just over a week after a 27-year-old woman be",
+   "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
    "hours_old": 15.6
   },
   {
-   "source": "Dawn",
-   "title": "Spantik Peak mission to retrieve body of Pakistani climber halted amid heavy snowfall",
-   "summary": "<p>GILGIT: Snowfall at Spantik Peak on Sunday halted efforts to retrieve the body of Pakistani climber Dr Asma Mushtaq, who <a href=\"https://www.dawn.com/news/2024223\">died</a> while descending the 7,027m peak in Gilgit-Baltistan’s Shigar district.</p>\n<p>34-year-old Dr Mushtaq died at an altitude of around 6,250 metres on Thursday while descending from the summit of Spantik — also known as Golden",
-   "link": "https://www.dawn.com/news/2024747/spantik-peak-mission-to-retrieve-body-of-pakistani-climber-halted-amid-heavy-snowfall",
-   "hours_old": 15.7
+   "source": "Tribune",
+   "title": "Sindh CM meets PM Shehbaz, agrees on 'political harmony, consultation'",
+   "summary": "Duo discusses Sindh affairs, ongoing development projects during meeting",
+   "link": "https://tribune.com.pk/story/2625612/sindh-cm-meets-pm-shehbaz-agrees-on-political-harmony-consultation",
+   "hours_old": 15.8
   },
   {
    "source": "Tribune",
-   "title": "CDF Munir to visit Tehran on Monday: Iranian foreign ministry",
-   "summary": "Visit aims to bolster bilateral cooperation, build on Islamabad's efforts to help strengthen regional peace, security",
-   "link": "https://tribune.com.pk/story/2625417/cdf-munir-to-visit-tehran-on-monday-iranian-foreign-ministry",
-   "hours_old": 19.3
+   "title": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
+   "summary": "Iran's Persian Gulf Strait Authority warns named vessels could be fined, detained and have their cargoes confiscated",
+   "link": "https://tribune.com.pk/story/2625605/iran-threatens-45-tankers-with-fines-confiscation-in-hormuz-escalation",
+   "hours_old": 16.4
   },
   {
-   "source": "Dawn",
-   "title": "Trump hits back at Canada after retaliatory tariffs announcement",
-   "summary": "<p>US President Donald Trump hit back at Canada on Sunday after Prime Minister Mark Carney announced <a href=\"https://www.dawn.com/news/2024597/canada-us-rift-deepens-as-carney-vows-retaliatory-tariffs-after-trade-talks-fail\">retaliatory tariffs</a> on the United States following a breakdown in trade negotiations.</p>\n<p>“Canada wants the benefits of being a state, without being one!!!” Trump said",
-   "link": "https://www.dawn.com/news/2024745/trump-hits-back-at-canada-after-retaliatory-tariffs-announcement",
-   "hours_old": 19.8
-  },
-  {
-   "source": "Tribune",
-   "title": "'DHA wali maid’ celebrates getting her children into a better school",
-   "summary": "Content creator shares how her journey helped open new educational opportunities for her children",
-   "link": "https://tribune.com.pk/story/2625411/dha-wali-maid-celebrates-getting-her-children-into-a-better-school",
-   "hours_old": 20.1
+   "source": "Guardian World",
+   "title": "Fast-fashion giant Shein sets cut-price $27bn valuation for Hong Kong IPO",
+   "summary": "<p>China-based retailer swung to $99m loss in first quarter and faces scrutiny over its environmental footprint</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>Shein, which built a fast-fashion empire on <a href=\"",
+   "link": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+   "hours_old": 16.8
   },
   {
    "source": "Tribune",
-   "title": "Ben & Jerry’s founder calls on Kareena Kapoor to rethink Magnum ties over Palestine issue",
-   "summary": "Cohen acknowledges Kapoor’s condemnation of violence against Palestinian children, urging her to take a stronger stand",
-   "link": "https://tribune.com.pk/story/2625401/ben-jerrys-founder-calls-on-kareena-kapoor-to-rethink-magnum-ties-over-palestine-issue",
-   "hours_old": 21.9
-  },
-  {
-   "source": "Tribune",
-   "title": "Coke Studio Pakistan launches Nu.WAV as a new space for creative experimentation",
-   "summary": "New platform brings together musicians, filmmakers and visual artists to explore independent sounds, ideas and stories",
-   "link": "https://tribune.com.pk/story/2625399/coke-studio-pakistan-launches-nuwav-as-a-new-space-for-creative-experimentation",
-   "hours_old": 22.6
+   "title": "Jemima Goldsmith urges UK govt to intervene over Imran Khan’s rights",
+   "summary": "Says sons have been prevented from visiting father, calls on Britain to demand his medical and family access",
+   "link": "https://tribune.com.pk/story/2625597/jemima-goldsmith-urges-uk-govt-to-intervene-over-imran-khans-rights",
+   "hours_old": 17.2
   },
   {
    "source": "BBC World",
-   "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-   "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-   "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-   "hours_old": 22.9
+   "title": "King of Norway's health has worsened, palace says",
+   "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+   "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 17.3
   },
   {
    "source": "Tribune",
-   "title": "From football to finance: Four emerging actors on unconventional journeys that led them to showbiz",
-   "summary": "Rizwan Ali Jaffri, Saima Hussyn, Mahnoor Sheikh and Noor Xarmina share how unlikely beginnings led them to acting",
-   "link": "https://tribune.com.pk/story/2625396/from-football-to-finance-four-emerging-actors-on-unconventional-journeys-that-led-them-to-showbiz",
-   "hours_old": 23.0
+   "title": "Moody’s upgrades Pakistan’s sovereign credit rating to B3",
+   "summary": "Points to continue weak rule of law and control of corruption",
+   "link": "https://tribune.com.pk/story/2625596/moodys-upgrades-pakistans-sovereign-credit-rating-to-b3",
+   "hours_old": 17.3
+  },
+  {
+   "source": "Tribune",
+   "title": "Judicial commission formed to probe Mir Raza Ali’s death",
+   "summary": "Family challenges commission, seeks JIT as police investigation remains inconclusive",
+   "link": "https://tribune.com.pk/story/2625593/mir-raza-murder-shc-forms-judicial-commission-as-family-seeks-jit-to-probe-case",
+   "hours_old": 18.7
+  },
+  {
+   "source": "Tribune",
+   "title": "FM Dar urges IMO chief to help secure release of Pakistani crew held by Somali pirates",
+   "summary": "DPM Dar meets IMO secretary general, appreciates body role for safe, secure and efficient international shipping",
+   "link": "https://tribune.com.pk/story/2625578/fm-dar-urges-imo-chief-to-help-secure-release-of-pakistani-crew-held-by-somali-pirates",
+   "hours_old": 20.1
+  },
+  {
+   "source": "Guardian World",
+   "title": "New Zealand to consider banning children under 16 from social media",
+   "summary": "<p>Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of children</p><p>New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that ⁠seeks to ban children ⁠under ​16 from using social media, proposing fines of up to 10% of a platform’s global revenue for non-compliance.</p><p>The bill would ⁠require s",
+   "link": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
+   "hours_old": 20.4
+  },
+  {
+   "source": "Tribune",
+   "title": "'Imran Khan would not have spent three years in jail if he wanted a deal,' says Barrister Gohar",
+   "summary": "PTI chairman urges SC to enforce Aug 18 order, seeks early hearing of contempt petition over Imran’s hospital transfer",
+   "link": "https://tribune.com.pk/story/2625574/imran-khan-would-not-have-spent-three-years-in-jail-if-he-wanted-a-deal-says-barrister-gohar",
+   "hours_old": 21.1
+  },
+  {
+   "source": "Tribune",
+   "title": "Pakistani celebrities rally behind Hina Javed’s family, demand justice",
+   "summary": "Mahira Khan, Hania Aamir among others condemn violence against women as calls grow for transparent probe into death",
+   "link": "https://tribune.com.pk/story/2625566/pakistani-celebrities-rally-behind-hina-javeds-family-demand-justice",
+   "hours_old": 21.8
+  },
+  {
+   "source": "Tribune",
+   "title": "The new voices reshaping Pakistan’s drama soundtracks",
+   "summary": "From AUR’s lo-fi sound to Yashal Shahid’s haunting vocals, new generation gives drama soundtracks a different identity",
+   "link": "https://tribune.com.pk/story/2625564/the-new-voices-reshaping-pakistans-drama-soundtracks",
+   "hours_old": 22.1
+  },
+  {
+   "source": "Tribune",
+   "title": "Pakistan, Iran discuss regional peace, negotiated settlement as Field Marshal Munir concludes Iran visit",
+   "summary": "Field Marshal Munir, Naqvi meets Iranian leadership as Pakistan pushes for dialogue and an end to the ongoing conflict",
+   "link": "https://tribune.com.pk/story/2625555/cdf-munir-mohsin-naqvi-depart-for-iran-amid-efforts-to-promote-regional-peace-ispr",
+   "hours_old": 22.7
+  },
+  {
+   "source": "Tribune",
+   "title": "PML-N dominates new AJK Assembly as 46 lawmakers take oath",
+   "summary": "A total of 31 PML-N assembly members took the oath, along with 14 members of the Pakistan Peoples Party",
+   "link": "https://tribune.com.pk/story/2625552/pml-n-wins-six-reserved-seats-set-to-form-ajk-govt",
+   "hours_old": 22.9
   }
  ],
  "warnings": []
