@@ -8,18 +8,21 @@ name: Watchdog - did the brief actually go out?
 # scheduled for 02:30, committed at 03:12, and the routine had already read a
 # 20-hour-old file at 03:03 and refused it. Nothing errored. Nothing alerted.
 #
-# So this job does not watch for errors. It watches for ABSENCE - it reads the
-# timestamp INSIDE items.json and fails on purpose when that timestamp is too
-# old for the routine to have used it. A failing workflow is something GitHub
-# already knows how to shout about.
+# So this job does not watch for errors. It watches for ABSENCE - and it now
+# watches BOTH machines. items.json proves GitHub did its half. The dated file
+# in briefs/ proves the Anthropic routine did its half, because the routine
+# commits it only AFTER the email sends. Neither company's outage can hide
+# behind the other. A failing workflow is something GitHub already knows how
+# to shout about.
 #
-# 03:30 UTC = 8:30am Asia/Karachi, half an hour AFTER the routine reads the
-# file. Running it before would mean guessing whether a late fetch is still
-# coming, and a guess means false alarms. Running it after means the outcome is
-# already decided, so this alarm is never wrong.
+# 04:00 UTC = 9:00am Asia/Karachi, a full hour after the routine reads at 8:00.
+# It was 03:30 until the delivery check was added; half an hour is enough for
+# the fetch to be decided but not always for the routine to finish writing and
+# pushing - a 5-minute run is normal and a slow one would have cried wolf.
+# Running the watchdog late costs nothing, because nothing waits on it.
 on:
   schedule:
-    - cron: "30 3 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch:
 
 permissions:
