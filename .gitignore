@@ -1,8 +1,14 @@
 # items.json is NOT ignored. It is the handoff between GitHub Actions
 # (which can reach the internet) and the Claude routine (which cannot).
 # It has to be committed, or the routine has nothing to read.
+
 # working files, regenerated every run
 themes.json
 brief.html
 __pycache__/
 *.log
+
+# briefs/ is NOT ignored either, and that is the point. brief.html above is
+# the scratch copy at the repo root, overwritten daily. briefs/<date>.html is
+# the archived copy, written only after the email sends. Same bytes, opposite
+# lifetimes: one is a working file, the other is the record.
