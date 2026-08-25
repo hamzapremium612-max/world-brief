@@ -91,6 +91,67 @@ The fetch job did not run today, or ran late. Do NOT send a brief.
 
 Exit code 2. No brief is better than a wrong one.
 
+## The watchman, and why he lives in a different building
+
+Two guards above, and neither one can tell you it failed. `render.py` refusing
+is the *correct* outcome on a bad morning — and its reward is that no email
+arrives. **A healthy morning also produces no alarm.** Success and total
+failure look identical from the outside.
+
+> **An alarm that fires when something breaks cannot tell you about something
+> that never started.**
+>
+> Failure has an error message. **Absence has nothing** — no run, no log, no
+> exit code. GitHub emails you about a workflow that *fails*; it says nothing
+> about one that never *ran*.
+
+So `watchdog.py` does not watch for errors. It watches for absence, and
+**fails on purpose** when it finds it, because a failing workflow is the one
+thing GitHub already knows how to shout about.
+
+It checks both halves, and it can only do the second because the routine
+**commits its brief after the email sends**:
+
+| Evidence | Proves |
+|---|---|
+| `items.json` fresh, with items | **GitHub** did its half |
+| `briefs/<date>-brief.html` exists | **Anthropic's routine** did its half |
+
+Two companies, two schedulers, **neither outage able to hide behind the
+other**. And note what that file means: committed *after delivery*, not after
+rendering, so its presence says *this brief reached the reader* — not *this
+brief was generated*. Only one of those is worth an alarm.
+
+**Four rules it follows, each bought with a mistake:**
+
+- **A separate workflow.** A check inside the fetch job cannot run on the
+  morning the fetch job does not run.
+- **It runs after everything** (04:00 UTC). Checking early means guessing
+  whether a late fetch or a slow routine is still coming — and a guess means
+  false alarms.
+- **It counts fetches, not minutes.** `built_at` is the *last* commit of the
+  morning, so a second successful fetch makes the clock look worse while making
+  the system safer. An earlier version warned *"22 minutes to spare"* on a
+  morning with two successful fetches that was never in danger.
+- **Standard library only.** A monitor with dependencies can fail on its own,
+  and a false alarm from the watchman's own plumbing teaches you to ignore him.
+
+**`None` is not `[]`.** When git can't be read, the redundancy check returns
+`None`, not an empty list — `[]` is a fact about the system, `None` is a fact
+about the observer. A monitor that cannot tell *"the thing is broken"* from
+*"I am broken"* is worse than no monitor, so `None` produces a warning about
+its own eyesight, never an error about the brief.
+
+**The alarm has been rung.** On 24 Aug a throwaway branch forced exit 1 and the
+email arrived. Building a smoke detector and never pressing test is how you end
+up with a decoration.
+
+**Still blind to one thing:** the watchdog is itself a scheduled workflow in
+this repo. If Actions is down — or auto-disables after 60 days of repository
+inactivity — the watchman goes down with it. That is why the routine emails
+*"No brief today"* on refusal: it runs on Anthropic's machines and is the only
+thing left when GitHub is the thing that failed.
+
 ## The freshness guard
 
 Two separate questions that look like one:
