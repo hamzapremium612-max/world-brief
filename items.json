@@ -1,5 +1,5 @@
 {
- "built_at": "2026-08-26T01:52:41.125088+00:00",
+ "built_at": "2026-08-26T02:40:01.944818+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -9,339 +9,339 @@
  "items": [
   {
    "source": "Guardian World",
-   "title": "Australia news live: search continues for pilot who crashed into sea off NT; Nine Entertainment reports earnings lift",
+   "title": "Australia news live: inflation eases less than expected, making rate rise likelier; NT MP Luke Gosling stands aside as envoy",
    "summary": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Angela Jackson,</strong> the commissioner of the Productivity Commission,",
    "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-   "hours_old": 0.1
+   "hours_old": 0.2
+  },
+  {
+   "source": "Guardian World",
+   "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
+   "summary": "<p>Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and Taiwan</p><p>Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacuations in southern China, as another storm system tracked towards Japan and Taiwan.</p><p>Authorities in Chongzuo, in China’s Guangxi region – famous for its giant waterfalls",
+   "link": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
+   "hours_old": 0.9
   },
   {
    "source": "Guardian World",
    "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
-   "summary": "<p>Labor put ‘levy on all public transport fares in metropolitan Melbourne and regional Victoria’ since January 2025, auditor-general says</p><p>The Victorian government secretly increased public transport fares to raise money to help pay for <a href=\"https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause\">the Subur",
+   "summary": "<p>Labor put ‘levy on all public transport fares in metropolitan Melbourne and regional Victoria’ since January 2025, auditor general says</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</",
    "link": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
-   "hours_old": 0.2
+   "hours_old": 0.9
   },
   {
    "source": "Guardian World",
    "title": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
    "summary": "<p>Commissioner Angela Jackson also said it was ‘disappointing’ that Anthony Albanese had ruled out changes to Western Australia’s GST arrangements</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb\">Follow our Australia news live blog for latest ",
    "link": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
-   "hours_old": 0.5
+   "hours_old": 1.3
   },
   {
    "source": "Guardian World",
    "title": "Wife of US soldier deported after Trump rollback on military family protections",
    "summary": "<p>Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0</p><p>The wife of an active-duty <a href=\"https://www.theguardian.com/us-news/us-military\">US soldier</a> was deported on Monday to her native <a href=\"https://www.theguardian.com/world/honduras\">Honduras</a>, according to her family and the federal Department of Homeland Security (D",
    "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-   "hours_old": 5.5
+   "hours_old": 6.3
   },
   {
    "source": "BBC World",
    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
    "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 6.0
+   "hours_old": 6.8
   },
   {
    "source": "BBC World",
    "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
    "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-   "hours_old": 6.1
+   "hours_old": 6.9
   },
   {
    "source": "BBC World",
    "title": "Mass arrests in global crackdown on West African cyber-crime networks",
    "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
    "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 6.4
+   "hours_old": 7.2
   },
   {
    "source": "Guardian World",
    "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
    "summary": "<p>Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry</p><p>Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI ​​rivalry between China and the United States.</p><p>Prosec",
    "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-   "hours_old": 6.8
+   "hours_old": 7.6
   },
   {
    "source": "Dawn",
    "title": "Govt increases petrol price by Rs1.12, high-speed diesel by Rs1.11",
    "summary": "<p>The government on Tuesday raised the price of petrol by Rs1.12 per litre and that of high-speed diesel (HSD) by Rs1.11 per litre.</p>\n<p>Following the revision, petrol will retail at Rs343.10 per litre while HSD will cost Rs371.80 per litre. The government continues to levy Rs114 per litre in taxes and duties on petrol and Rs100 per litre on diesel.</p>\n<p>According to a Petroleum Division noti",
    "link": "https://www.dawn.com/news/2025238/govt-increases-petrol-price-by-rs112-high-speed-diesel-by-rs111",
-   "hours_old": 7.6
-  },
-  {
-   "source": "Guardian World",
-   "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-   "summary": "<p>Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight</p><ul><li><p><a href=\"https://www.theguardian.com/global-development/2026/jul/02/it-was-a-massacre-haiti-gangs-carry-out-mass-killings-across-the-country\">‘A massacre’: Haiti gangs carrying out mass killings</a></p></li></ul><p>At least 47 people were killed and more than 50 others kidnapped whe",
-   "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-   "hours_old": 8.3
+   "hours_old": 8.4
   },
   {
    "source": "Dawn",
    "title": "Govt forms high-powered body to break deadlock over Iran-Pakistan gas pipeline amid penalty threats",
    "summary": "<p>ISLAMABAD: With millions of dollars in potential penalties looming, the government has constituted a high-powered committee to find a “mutually acceptable” way out of the <a class=\"link--external\" href=\"http://beta.dawn.com/news/831981/pakistan-iran-finally-sign-gas-pipeline-accord\" rel=\"noopener noreferrer\" target=\"_blank\">decades-old impasse</a> over the Pakistan-Iran gas pipeline, as it weig",
    "link": "https://www.dawn.com/news/2025241/govt-forms-high-powered-body-to-break-deadlock-over-iran-pakistan-gas-pipeline-amid-penalty-threats",
-   "hours_old": 8.3
+   "hours_old": 9.0
+  },
+  {
+   "source": "Guardian World",
+   "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+   "summary": "<p>Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight</p><ul><li><p><a href=\"https://www.theguardian.com/global-development/2026/jul/02/it-was-a-massacre-haiti-gangs-carry-out-mass-killings-across-the-country\">‘A massacre’: Haiti gangs carrying out mass killings</a></p></li></ul><p>At least 47 people were killed and more than 50 others kidnapped whe",
+   "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+   "hours_old": 9.1
   },
   {
    "source": "Guardian World",
    "title": "China denounces US threat of sanctions over trade with Iran",
    "summary": "<p>Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/25/trump-us-economic-sanctions-china-biggest-buyer-iran-oil\">Explainer: could US sanctions threaten China-Iran ties?</a></p></li></ul><p>China has denounced the <a href=\"https://www.theguardian.com/world/2026/aug/2",
    "link": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-   "hours_old": 8.7
-  },
-  {
-   "source": "BBC World",
-   "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-   "summary": "The footage shows dozens of men, women and children sitting in a forest.",
-   "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 9.2
+   "hours_old": 9.5
   },
   {
    "source": "BBC World",
    "title": "Two unvaccinated people die of measles in Pennsylvania",
    "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
    "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-   "hours_old": 9.2
+   "hours_old": 9.9
+  },
+  {
+   "source": "BBC World",
+   "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+   "summary": "The footage shows dozens of men, women and children sitting in a forest.",
+   "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 10.0
   },
   {
    "source": "Dawn",
    "title": "Imran Khan’s sister Noreen Niazi meets him in Adiala jail for second consecutive week",
    "summary": "<p>ISLAMABAD: Former prime minister Imran Khan’s sister, Noreen Niazi, met him at Adiala jail on Tuesday for the second consecutive week, in line with the Supreme Court’s (SC) directions.</p>\n<p>In response to Imran’s <a href=\"https://www.dawn.com/news/2001399\">petition filed in May</a>, the SC on August 18 <a href=\"https://www.dawn.com/news/2023647/sc-orders-moving-jailed-ex-pm-imran-khan-to-shif",
    "link": "https://www.dawn.com/news/2025232/imran-khans-sister-noreen-niazi-meets-him-in-adiala-jail-for-second-consecutive-week",
-   "hours_old": 9.2
+   "hours_old": 10.0
   },
   {
    "source": "Dawn",
    "title": "Imran's hospital transfer: SC to take up Dr Uzma's contempt plea on Sept 16",
    "summary": "<p>ISLAMABAD: The Supreme Court will take up on Sept 16 a contempt of court petition filed by Dr Uzma Khan against the government for allegedly violating its <a href=\"https://www.dawn.com/news/2023820\">Aug 18 directions</a> to transfer incarcerated PTI founder Imran Khan to Shifa International Hospital in Islamabad.</p>\n<p>The same three-member bench, comprising Justice Shahid Waheed, Justice Naee",
    "link": "https://www.dawn.com/news/2025198/imrans-hospital-transfer-sc-to-take-up-dr-uzmas-contempt-plea-on-sept-16",
-   "hours_old": 9.7
+   "hours_old": 10.5
   },
   {
    "source": "BBC World",
    "title": "European rights court orders Turkey to free imprisoned businessman",
    "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
    "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-   "hours_old": 9.9
+   "hours_old": 10.7
   },
   {
    "source": "Dawn",
    "title": "Speaker, deputy speaker take oath after election to AJK Assembly",
    "summary": "<p>MUZAFFARABAD: Chaudhary Tariq Farooq of the PML-N was elected the 16th speaker of the Azad Jammu and Kashmir (AJK) Legislative Assembly, while party colleague Muhammad Ahmed Raza Qadri was elected deputy speaker, in elections to both offices held on Tuesday.</p>\n<p>The session started at 2:30pm, with outgoing Speaker Chaudhry Latif Akbar of the PPP in the chair. Akbar could not retain his seat ",
    "link": "https://www.dawn.com/news/2025235/speaker-deputy-speaker-take-oath-after-election-to-ajk-assembly",
-   "hours_old": 9.9
+   "hours_old": 10.7
   },
   {
    "source": "Dawn",
    "title": "Apple launches faster Mac mini, Mac Studio to tap AI boom",
    "summary": "<p>Apple on Tuesday unveiled a more powerful Mac mini aimed at consumers looking to host AI agents remotely, marking what is likely the final product launch of Tim Cook’s tenure as CEO.</p>\n<p>The new mini, unveiled alongside a beefed-up Mac Studio, starts at $899 and comes with either Apple’s new M6 chip or the M5 Pro. It is $100 more expensive than its predecessor.</p>\n<p>Both devices have becom",
    "link": "https://www.dawn.com/news/2025233/apple-launches-faster-mac-mini-mac-studio-to-tap-ai-boom",
-   "hours_old": 10.3
+   "hours_old": 11.1
   },
   {
    "source": "BBC World",
    "title": "Swedish military seeks to take over Russian-owned estate near naval base",
    "summary": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
    "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.6
+   "hours_old": 11.4
   },
   {
    "source": "Guardian World",
    "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
    "summary": "<p>Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water use</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p><",
    "link": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
-   "hours_old": 10.9
-  },
-  {
-   "source": "Guardian World",
-   "title": "One Nation’s Malcolm Roberts ‘in two minds’ about whether gay people should be equal",
-   "summary": "<p>Footage shows senator on stage at the Church and State conference responding to question about party’s director James Ashby</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/26/one-nation-malcolm-roberts-two-minds-gay-equal-rights-ntwnfb",
-   "hours_old": 10.9
+   "hours_old": 11.7
   },
   {
    "source": "Dawn",
    "title": "‘Patience has run out’: JI warns of shutdown, Islamabad march if petroleum levy not abolished",
    "summary": "<p>LAHORE: Jamaat-i-Islami Pakistan Emir Hafiz Naeemur Rehman on Tuesday once again warned of a nationwide shutdown, road blockades and a march on Islamabad if the government failed to withdraw the petroleum levy.</p>\n<p>Addressing a press conference at the JI sit-in outside the Punjab chief minister’s House in Lahore, Rehman said the protests had entered their 10th day and were gaining momentum a",
    "link": "https://www.dawn.com/news/2025229/patience-has-run-out-ji-warns-of-shutdown-islamabad-march-if-petroleum-levy-not-abolished",
-   "hours_old": 11.0
+   "hours_old": 11.8
   },
   {
    "source": "Dawn",
    "title": "Petroleum division kicks off feasibility study on strategic reserves",
    "summary": "<p>ISLAMABAD: The government on Tuesday kicked off a feasibility study regarding strategic petroleum reserves (SPR) through international consultancy firm Wood McKenzie.</p>\n<p>Federal Minister for Petroleum Ali Pervaiz Malik today chaired the kick-off meeting with Wood Mackenzie, which was selected to undertake the study following a competitive tender process that attracted four bids.</p>\n<p>Wood",
    "link": "https://www.dawn.com/news/2025226/petroleum-division-kicks-off-feasibility-study-on-strategic-reserves",
-   "hours_old": 12.2
+   "hours_old": 13.0
   },
   {
    "source": "Tribune",
    "title": "Trump ignored top-level warnings before launching Iran war: report",
    "summary": "Gabbard warned Trump killing Iran's leader could bring a hard-line successor and close Strait of Hormuz",
    "link": "https://tribune.com.pk/story/2625834/trump-ignored-top-level-warnings-before-launching-iran-war-report",
-   "hours_old": 12.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Endgame Encore teases a major Avengers: Doomsday surprise",
-   "summary": "Avengers: Endgame Encore will feature exclusive Avengers: Doomsday footage when it returns to theaters in September",
-   "link": "https://tribune.com.pk/story/2625833/endgame-encore-teases-a-major-avengers-doomsday-surprise",
-   "hours_old": 12.7
+   "hours_old": 13.3
   },
   {
    "source": "Dawn",
    "title": "Opposition, govt spar in Senate over Imran Khan’s medical treatment",
    "summary": "<p>ISLAMABAD: The opposition and the government on Tuesday sparred in the Senate over the treatment of PTI founder and former premier Imran Khan in hospital, with both sides accusing each other of contempt of a <a href=\"https://www.dawn.com/news/2023820\">Supreme Court (SC) order</a>.</p>\n<p>On August 18, the apex court <a href=\"https://www.dawn.com/news/2023820\">ordered</a> the government to shift",
    "link": "https://www.dawn.com/news/2025224/opposition-govt-spar-in-senate-over-imran-khans-medical-treatment",
-   "hours_old": 12.8
+   "hours_old": 13.5
+  },
+  {
+   "source": "Tribune",
+   "title": "Endgame Encore teases a major Avengers: Doomsday surprise",
+   "summary": "Avengers: Endgame Encore will feature exclusive Avengers: Doomsday footage when it returns to theaters in September",
+   "link": "https://tribune.com.pk/story/2625833/endgame-encore-teases-a-major-avengers-doomsday-surprise",
+   "hours_old": 13.5
   },
   {
    "source": "Guardian World",
    "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
    "summary": "<p>US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes</p><ul><li><p><a href=\"https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed\">Don’t already get First Thing in your inbox? Sign up here</a></p></li></ul><p>Good morning. The US suprem",
    "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-   "hours_old": 13.3
+   "hours_old": 14.1
   },
   {
    "source": "Dawn",
    "title": "Body of missing five-year-old girl recovered in KP’s Haripur: police",
    "summary": "<p>PESHAWAR: Police and rescue officials on Monday night recovered the body of a girl who had gone missing from outside her home in a semi-urban area of Khyber Pakhtunkhwa’s Haripur district two weeks ago.</p>\n<p>According to rescue and medical sources, the body was buried after an autopsy. The detailed post-mortem report was awaited.</p>\n<p>District Headquarters Hospital Medical Superintendent Dr",
    "link": "https://www.dawn.com/news/2025215/body-of-missing-five-year-old-girl-recovered-in-kps-haripur-police",
-   "hours_old": 13.5
+   "hours_old": 14.3
   },
   {
    "source": "BBC World",
    "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
    "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-   "hours_old": 14.0
+   "hours_old": 14.8
   },
   {
    "source": "BBC World",
    "title": "Brain disease in dead NFL players 'higher than previously shown'",
    "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
    "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 14.0
+   "hours_old": 14.8
   },
   {
    "source": "BBC World",
    "title": "Lockerbie bombing trial postponed days before it was due to start",
    "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 14.0
+   "hours_old": 14.8
   },
   {
    "source": "Guardian World",
    "title": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
    "summary": "<p>Gao Zhen sentenced to three years in prison after already spending two years in detention</p><p>Gao Zhen, a prominent Chinese artist known for provocative sculptures of the former leader Mao Zedong, has been sentenced to three years in prison after being found guilty of slandering China’s “heroes and martyrs”. The sentencing came two years after he was detained while visiting the country with h",
    "link": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
-   "hours_old": 14.0
+   "hours_old": 14.8
   },
   {
    "source": "Dawn",
    "title": "Ayaz Sadiq says there is 'realisation' in govt about NA's lack of quorum, hopeful situation will improve",
    "summary": "<p>National Assembly Speaker Sardar Ayaz Sadiq on Tuesday said there was “realisation” among the treasury members about the lack of quorum in the House and he was hopeful that the situation would improve.</p>\n<p>Lately, NA proceedings have been marred by a lack of attendance amid a rift between the ruling PML-N and its main ally in the Centre, the PPP, mainly over the recent elections in Azad Jamm",
    "link": "https://www.dawn.com/news/2025209/ayaz-sadiq-says-there-is-realisation-in-govt-about-nas-lack-of-quorum-hopeful-situation-will-improve",
-   "hours_old": 14.6
+   "hours_old": 15.3
   },
   {
    "source": "Tribune",
    "title": "FACTBOX - What to know about US 'Operation Economic Outcast' sanctions against Iran",
    "summary": "US Treasury chief says Washington has mapped Iran's networks and financial channels used to evade sanctions",
    "link": "https://tribune.com.pk/story/2625814/factbox-what-to-know-about-us-operation-economic-outcast-sanctions-against-iran",
-   "hours_old": 15.1
+   "hours_old": 15.9
   },
   {
    "source": "Tribune",
    "title": "Info ministry rubbishes 'delusional' Indian media report on reconstruction of Bahawalpur's Subhanallah Mosque",
    "summary": "Says concocted stories are spewed at the behest of political leadership in Indian media",
    "link": "https://tribune.com.pk/story/2625812/info-ministry-rubbishes-delusional-indian-media-report-on-reconstruction-of-bahawalpur-mosque",
-   "hours_old": 15.6
+   "hours_old": 16.4
+  },
+  {
+   "source": "BBC World",
+   "title": "US firefighters say major blaze near Reno about a quarter contained",
+   "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
+   "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 16.8
   },
   {
    "source": "Tribune",
    "title": "'Spider-Man: Brand New Day' set to overtake 'Titanic' in all-time box office rankings",
    "summary": "'Spider-Man: Brand New Day' is roughly $44m behind 'Titanic', which sits in fifth place on the box office charts",
    "link": "https://tribune.com.pk/story/2625805/spider-man-brand-new-day-set-to-overtake-titanic-in-all-time-box-office-rankings",
-   "hours_old": 16.2
+   "hours_old": 17.0
   },
   {
    "source": "Dawn",
    "title": "Pims says its CT machine 'remains functional' following reports of failure to conduct Imran's heart scan",
    "summary": "<p>ISLAMABAD: Following <a href=\"https://www.dawn.com/news/2024686/failure-to-conduct-imrans-cta-at-pims-adds-to-controversy\">reports </a>that jailed PTI founder Imran Khan could not undergo a heart scan during a visit to the hospital last week, the Pakistan Institute of Medical Sciences (Pims) said on Tuesday that its CT machine “remains functional and continues to support diagnostic services”.</",
    "link": "https://www.dawn.com/news/2025207/pims-says-its-ct-machine-remains-functional-following-reports-of-failure-to-conduct-imrans-heart-scan",
-   "hours_old": 16.3
+   "hours_old": 17.1
   },
   {
    "source": "Tribune",
    "title": "PML-N secures speaker, deputy speaker offices in AJK Legislative Assembly",
    "summary": "Chaudhry Tariq Farooq is elected speaker, Ahmed Raza Qadri deputy speaker, after both candidates secure 32 votes each",
    "link": "https://tribune.com.pk/story/2625803/pml-n-secures-speaker-deputy-speaker-offices-in-ajk-legislative-assembly",
-   "hours_old": 16.3
+   "hours_old": 17.1
   },
   {
    "source": "Tribune",
    "title": "PM Shehbaz has taken notice of lawmakers' absenteeism, says NA speaker",
    "summary": "Expresses hope that attendance will improve at the next session",
    "link": "https://tribune.com.pk/story/2625799/pm-shehbaz-has-taken-notice-of-lawmakers-absenteeism-says-na-speaker",
-   "hours_old": 16.6
+   "hours_old": 17.4
   },
   {
    "source": "BBC World",
    "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
    "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
    "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-   "hours_old": 17.0
+   "hours_old": 17.8
+  },
+  {
+   "source": "Tribune",
+   "title": "DJ Axwell to headline Karachi’s first international electronic music event",
+   "summary": "'First Light' will bring the Swedish DJ to Moin Khan Academy on September 19, with local acts Bilal Brohi and Hazey",
+   "link": "https://tribune.com.pk/story/2625793/dj-axwell-to-headline-karachis-first-international-electronic-music-event",
+   "hours_old": 18.3
   },
   {
    "source": "Tribune",
    "title": "Shah Ghulam Qadir nominated as AJK prime minister",
    "summary": "Qadir is one of the founding members of PML-N in AJK, has held a range of senior parliamentary and ministerial roles",
    "link": "https://tribune.com.pk/story/2625792/shah-ghulam-qadir-nominated-as-ajk-prime-minister",
-   "hours_old": 17.6
+   "hours_old": 18.4
   },
   {
    "source": "Tribune",
    "title": "Govt to implement direction on Imran’s medical order after SC clarification, Sanaullah tells Senate",
    "summary": "Says if SC finds any shortcoming and directs govt to take further measures, its orders will be implemented",
    "link": "https://tribune.com.pk/story/2625791/govt-to-implement-direction-on-pti-founders-medical-order-after-sc-clarification",
-   "hours_old": 17.7
+   "hours_old": 18.4
   },
   {
    "source": "Tribune",
    "title": "Karachi, Rawalpindi announce traffic plans for Eid Miladun Nabi processions",
    "summary": "The federal government has announced public holiday for Eid Miladun Nabi across the country",
    "link": "https://tribune.com.pk/story/2625777/karachi-rawalpindi-announce-traffic-plans-for-eid-miladun-nabi-processions",
-   "hours_old": 20.1
+   "hours_old": 20.9
   },
   {
    "source": "Tribune",
    "title": "Iranian official says CDF Munir's visit yielded 'highly valuable diplomatic achievements'",
    "summary": "Rejects 'inaccurate media speculation' surrounding the visit and says its outcome will soon become clear",
    "link": "https://tribune.com.pk/story/2625775/iranian-official-says-cdf-munirs-visit-yielded-highly-valuable-diplomatic-achievements",
-   "hours_old": 20.3
+   "hours_old": 21.1
   },
   {
    "source": "Guardian World",
    "title": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’",
    "summary": "<p>In Indonesia’s Kalimantan, fires have ravaged tens of thousands of acres, with suffocating smoke reaching Malaysia and putting Singapore on alert</p><p>Suwadi can barely see five metres in front of him when he steps outside his home in Indonesian Borneo.</p><p>Each breath, he says, feels “like smoking a cigarette”.</p> <a href=\"https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-k",
    "link": "https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-kalimantan-smoke-super-el-nino",
-   "hours_old": 21.6
-  },
-  {
-   "source": "BBC World",
-   "title": "French tourist dies in Death Valley after car gets stuck in mud",
-   "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
-   "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 23.7
-  },
-  {
-   "source": "Tribune",
-   "title": "SC to hear Uzma's contempt petition against violation of Imran medical transfer order on Sept 16",
-   "summary": "PTI resubmits contempt plea over Imran's hospital transfer after removing SC objections",
-   "link": "https://tribune.com.pk/story/2625746/supreme-court-returns-contempt-plea-filed-by-imrans-sister-over-hospital-transfer",
-   "hours_old": 23.7
+   "hours_old": 22.4
   }
  ],
  "warnings": []
