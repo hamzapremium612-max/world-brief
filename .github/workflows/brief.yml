@@ -17,10 +17,43 @@ name: Fetch the morning's items
 #
 # Both times are deliberately off the hour - GitHub's docs name the top of the
 # hour as peak load, which is when queued jobs get dropped.
+# FOUR attempts, covering two different failure regimes. All times below are
+# Karachi (PKT, UTC+5); the cron values themselves are UTC because GitHub
+# requires it.
+#
+# THE HEALTHY REGIME - 5:10am and 6:20am.
+# For most of August GitHub ran these about 90 minutes late, which the 8:00am
+# read absorbed without trouble.
+#
+# THE BROKEN REGIME - 7:00pm and 8:30pm THE EVENING BEFORE.
+# From 27 Aug 2026 GitHub's scheduler degraded badly and consistently:
+#
+#     Wed 27th   fetches landed  2:29pm and  4:13pm   (9h29 / 9h53 late)
+#     Thu 28th   fetches landed  4:14pm and  5:48pm   (11h04 / 11h28 late)
+#
+# Both mornings the routine had already read stale data at 8:00am and correctly
+# refused. No cron placed in the morning can survive a 9-11 hour delay, because
+# by the time the fetch lands the brief is hours past due.
+#
+# So these two are scheduled the EVENING BEFORE. Delayed by the observed
+# 9.5-11.5 hours they arrive between about 4:30am and 7:30am - in front of the
+# 8:00am read. Delayed by nothing at all they arrive in the evening and are
+# stale by morning, which is exactly when the two morning attempts work.
+#
+# Whichever fetch lands LAST before 8:00am sets built_at, so the useful one
+# wins on its own. Nothing to switch, and it self-corrects the day GitHub
+# recovers.
+#
+# THIS IS A WORKAROUND, not a fix. It is shaped around the size of someone
+# else's delay, and it breaks if that delay moves to 6 hours or 16. The real
+# fix is for the routine to trigger this job itself and WAIT for it, so that
+# how late GitHub is stops mattering at all.
 on:
   schedule:
-    - cron: "10 0 * * *"
-    - cron: "20 1 * * *"
+    - cron: "10 0 * * *"      #  5:10am PKT   - healthy regime
+    - cron: "20 1 * * *"      #  6:20am PKT   - healthy regime
+    - cron: "0 14 * * *"      #  7:00pm PKT   - lands ~4:30-6:00am if 9.5-11.5h late
+    - cron: "30 15 * * *"     #  8:30pm PKT   - lands ~6:00-7:30am if 9.5-11.5h late
   workflow_dispatch:        # so it can be run by hand from the Actions tab
 
 permissions:
