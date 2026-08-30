@@ -1,5 +1,5 @@
 {
- "built_at": "2026-08-30T05:14:58.394769+00:00",
+ "built_at": "2026-08-30T06:41:24.326851+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -9,339 +9,339 @@
  "items": [
   {
    "source": "BBC World",
-   "title": "WhatsApp chat used to send cash for crime and extremism",
-   "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-   "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+   "title": "One dead and five injured in Swiss shooting, police say",
+   "summary": "\"The manhunt for the unknown perpetrator is under way,\" local police said.",
+   "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+   "hours_old": 0.2
+  },
+  {
+   "source": "Guardian World",
+   "title": "Renee was at Gyirong Port minutes before flood struck, now her family want to travel from Australia to help search",
+   "summary": "<p>Missing woman’s partner and daughters fundraise to join search in one of the hardest-hit areas of Nepal </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a h",
+   "link": "https://www.theguardian.com/world/2026/aug/30/renee-gyirong-port-flood-nepal-family-australia-help-search",
    "hours_old": 0.3
   },
   {
    "source": "Guardian World",
-   "title": "Australia news live: ‘we owe it to history’ to defeat One Nation, PM tells Labor faithful; man dies after falling from eighth-floor balcony in Sydney",
-   "summary": "<p>Police attempted to speak to man at Elizabeth Bay apartment block east of Sydney’s CBD on Sunday morning. Follow latest updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily n",
+   "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
+   "summary": "<p>Conditions are deteriorating in city of El Obeid and camps on its outskirts, with more people arriving every day</p><p>Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in",
+   "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+   "hours_old": 0.7
+  },
+  {
+   "source": "Guardian World",
+   "title": "‘We owe it to history’ to defeat One Nation, PM tells Labor faithful – as it happened",
+   "summary": "<p>This blog is now closed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Joyce explains One Nation’s migration policy with sheep and cattle</s",
    "link": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
-   "hours_old": 0.4
+   "hours_old": 1.1
+  },
+  {
+   "source": "Guardian World",
+   "title": "One Nation’s Secret Harbour byelection win shows Labor is at a loss when it comes to calming angry voters | Analysis",
+   "summary": "<p>Even after a week in which Pauline Hanson and One Nation candidates tripped over themselves trying to explain key policies, voters still backed the party</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?",
+   "link": "https://www.theguardian.com/australia-news/2026/aug/30/one-nations-secret-harbour-byelection-win-shows-labor-is-at-a-loss-when-it-comes-to-calming-angry-voters",
+   "hours_old": 1.1
+  },
+  {
+   "source": "Dawn",
+   "title": "Nine cops punished for send-off to suspended SHO",
+   "summary": "<p>SAHIWAL: District Police Officer (DPO) Usman Tipu suspended nine policemen of the Harappa Police Station after they gave Station House Officer (SHO) Majid Ashfaq a warm sendoff and showered him with rose petals after he was suspended from service by the DPO for faulty investigation, receiving bribes and misuse of authority in a sexual assault case.</p>\n<p>SHO Majid Ashfaq was suspended on Aug 2",
+   "link": "https://www.dawn.com/news/2026024/nine-cops-punished-for-send-off-to-suspended-sho",
+   "hours_old": 1.1
+  },
+  {
+   "source": "Dawn",
+   "title": "‘Disproportionate use of force deepened polarisation in AJK’",
+   "summary": "<p>LAHORE: The Human Rights Commission of Pakistan (HRCP) has attributed the <a href=\"https://www.dawn.com/news/2020466/seven-law-enforcers-martyred-in-recent-unrest-ajk-govt\">recent unrest</a> in Azad Jammu and Kashmir (AJK) to longstanding political and socioeconomic grievances, institutional distrust and governance deficits, saying an increasingly confrontational state response, including the d",
+   "link": "https://www.dawn.com/news/2026027/disproportionate-use-of-force-deepened-polarisation-in-ajk",
+   "hours_old": 1.4
+  },
+  {
+   "source": "BBC World",
+   "title": "WhatsApp chat used to send cash for crime and extremism",
+   "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+   "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 1.7
+  },
+  {
+   "source": "Guardian World",
+   "title": "The president and the penthouse: how Madrid’s government spent €6.3m on a temporary ‘office’",
+   "summary": "<p>Saga surrounding purchase for outspoken rightwing regional leader Isabel Díaz Ayuso refuses to go away</p><p>The outspoken rightwing leader of the Madrid region is under growing pressure to explain why her government spent €6.3m (£5.4m) on a residential penthouse purportedly to serve as a temporary workspace while her offices were being renovated.</p><p>Isabel Díaz Ayuso, a prominent member of ",
+   "link": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso",
+   "hours_old": 1.7
   },
   {
    "source": "Dawn",
    "title": "Electric vehicle shift lags amid infrastructure gaps",
    "summary": "<p><strong>• PM’s 30pc target stalls as OMCs expand outlets without chargers<br />• Petrol demand stays robust on two-wheeler boom</strong></p>\n<p>KARACHI: The government is considering several options to reduce the <a href=\"https://www.dawn.com/news/2018583\">fuel import</a> bill, the latest being the upgrade of refineries at an estimated cost of $6 billion. Earlier efforts to reduce petrol import",
    "link": "https://www.dawn.com/news/2026075/electric-vehicle-shift-lags-amid-infrastructure-gaps",
-   "hours_old": 0.8
+   "hours_old": 2.2
   },
   {
    "source": "Dawn",
    "title": "PTA tells telcos to enforce uniform SIM policy",
    "summary": "<p>ISLAMABAD: The telecom sector regulator has directed all three telcos to implement a uniform policy on SIM expiry and recharge amounts, after finding that two telcos were not complying with the prescribed terms and conditions.</p>\n<p>A senior Pakistan Telecommunication Authority (PTA) official said consumers had lodged complaints against Zong and Telenor Pakistan, which has now been acquired by",
    "link": "https://www.dawn.com/news/2026073/pta-tells-telcos-to-enforce-uniform-sim-policy",
-   "hours_old": 1.1
-  },
-  {
-   "source": "BBC World",
-   "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-   "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 1.2
+   "hours_old": 2.5
   },
   {
    "source": "BBC World",
    "title": "Iceland EU referendum on a knife edge as counting continues",
    "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 1.3
+   "hours_old": 2.7
+  },
+  {
+   "source": "BBC World",
+   "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+   "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+   "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 2.7
   },
   {
    "source": "Dawn",
    "title": "GB sees rise in foreign climbers, trekkers despite Mideast tensions",
    "summary": "<p><strong>• Over 2,200 adventurers visited region from April to August<br />• Official says climbing season has closed, but trekking will continue until October</strong></p>\n<p>GILGIT: More than 2,200 foreign climbers and trekkers visited Gilgit-Baltistan during the summer season from April to August this year, a senior official of the GB Tourism Department said.</p>\n<p>Sajid Hussain, deputy dire",
    "link": "https://www.dawn.com/news/2026057/gb-sees-rise-in-foreign-climbers-trekkers-despite-mideast-tensions",
-   "hours_old": 2.0
+   "hours_old": 3.5
   },
   {
    "source": "Dawn",
    "title": "Putin, Xi, Pezeshkian to attend Kyrgyzstan summit",
    "summary": "<p>BISHKEK: Russia’s Vladimir Putin and China’s Xi Jinping are expected in Central Asia’s Kyrgyzstan on Monday for a two-day summit, also attended by Pakistan, Iran and India’s leaders, of a regional bloc seeking to be a counter-influence to the West.</p>\n<p>Around a dozen heads of states will head to the Kyrgyz capital Bishkek to mark 25 years of the Shanghai Cooperation Group (SCO).</p>\n<p>The g",
    "link": "https://www.dawn.com/news/2026041/putin-xi-pezeshkian-to-attend-kyrgyzstan-summit",
-   "hours_old": 2.3
+   "hours_old": 3.8
   },
   {
    "source": "Dawn",
    "title": "AJK PM vows to restore internet, road links in days",
    "summary": "<p>MUZAFFARABAD: Azad Jammu and Kashmir (AJK) Prime Minister Barrister Iftikhar Gillani has assured the business community and students that his government would restore internet services at educational institutions and remove restrictions on road links with Punjab and Khyber Pakhtunkhwa within the next few days.</p>\n<p>Speaking during his visit to the Central Press Club on Saturday, Mr Gillani sa",
    "link": "https://www.dawn.com/news/2026047/ajk-pm-vows-to-restore-internet-road-links-in-days",
-   "hours_old": 2.7
+   "hours_old": 4.2
   },
   {
    "source": "Dawn",
    "title": "Political disputes must not affect Indus treaty: experts",
    "summary": "<p><strong>• Participants urge Pakistan to continue adhering to accord<br />• Munir Akram calls for active diplomacy, continued use of agreement mechanisms<br />• Rizwan Saeed says treaty faces a ‘crisis of intent’<br />• Sherry says India can’t unilaterally suspend or reinterpret treaty</strong></p>\n<p>WASHINGTON: Pakistan should not allow political and security disputes to become a justification",
    "link": "https://www.dawn.com/news/2026046/political-disputes-must-not-affect-indus-treaty-experts",
-   "hours_old": 2.8
+   "hours_old": 4.3
   },
   {
    "source": "Dawn",
-   "title": "Six suspects held in Khuzdar murder case",
-   "summary": "<p>QUETTA: Police have arrested six suspects and recovered a large quantity of illegal arms and ammunition, drugs and two vehicles during raids in different areas of Anjira in Khuzdar district in connection with the murder of Asma Jattak’s father.</p>\n\n<p>According to police officials, the raids were conducted on information provided by a sensitive security agency as part of an investigation into ",
-   "link": "https://www.dawn.com/news/2026052/six-suspects-held-in-khuzdar-murder-case",
-   "hours_old": 3.2
+   "title": "Rights activists decry excessive loadshedding in low-income areas of Karachi",
+   "summary": "<p>KARACHI: Rights activists and members of civil society have said prolonged and excessive loadshedding had made everyday life increasingly difficult for Karachi’s low-income communities, disrupting children’s education and making cooking, washing, bathing and maintaining personal hygiene a daily struggle.</p>\n\n<p>They were speaking at a press conference organised under the banner of the Civil So",
+   "link": "https://www.dawn.com/news/2026088/rights-activists-decry-excessive-loadshedding-in-low-income-areas-of-karachi",
+   "hours_old": 4.7
   },
   {
    "source": "Dawn",
    "title": "Distinction for Pakistani hospital",
    "summary": "<p>ISLAMABAD: Shifa International Hospitals has stated that it has achieved the highest number of Joint Commission International (JCI) accreditations in Pakistan.</p>\n<p>A hospital spokesman said the recognitions demonstrated Pakistan’s ability to meet globally recognised standards of healthcare quality and patient safety.</p>\n<p>He said the JCI accreditation of Shifa Enterprise reflected the orga",
    "link": "https://www.dawn.com/news/2026092/distinction-for-pakistani-hospital",
-   "hours_old": 3.2
+   "hours_old": 4.7
+  },
+  {
+   "source": "Dawn",
+   "title": "Six suspects held in Khuzdar murder case",
+   "summary": "<p>QUETTA: Police have arrested six suspects and recovered a large quantity of illegal arms and ammunition, drugs and two vehicles during raids in different areas of Anjira in Khuzdar district in connection with the murder of Asma Jattak’s father.</p>\n\n<p>According to police officials, the raids were conducted on information provided by a sensitive security agency as part of an investigation into ",
+   "link": "https://www.dawn.com/news/2026052/six-suspects-held-in-khuzdar-murder-case",
+   "hours_old": 4.7
   },
   {
    "source": "Guardian World",
    "title": "Australia could make social media algorithms optional and follow UK ban on pornography depicting strangulation",
    "summary": "<p>Social services minister says social media was playing a role in the increase of sexual violence among teenagers</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get ",
    "link": "https://www.theguardian.com/australia-news/2026/aug/30/australia-could-make-social-media-algorithms-optional-and-follow-uk-ban-on-pornography-depicting-strangulation",
-   "hours_old": 3.4
-  },
-  {
-   "source": "Guardian World",
-   "title": "Number of missing in Nepal and Tibet rises to 3,000 as bad weather hampers search",
-   "summary": "<p>Nepal requests foreign ⁠help in identification and storing of bodies, DNA testing and rescuing people from tunnels</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained\">Visual guide: how the deadly flooding unfolded</a></p></li><li><p><a href=\"https://www.theguardian.com/world/live/2026/",
-   "link": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-   "hours_old": 3.8
+   "hours_old": 4.9
   },
   {
    "source": "Guardian World",
    "title": "Families balance hope and despair in race to find survivors in Nepal as 41 Australians still missing",
    "summary": "<p>The walls of a teaching hospital are filled with pictures of unidentified victims as authorities collect DNA samples and plan burials before morgues fill up</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb\">Follow our Australia news live blo",
    "link": "https://www.theguardian.com/world/2026/aug/30/families-balance-hope-and-despair-in-race-to-find-survivors-in-nepal-as-australians-still-missing",
-   "hours_old": 4.8
+   "hours_old": 6.2
   },
   {
    "source": "BBC World",
    "title": "Canada installs large Lake Ontario sign in latest jab at US",
    "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
    "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 5.0
+   "hours_old": 6.4
   },
   {
-   "source": "Guardian World",
-   "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
-   "summary": "<p>One Nation candidate Luke Herdegen secures 57% of the vote after preferences as Barnaby Joyce says ‘politics has changed’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><l",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia",
-   "hours_old": 5.2
-  },
-  {
-   "source": "Guardian World",
-   "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – as it happened",
-   "summary": "<p>This blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/world/ng-interactive/2026/aug/28/the-flood-took-everything-i-have-survivors-grieve-for-relatives-and-homes-swept-away-in-nepal\">‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-re",
-   "link": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
-   "hours_old": 6.8
+   "source": "Tribune",
+   "title": "Iran says Hormuz transit understanding with Oman contingent on US fulfilling commitments",
+   "summary": "Iran’s parliament speaker rejects US Treasury chief’s claims over economic pressure",
+   "link": "https://tribune.com.pk/story/2626506/iran-says-hormuz-transit-understanding-with-oman-contingent-on-us-fulfilling-commitments",
+   "hours_old": 7.1
   },
   {
    "source": "Guardian World",
    "title": "Palestinian woman and NBC News team reportedly attacked in West Bank",
    "summary": "<p>Matt Bradley and crew assaulted while interviewing woman who said settlers had driven family out of home</p><p>A Palestinian woman and an NBC News team are reported to have been attacked and injured by masked Israeli settlers in the Israeli-occupied West Bank on Saturday, amid worsening confrontations in the area.</p><p>Benjamin Netanyahu said he condemned the violence committed “by a handful o",
    "link": "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
-   "hours_old": 7.3
+   "hours_old": 8.8
+  },
+  {
+   "source": "Tribune",
+   "title": "CM seeks Chinese tech transfer",
+   "summary": "Support also sought for lifting people out of poverty",
+   "link": "https://tribune.com.pk/story/2626495/cm-seeks-chinese-tech-transfer",
+   "hours_old": 9.7
   },
   {
    "source": "BBC World",
    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
    "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 9.0
+   "hours_old": 10.5
   },
   {
-   "source": "Guardian World",
-   "title": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake",
-   "summary": "<p>Reporting season shows how consumers are responding to cost of living pressures and how retailers are responding</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get ",
-   "link": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
-   "hours_old": 9.2
+   "source": "Tribune",
+   "title": "IHC reopens Pattoki AC death case",
+   "summary": "Orders fresh autopsy; says genuine questions over AC's death remain unanswered",
+   "link": "https://tribune.com.pk/story/2626483/ihc-reopens-pattoki-ac-death-case",
+   "hours_old": 10.5
   },
   {
    "source": "BBC World",
    "title": "Former Ecuadorian president imprisoned for corruption",
    "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
    "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 9.5
+   "hours_old": 10.9
   },
   {
    "source": "BBC World",
    "title": "Norway's new king remembers 'my dear father' in first speech",
    "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
    "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.1
-  },
-  {
-   "source": "Dawn",
-   "title": "Info ministry rejects ‘misleading’ foreign media reports on ‘convicted prisoner’",
-   "summary": "<p>The Ministry of Information and Broadcasting (MOIB) on Saturday rejected what it called “misleading stories” circulated by foreign media outlets about a “convicted prisoner” incarcerated in Pakistan.</p>\n<p>The statement came after CNN anchor Becky Anderson interviewed Zulfi Bukhari, a former aide to PTI founder Imran Khan, on television. Anderson later posted the ministry’s statement on her X ",
-   "link": "https://www.dawn.com/news/2025992/info-ministry-rejects-misleading-foreign-media-reports-on-convicted-prisoner",
-   "hours_old": 10.6
+   "hours_old": 11.6
   },
   {
    "source": "Tribune",
    "title": "PM vows no mercy for 'negligent' PIMS officials",
    "summary": "Orders action against executive director, 7 others, announces Rs10m, Sitara-e-Khidmat for 'brave' nurse",
    "link": "https://tribune.com.pk/story/2626469/pm-vows-no-mercy-for-negligent-pims-officials",
-   "hours_old": 10.6
+   "hours_old": 12.0
   },
   {
    "source": "Tribune",
    "title": "Gul Plaza fire probe leaves blame unresolved",
    "summary": "78-page judicial commission report blames multiple factors for deadly blaze",
    "link": "https://tribune.com.pk/story/2626470/gul-plaza-fire-probe-leaves-blame-unresolved",
-   "hours_old": 10.6
+   "hours_old": 12.0
   },
   {
    "source": "Tribune",
    "title": "Fuel hikes outweigh cuts under daily pricing",
    "summary": "Petrol up Rs25.87, diesel Rs17.09 since daily pricing began",
    "link": "https://tribune.com.pk/story/2626472/fuel-hikes-outweigh-cuts-under-daily-pricing",
-   "hours_old": 10.6
+   "hours_old": 12.0
   },
   {
    "source": "BBC World",
    "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
    "summary": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
    "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.7
-  },
-  {
-   "source": "Dawn",
-   "title": "Lawrence's fifty leaves Pakistan facing record chase to level England series",
-   "summary": "<p>Dan Lawrence’s unbeaten fifty on Saturday left Pakistan needing to rewrite the record books in their quest for a series-levelling win against England in the second Test at Lord’s.</p>\n<p>Only 24.5 overs were possible on a third day cut short by several rain delays and finally finished off by bad light despite the floodlights shining under increasingly sunny skies.</p>\n<p>But England still reach",
-   "link": "https://www.dawn.com/news/2025972/lawrences-fifty-leaves-pakistan-facing-record-chase-to-level-england-series",
-   "hours_old": 10.8
+   "hours_old": 12.2
   },
   {
    "source": "Dawn",
    "title": "Pims fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
    "summary": "<p>Prime Minister Shehbaz Sharif on Saturday ordered the suspension of eight officials, including the executive director (ED) of the Pakistan Institute of Medical Sciences (Pims), and directed that criminal proceedings be initiated against them over a fire at the hospital that claimed the <a href=\"https://www.dawn.com/news/2025385\">lives of 14 infants</a>.</p>\n<p>According to a statement issued by",
    "link": "https://www.dawn.com/news/2025962/pims-fire-pm-shehbaz-orders-suspension-criminal-action-against-8-officials-as-inquiry-panel-submits-interim-report",
-   "hours_old": 10.9
+   "hours_old": 12.3
   },
   {
    "source": "BBC World",
    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
    "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 11.4
+   "hours_old": 12.8
   },
   {
    "source": "Tribune",
    "title": "Kundi questions Centre's K-P priorities",
    "summary": "Governor says province denied fiscal and water shares",
    "link": "https://tribune.com.pk/story/2626462/kundi-questions-centres-k-p-priorities",
-   "hours_old": 11.9
+   "hours_old": 13.4
   },
   {
    "source": "Tribune",
    "title": "SC cautions CCP on penalty use",
    "summary": "Says competition advocacy should prevent anti-competitive conduct",
    "link": "https://tribune.com.pk/story/2626466/sc-cautions-ccp-on-penalty-use",
-   "hours_old": 11.9
+   "hours_old": 13.4
   },
   {
    "source": "Guardian World",
    "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
    "summary": "<p>Three vessels and a helicopter deployed to monitor four ships travelling through the North Sea to the Channel</p><p>The Royal Navy spent three days tracking Russian vessels as they passed through UK waters, it has emerged.</p><p>The “intense” 72-hour operation took place last week, with radars used to monitor four ships that made their way from the North Sea through to the Channel.</p> <a href=",
    "link": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
-   "hours_old": 14.1
-  },
-  {
-   "source": "Dawn",
-   "title": "Govt apologises for ‘temporary’ night-time loadshedding due to unavailability of RLNG",
-   "summary": "<p>The government on Saturday apologised to consumers for electricity loadshedding during the night, attributing it to the unavailability of regasified liquefied natural gas (RLNG), and assured them that load management would be reduced “as soon as” the delayed RLNG cargoes arrived.</p>\n<p>In a statement, the Power Division spokesperson said temporary load management of 1.5 to three hours had been",
-   "link": "https://www.dawn.com/news/2025978/govt-apologises-for-temporary-night-time-loadshedding-due-to-unavailability-of-rlng",
-   "hours_old": 14.6
-  },
-  {
-   "source": "BBC World",
-   "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-   "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
-   "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 15.3
+   "hours_old": 15.6
   },
   {
    "source": "Guardian World",
    "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
    "summary": "<p>Ukrainian prosecutors open investigation into why munitions were stored so close to residential buildings</p><p>At least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs that was storing “explosive objects”.</p><p>The attack damaged at least 50 residential buildings, including a care home for elderly and disabled people, and sparked a huge fire and",
    "link": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
-   "hours_old": 15.7
-  },
-  {
-   "source": "Tribune",
-   "title": "AJK PM Gilani meets Shah Ghulam Qadir to ease party tensions over his nomination",
-   "summary": "Qadir voices displeasure over party favouring Gilani, a junior leader, over seniority and tradition",
-   "link": "https://tribune.com.pk/story/2626415/ajk-pm-gilani-meets-shah-ghulam-qadir-to-ease-party-tensions-over-his-nomination",
-   "hours_old": 16.9
+   "hours_old": 17.1
   },
   {
    "source": "Guardian World",
    "title": "Laurie Anderson’s next manuscript to be locked away for 88 years in Future Library",
    "summary": "<p>Grammy award-winning American artist selected as 13th person to submit written work to Oslo-based project</p><p>The next manuscript by the American artist Laurie Anderson will remain unseen for 88 years, as she becomes the 13th figure to contribute to the Future Library project.</p><p>Anderson joins Margaret Atwood, Han Kang, Ocean Vuong and other prominent authors who have written secret manus",
    "link": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
-   "hours_old": 17.2
-  },
-  {
-   "source": "Tribune",
-   "title": "AJK PM Gilani thanks Nawaz, Maryam for green buses for Muzaffarabad",
-   "summary": "Gilani reviews proposed bus service routes, terminal facilities and operational arrangements",
-   "link": "https://tribune.com.pk/story/2626412/ajk-pm-gilani-thanks-nawaz-maryam-for-green-buses-for-muzaffarabad",
-   "hours_old": 17.6
+   "hours_old": 18.7
   },
   {
    "source": "Tribune",
    "title": "Info ministry urges foreign media to reflect 'documented facts' in reporting on Imran Khan",
    "summary": "Rejects reports of isolation, medical neglect of PTI founder in jail",
    "link": "https://tribune.com.pk/story/2626411/info-ministry-urges-foreign-media-to-reflect-documented-facts-in-reporting-on-imran-khan",
-   "hours_old": 17.7
+   "hours_old": 19.2
   },
   {
    "source": "Tribune",
    "title": "25 Pakistanis released from Indian jails repatriated via Wagah",
    "summary": "Returnees become emotional after crossing into Pakistan through Wagah-Attari border",
    "link": "https://tribune.com.pk/story/2626407/25-pakistanis-released-from-indian-jails-repatriated-via-wagah",
-   "hours_old": 19.0
+   "hours_old": 20.4
   },
   {
    "source": "Guardian World",
    "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
    "summary": "<p>Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over</p><p>In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launch",
    "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
-   "hours_old": 19.2
+   "hours_old": 20.7
   },
   {
    "source": "Tribune",
    "title": "Five Pakistani on-screen pairs producers just can't stop bringing back",
    "summary": "From Humsafar to Jaan-e-Jahan, producers keep writing these duos back into each other's projects",
    "link": "https://tribune.com.pk/story/2626405/five-pakistani-on-screen-pairs-producers-just-cant-stop-bringing-back",
-   "hours_old": 19.3
+   "hours_old": 20.7
   },
   {
    "source": "Tribune",
    "title": "Pakistan High Commission in Singapore hosts special screening of 'The Legend of Maula Jatt'",
    "summary": "Screening was part of celebratory activities marking 60 years of diplomatic relations between Pakistan and Singapore",
    "link": "https://tribune.com.pk/story/2626400/pakistan-high-commission-in-singapore-hosts-special-screening-of-the-legend-of-maula-jatt",
-   "hours_old": 20.2
+   "hours_old": 21.7
   },
   {
    "source": "BBC World",
    "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
    "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
    "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 20.4
+   "hours_old": 21.9
   },
   {
    "source": "BBC World",
    "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
    "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 22.1
-  },
-  {
-   "source": "Tribune",
-   "title": "WAPDA rejects reports of scrapping Diamer Bhasha Dam's power component",
-   "summary": "Authority says Rs1.424tr project approval remains valid, with civil works set to begin by June 2027",
-   "link": "https://tribune.com.pk/story/2626394/wapda-rejects-reports-of-scrapping-diamer-bhasha-dams-power-component",
-   "hours_old": 22.1
+   "hours_old": 23.5
   }
  ],
  "warnings": []
