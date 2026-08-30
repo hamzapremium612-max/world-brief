@@ -56,6 +56,23 @@ on:
     - cron: "30 15 * * *"     #  8:30pm PKT   - lands ~6:00-7:30am if 9.5-11.5h late
   workflow_dispatch:        # so it can be run by hand from the Actions tab
 
+  # THE POINT OF THIS DOOR.
+  # GitHub's SCHEDULER is what is broken, not Actions. A manual Run workflow
+  # executes instantly while cron runs hours late, and the delay is not even
+  # stable - 1.5h on 26 Aug, 11h on 28 Aug, 3.5h on 30 Aug. No schedule can be
+  # tuned against a number that moves eight hours in three days.
+  #
+  # So the Claude routine, which has fired at 8:00am every single day without
+  # exception, pushes .fetch-trigger and then WAITS for items.json to change.
+  # It stops guessing that a fetch already happened and watches for it instead.
+  #
+  # THE PATH FILTER IS NOT OPTIONAL. Without it, EVERY push fires this job -
+  # including this job's own commit of items.json, and the routine's nightly
+  # archive of the brief. That is an endless loop burning Actions minutes.
+  push:
+    paths:
+      - '.fetch-trigger'
+
 permissions:
   contents: write           # it commits items.json back to the repo
 
