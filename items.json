@@ -1,5 +1,5 @@
 {
- "built_at": "2026-08-30T06:41:24.326851+00:00",
+ "built_at": "2026-08-30T06:44:02.269343+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -9,17 +9,17 @@
  "items": [
   {
    "source": "BBC World",
-   "title": "One dead and five injured in Swiss shooting, police say",
+   "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
    "summary": "\"The manhunt for the unknown perpetrator is under way,\" local police said.",
    "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-   "hours_old": 0.2
+   "hours_old": 0.0
   },
   {
    "source": "Guardian World",
    "title": "Renee was at Gyirong Port minutes before flood struck, now her family want to travel from Australia to help search",
    "summary": "<p>Missing woman’s partner and daughters fundraise to join search in one of the hardest-hit areas of Nepal </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a h",
    "link": "https://www.theguardian.com/world/2026/aug/30/renee-gyirong-port-flood-nepal-family-australia-help-search",
-   "hours_old": 0.3
+   "hours_old": 0.4
   },
   {
    "source": "Guardian World",
@@ -40,14 +40,14 @@
    "title": "One Nation’s Secret Harbour byelection win shows Labor is at a loss when it comes to calming angry voters | Analysis",
    "summary": "<p>Even after a week in which Pauline Hanson and One Nation candidates tripped over themselves trying to explain key policies, voters still backed the party</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?",
    "link": "https://www.theguardian.com/australia-news/2026/aug/30/one-nations-secret-harbour-byelection-win-shows-labor-is-at-a-loss-when-it-comes-to-calming-angry-voters",
-   "hours_old": 1.1
+   "hours_old": 1.2
   },
   {
    "source": "Dawn",
    "title": "Nine cops punished for send-off to suspended SHO",
    "summary": "<p>SAHIWAL: District Police Officer (DPO) Usman Tipu suspended nine policemen of the Harappa Police Station after they gave Station House Officer (SHO) Majid Ashfaq a warm sendoff and showered him with rose petals after he was suspended from service by the DPO for faulty investigation, receiving bribes and misuse of authority in a sexual assault case.</p>\n<p>SHO Majid Ashfaq was suspended on Aug 2",
    "link": "https://www.dawn.com/news/2026024/nine-cops-punished-for-send-off-to-suspended-sho",
-   "hours_old": 1.1
+   "hours_old": 1.2
   },
   {
    "source": "Dawn",
@@ -75,21 +75,14 @@
    "title": "Electric vehicle shift lags amid infrastructure gaps",
    "summary": "<p><strong>• PM’s 30pc target stalls as OMCs expand outlets without chargers<br />• Petrol demand stays robust on two-wheeler boom</strong></p>\n<p>KARACHI: The government is considering several options to reduce the <a href=\"https://www.dawn.com/news/2018583\">fuel import</a> bill, the latest being the upgrade of refineries at an estimated cost of $6 billion. Earlier efforts to reduce petrol import",
    "link": "https://www.dawn.com/news/2026075/electric-vehicle-shift-lags-amid-infrastructure-gaps",
-   "hours_old": 2.2
+   "hours_old": 2.3
   },
   {
    "source": "Dawn",
    "title": "PTA tells telcos to enforce uniform SIM policy",
    "summary": "<p>ISLAMABAD: The telecom sector regulator has directed all three telcos to implement a uniform policy on SIM expiry and recharge amounts, after finding that two telcos were not complying with the prescribed terms and conditions.</p>\n<p>A senior Pakistan Telecommunication Authority (PTA) official said consumers had lodged complaints against Zong and Telenor Pakistan, which has now been acquired by",
    "link": "https://www.dawn.com/news/2026073/pta-tells-telcos-to-enforce-uniform-sim-policy",
-   "hours_old": 2.5
-  },
-  {
-   "source": "BBC World",
-   "title": "Iceland EU referendum on a knife edge as counting continues",
-   "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
-   "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 2.7
+   "hours_old": 2.6
   },
   {
    "source": "BBC World",
@@ -97,6 +90,13 @@
    "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
    "hours_old": 2.7
+  },
+  {
+   "source": "BBC World",
+   "title": "Iceland EU referendum on a knife edge as counting continues",
+   "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
+   "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 2.8
   },
   {
    "source": "Dawn",
@@ -159,7 +159,7 @@
    "title": "Families balance hope and despair in race to find survivors in Nepal as 41 Australians still missing",
    "summary": "<p>The walls of a teaching hospital are filled with pictures of unidentified victims as authorities collect DNA samples and plan burials before morgues fill up</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb\">Follow our Australia news live blo",
    "link": "https://www.theguardian.com/world/2026/aug/30/families-balance-hope-and-despair-in-race-to-find-survivors-in-nepal-as-australians-still-missing",
-   "hours_old": 6.2
+   "hours_old": 6.3
   },
   {
    "source": "BBC World",
@@ -208,7 +208,7 @@
    "title": "Former Ecuadorian president imprisoned for corruption",
    "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
    "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.9
+   "hours_old": 11.0
   },
   {
    "source": "BBC World",
@@ -222,21 +222,21 @@
    "title": "PM vows no mercy for 'negligent' PIMS officials",
    "summary": "Orders action against executive director, 7 others, announces Rs10m, Sitara-e-Khidmat for 'brave' nurse",
    "link": "https://tribune.com.pk/story/2626469/pm-vows-no-mercy-for-negligent-pims-officials",
-   "hours_old": 12.0
+   "hours_old": 12.1
   },
   {
    "source": "Tribune",
    "title": "Gul Plaza fire probe leaves blame unresolved",
    "summary": "78-page judicial commission report blames multiple factors for deadly blaze",
    "link": "https://tribune.com.pk/story/2626470/gul-plaza-fire-probe-leaves-blame-unresolved",
-   "hours_old": 12.0
+   "hours_old": 12.1
   },
   {
    "source": "Tribune",
    "title": "Fuel hikes outweigh cuts under daily pricing",
    "summary": "Petrol up Rs25.87, diesel Rs17.09 since daily pricing began",
    "link": "https://tribune.com.pk/story/2626472/fuel-hikes-outweigh-cuts-under-daily-pricing",
-   "hours_old": 12.0
+   "hours_old": 12.1
   },
   {
    "source": "BBC World",
@@ -257,7 +257,7 @@
    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
    "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.8
+   "hours_old": 12.9
   },
   {
    "source": "Tribune",
@@ -285,7 +285,7 @@
    "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
    "summary": "<p>Ukrainian prosecutors open investigation into why munitions were stored so close to residential buildings</p><p>At least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs that was storing “explosive objects”.</p><p>The attack damaged at least 50 residential buildings, including a care home for elderly and disabled people, and sparked a huge fire and",
    "link": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
-   "hours_old": 17.1
+   "hours_old": 17.2
   },
   {
    "source": "Guardian World",
@@ -306,7 +306,7 @@
    "title": "25 Pakistanis released from Indian jails repatriated via Wagah",
    "summary": "Returnees become emotional after crossing into Pakistan through Wagah-Attari border",
    "link": "https://tribune.com.pk/story/2626407/25-pakistanis-released-from-indian-jails-repatriated-via-wagah",
-   "hours_old": 20.4
+   "hours_old": 20.5
   },
   {
    "source": "Guardian World",
