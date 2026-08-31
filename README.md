@@ -4,27 +4,86 @@ A daily world-and-Pakistan-affairs brief, built from live RSS feeds. Every
 factual claim links to the article it came from. Every historical parallel is
 marked as interpretation and carries no source, because it doesn't have one.
 
-Runs on **two rented machines a day**, neither of which is a laptop:
+Runs on **two rented machines a day**, neither of which is a laptop. All times
+Karachi (PKT):
 
 ```
-07:30  GITHUB ACTIONS          can reach the open internet
-       python fetch.py         BBC, Guardian, Dawn, Tribune
-       commit items.json       leaves it in the repo
+8:00am  A CLAUDE CLOUD ROUTINE   cannot reach the open internet
+        pushes .fetch-trigger ───┐  it starts the fetch ITSELF
+                                 │
+8:00am  GITHUB ACTIONS      ◀────┘  can reach the open internet
+        python fetch.py             BBC, Guardian, Dawn, Tribune
+        commit items.json           answered in ~30 seconds
 
-08:00  A CLAUDE CLOUD ROUTINE  cannot reach the open internet
-       reads items.json        groups, writes, judges precedent
-       python render.py        validates and renders
-       emails it
+8:01am  THE ROUTINE, still waiting
+        reads items.json            one minute old
+        groups, writes, judges precedent
+        python render.py            validates and renders
+        emails it
+        commits briefs/<date>-brief.html   AFTER the send, never before
 ```
 
-**Why two.** Anthropic's sandbox blocks outbound connections to arbitrary
-hosts — a first attempt returned zero items from all four feeds with a `403`
-on every `CONNECT`. GitHub's runners have open network access but no
+**Why two machines.** Anthropic's sandbox blocks outbound connections to
+arbitrary hosts — a first attempt returned zero items from all four feeds with
+a `403` on every `CONNECT`. GitHub's runners have open network access but no
 judgment. So the fetching happens where the network is, the thinking happens
 where the model is, and **the repo is the desk they share**.
 
 `items.json` is therefore **committed on purpose**. It is not a working file;
 it is the handoff.
+
+## Why the routine starts the fetch instead of GitHub's schedule
+
+**Because GitHub's scheduler broke, and a schedule cannot be tuned against a
+number that will not hold still.**
+
+```
+21–26 Aug    cron ~1.5 hours late     absorbed. Briefs arrived.
+27 Aug       9h29 and 9h53 late       missed
+28 Aug      11h04 and 11h28 late      missed
+29–30 Aug    3 to 5 hours late        missed
+```
+
+**Four deliveries lost in four days.** Each morning the routine woke at 8:00,
+looked once at a file GitHub had not written yet, correctly refused to send
+yesterday's news as today's, and emailed a failure notice.
+
+**The first fix failed, and failed usefully.** Two extra crons were scheduled
+the *previous evening* so an 11-hour delay would land them before the read.
+The delay then moved to 3–5 hours and landed in a gap between the sample
+points that had been checked — 0, 1.5, 9.5, 11.5 and 16 hours were verified;
+the range between them was not. That failure is what proved the delay is a
+**variable, not a constant**, which kills every "just schedule it earlier"
+idea at once.
+
+**What is actually broken is narrower than it looked.** Measured on this repo,
+minutes apart, on 30 Aug:
+
+```
+push-triggered run     16 SECONDS
+cron-triggered run     3 to 11 HOURS
+```
+
+GitHub deprioritises `schedule` specifically. Everything else fires at once.
+
+So the routine — which has fired at 8:00am every single day without
+exception — pushes `.fetch-trigger`, and the workflow listens for that path.
+First morning live, 31 Aug: trigger at 8:03:51, `items.json` at 8:04, brief
+delivered and archived by 8:10. **Seven minutes, unattended.**
+
+> **The deeper change is not a better clock. It is a WAIT instead of a GUESS.**
+> A fetch landing at 8:05 used to produce nothing, because the routine looked
+> once at 8:03 and left. Now it stands there watching, so being a few minutes
+> late costs nothing.
+
+**The path filter is not optional.** An unfiltered `on: push` fires on the
+fetch job's own `items.json` commit and on the nightly brief archive — an
+endless loop. Only `.fetch-trigger` starts a fetch.
+
+**The crons remain as a backup**, and if GitHub ever recovers they simply mean
+the data is already fresh when the routine wakes. If `STEP 0` fails, nothing
+new breaks: `render.py` refuses, the failure notice goes out, and that is
+exactly the behaviour that existed before this step.
 
 ## The split, and why it exists
 
@@ -75,11 +134,14 @@ printed on the page.
 
 ## The staleness guard at the handoff
 
-Two machines half an hour apart is a new way for the newsletter bug to come
-back. If the fetch job fails or runs late, the second machine finds
-**yesterday's `items.json` sitting there looking perfectly valid** — and a
-brief dated today containing yesterday's news is not a partial success, it is
-a lie.
+Two machines handing a file between them is a new way for the newsletter bug
+to come back. If the fetch job fails, the second machine finds **yesterday's
+`items.json` sitting there looking perfectly valid** — and a brief dated today
+containing yesterday's news is not a partial success, it is a lie.
+
+This guard is why four days of a broken GitHub scheduler cost four briefs
+rather than four days of silently stale ones. **It fired correctly every
+single time.** The bug was never here.
 
 So `render.py` checks the file's own `built_at` and **refuses**, rather than
 warning:
