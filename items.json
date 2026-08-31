@@ -1,5 +1,5 @@
 {
- "built_at": "2026-08-31T05:22:23.535200+00:00",
+ "built_at": "2026-08-31T07:03:53.920880+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -8,31 +8,24 @@
  ],
  "items": [
   {
-   "source": "Guardian World",
-   "title": "Australia news live: NSW won’t appeal ruling that found anti-Israel vandalism was not antisemitic; body of newborn baby found in bin in Sydney",
-   "summary": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian government is working with Russian officials in a bid to se",
-   "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-   "hours_old": 0.2
-  },
-  {
-   "source": "Guardian World",
-   "title": "Victorian prisoners to be sent out to repair roads under Labor’s pothole plan",
-   "summary": "<p>Inmates would take over ‘basic’ road maintenance duties, allowing skilled crews to focus on fixing 500,000 potholes</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan",
-   "hours_old": 0.3
-  },
-  {
-   "source": "Guardian World",
-   "title": "Embattled Sydney property developer Bathla warns it could fold by the end of the week",
-   "summary": "<p>Administrators said it would be forced to close the business if it failed to secure additional funding, revealing hundreds of staff have not been paid for weeks</p><p>The administrators of embattled property developer Bathla Group have said the company will fold by the end of the week unless they can secure additional funding to keep it afloat.</p><p>The insolvency advisory Teneo assumed contro",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
-   "hours_old": 0.3
+   "source": "Dawn",
+   "title": "England captain Joe Root shrugs off concerns over lbw run after Pakistan Test series win",
+   "summary": "<p>England captain Joe Root is confident of working his way through a dip in form that has seen him trapped lbw nine times in his last 12 innings, and says his record of more than 14,000 Test runs proves he knows how to navigate difficult spells.</p>\n<p>England’s leading Test run-scorer with 14,208 runs, second only to India’s Sachin Tendulkar (15,921) on the all-time list, has passed 50 only twic",
+   "link": "https://www.dawn.com/news/2026366/england-captain-joe-root-shrugs-off-concerns-over-lbw-run-after-pakistan-test-series-win",
+   "hours_old": 0.0
   },
   {
    "source": "BBC World",
    "title": "US and Iran trade strikes for first time in weeks",
    "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+   "hours_old": 0.3
+  },
+  {
+   "source": "Guardian World",
+   "title": "Australians missing in Nepal targeted by ‘heartbreaking’ and ‘abhorrent’ racist slurs",
+   "summary": "<p>As families await news after the catastrophe, community members appeal for compassion in the face of hateful rhetoric</p><p>A slew of racist social media comments have been made towards Australians missing in the <a href=\"https://www.theguardian.com/world/nepal-tibet-flood-disaster\">catastrophic Nepal-Tibet floods</a>, prompting calls for greater accountability of major platforms to remove hate",
+   "link": "https://www.theguardian.com/australia-news/2026/aug/31/australians-missing-in-nepal-targeted-by-heartbreaking-and-abhorrent-racist-slurs",
    "hours_old": 0.5
   },
   {
@@ -40,111 +33,160 @@
    "title": "Iran targets US military in Jordan, UAE after American attack on Larak Island in latest flare-up",
    "summary": "<p>Iran said on Monday it attacked US military targets in Jordan and the United Arab Emirates (UAE) in retaliation for the first American strikes on its territory in a month, marking a fresh flare-up in the six-month war.</p>\n<p>Tehran’s Revolutionary Guards (IRGC) said they struck two US military air bases with ballistic missiles in Washington-allied Jordan, causing “heavy damage”. Jordan’s army ",
    "link": "https://www.dawn.com/news/2026311/iran-targets-us-military-in-jordan-uae-after-american-attack-on-larak-island-in-latest-flare-up",
-   "hours_old": 0.5
+   "hours_old": 0.6
+  },
+  {
+   "source": "Dawn",
+   "title": "High-rises sealed, 3 Islamabad hospitals fined over fire safety violations",
+   "summary": "<p>ISLAMABAD: Following the recent tragic incident at the Pakistan Institute of Medical Sciences (Pims), where <a href=\"https://www.dawn.com/news/2025385\">14 newborn babies died</a> in a fire, the Capital Development Authority (CDA) has intensified enforcement of fire and life safety regulations across Islamabad, sealing several high-rise buildings and partially sealing two hotels in Blue Area whi",
+   "link": "https://www.dawn.com/news/2026201/high-rises-sealed-3-islamabad-hospitals-fined-over-fire-safety-violations",
+   "hours_old": 1.0
+  },
+  {
+   "source": "Guardian World",
+   "title": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics",
+   "summary": "<p>The long-running drama reaches Hitler’s rise to power in its final season as its creators reflect on the unsettling parallels between Weimar Germany and the present day</p><p>It’s the global hit TV series that pulled audiences straight into the chaotic hedonism of 1920s Germany, dramatising the brilliance and brittleness of a newly built democratic system with unprecedented ambition.</p><p>But ",
+   "link": "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics",
+   "hours_old": 1.1
+  },
+  {
+   "source": "Guardian World",
+   "title": "Icac lawyer tells Charles Perrottet the key to lying is ‘you have to be really good at remembering it’",
+   "summary": "<p>Perrottet disagrees when counsel assisting Peggy Dwyer SC claims brother of former NSW premier is not truthful and ‘constructing evidence’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li>",
+   "link": "https://www.theguardian.com/australia-news/2026/aug/31/icac-charles-perrottet-lawyer-ntwnfb",
+   "hours_old": 1.2
+  },
+  {
+   "source": "Guardian World",
+   "title": "Newborn baby’s body found in Sydney rubbish bin as police hold ‘serious concerns’ for mother",
+   "summary": "<p>Police urge mother to attend hospital after baby’s body discovered in Harrow Road in Auburn</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian",
+   "link": "https://www.theguardian.com/australia-news/2026/aug/31/baby-body-found-garbage-rubbish-bin-harrow-road-auburn-sydney-ntwnfb",
+   "hours_old": 1.3
+  },
+  {
+   "source": "Dawn",
+   "title": "2 terrorists killed during intelligence-based operation in Balochistan’s Washuk: state media",
+   "summary": "<p>Two terrorists were killed during an intelligence-based operation (IBO) in Balochistan’s Washuk district, state-run <em>PTV</em> reported on Monday, citing security sources.</p>\n<p>In a post on the social media platform X, the state broadcaster said the IBO was conducted in the Palantak area of Washuk as part of the ongoing Operation Radul Fitna against <em>Fitna al Hindustan</em>.</p>\n<p>The s",
+   "link": "https://www.dawn.com/news/2026353/2-terrorists-killed-during-intelligence-based-operation-in-balochistans-washuk-state-media",
+   "hours_old": 1.7
+  },
+  {
+   "source": "Guardian World",
+   "title": "Australia news live: Body of newborn baby found in Sydney bin as police concerned for mother’s welfare",
+   "summary": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian government is working with Russian officials in a bid to se",
+   "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+   "hours_old": 1.9
+  },
+  {
+   "source": "Guardian World",
+   "title": "Victorian prisoners to be sent out to repair roads under Labor’s pothole plan",
+   "summary": "<p>Inmates would take over ‘basic’ road maintenance duties, allowing skilled crews to focus on fixing 500,000 potholes</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=",
+   "link": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan",
+   "hours_old": 1.9
   },
   {
    "source": "Dawn",
    "title": "PM Shehbaz to embark on three-day visit to Kyrgyzstan today for SCO summit",
    "summary": "<p>Prime Minister Shehbaz Sharif will undertake a three-day official visit to the Kyrgyz Republic from Aug 31 to Sept 2 at the invitation of President Sadyr Nurgozhoevich Zhaparov to attend the Shanghai Cooperation Organisation (SCO) Council of Heads of State meeting, the Foreign Office (FO) said in a statement.</p>\n<p>“The visit will include participation in the SCO Council of Heads of State meet",
    "link": "https://www.dawn.com/news/2026350/pm-shehbaz-to-embark-on-three-day-visit-to-kyrgyzstan-today-for-sco-summit",
-   "hours_old": 0.7
-  },
-  {
-   "source": "Dawn",
-   "title": "High-rises sealed, three Islamabad hospitals fined over fire safety violations",
-   "summary": "<p>ISLAMABAD: Following the recent tragic incident at the Pakistan Institute of Medical Sciences (Pims), where <a href=\"https://www.dawn.com/news/2025385\">14 newborn babies died</a> in a fire, the Capital Development Authority (CDA) has intensified enforcement of fire and life safety regulations across Islamabad, sealing several high-rise buildings and partially sealing two hotels in Blue Area whi",
-   "link": "https://www.dawn.com/news/2026201/high-rises-sealed-three-islamabad-hospitals-fined-over-fire-safety-violations",
-   "hours_old": 0.7
+   "hours_old": 2.4
   },
   {
    "source": "BBC World",
    "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
    "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
    "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 1.4
-  },
-  {
-   "source": "Guardian World",
-   "title": "Man who murdered Molly Ticehurst will not face life in jail, judge says",
-   "summary": "<p>Justice Natalie Adams says she is troubled by expert evidence about rape allegations in slain woman’s police statement</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a hr",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
-   "hours_old": 1.4
+   "hours_old": 3.1
   },
   {
    "source": "Guardian World",
    "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
    "summary": "<p>As Russia hits another ammunition warehouse, killing at least 38, locals put blame on poorly placed depots</p><p>It is a day and a half since a Russian jet-powered drone <a href=\"https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37\">smashed into an ammunition dump in Myla</a>, a village 15 miles outside central Kyiv. Volodymyr, 61, a security guard,",
    "link": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
-   "hours_old": 1.4
+   "hours_old": 3.1
   },
   {
    "source": "Guardian World",
    "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
    "summary": "<p>Will the UK ever rejoin the EU? Who is funding Andy Burnham? And will the bedroom tax be scrapped? In a special episode, Kiran Stacey and Peter Walker answer some of your questions</p><p>Please keep sending your comments and questions to Pippa and Kiran at <a href=\"mailto:politicsweeklyuk@theguardian.com\">politicsweeklyuk@theguardian.com</a></p> <a href=\"https://www.theguardian.com/politics/aud",
    "link": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
-   "hours_old": 1.4
+   "hours_old": 3.1
   },
   {
    "source": "Dawn",
    "title": "Google Maps renames Lake Ontario ‘Lake America’ in US — but not Canada",
    "summary": "<p>WASHINGTON: Google redesignated Lake Ontario as “Lake America” on maps seen by US users on Sunday after President Donald Trump <a href=\"https://www.dawn.com/news/2025548\">announced</a> he was renaming the body of water, with a Canadian official slamming the cross-border tensions as “absolutely backwards.”</p>\n<p>People in Canada will still see Lake Ontario, the Indigenous-rooted name used for t",
    "link": "https://www.dawn.com/news/2026245/google-maps-renames-lake-ontario-lake-america-in-us-but-not-canada",
-   "hours_old": 1.5
+   "hours_old": 3.2
   },
   {
    "source": "Dawn",
    "title": "‘Chinese firm interested in Punjab’s IT sector’",
    "summary": "<p>LAHORE: Chief Minister Maryam Nawaz, during her <a href=\"https://www.dawn.com/news/2025310\">visit </a>to China, had a meeting with high-level delegation of leading Chinese technology company Alibaba Cloud, which expressed a keen interest in Punjab’s IT sector.</p>\n<p>As per a press release on Sunday, the Alibaba Cloud officials appreciated Punjab’s AI-based governance initiatives.</p>\n<p>The me",
    "link": "https://www.dawn.com/news/2026217/chinese-firm-interested-in-punjabs-it-sector",
-   "hours_old": 1.6
+   "hours_old": 3.3
   },
   {
    "source": "Dawn",
    "title": "Gul Plaza fire commission blames no single entity or person directly",
    "summary": "<p>KARACHI: Deploring the failure to transform available resources into effective and coordinated firefighting and rescue efforts, the Gul Plaza Judicial Commission in its report says that the <a href=\"https://www.dawn.com/news/1967582/three-dead-in-gul-plaza-blaze\">deadly inferno</a> has signified a systemic failure across successive provincial and local governments as the legal and administrativ",
    "link": "https://www.dawn.com/news/2026275/gul-plaza-fire-commission-blames-no-single-entity-or-person-directly",
-   "hours_old": 2.2
+   "hours_old": 3.9
   },
   {
    "source": "Dawn",
    "title": "Punjab moves to prevent Pims-like tragedies",
    "summary": "<p>• Orders Rescue 1122 deployment at all teaching hospitals across the province<br />• 11-member working group to prepare SOPs for nursery, neonatology units</p>\n<p>LAHORE: The Punjab government has initiated multiple major steps at public-sector hospitals across the province to prevent a recurrence of the incident that <a href=\"https://www.dawn.com/news/2025385\">clai­med the lives of 14 infants ",
    "link": "https://www.dawn.com/news/2026257/punjab-moves-to-prevent-pims-like-tragedies",
-   "hours_old": 2.4
+   "hours_old": 4.1
   },
   {
    "source": "Dawn",
    "title": "Nasa launches new telescope to map cosmos",
    "summary": "<figure class=\"media  w-1/2 sm:w-3/5  media--center    media--uneven  media--stretch\">\n        <div class=\"media__item  \"><img alt=\"   SPACEX launches Roman on a Falcon Heavy rocket from Nasa&rsquo;s Kennedy Space Centre in Florida.&mdash;X/SpaceX   \" src=\"https://i.dawn.com/large/2026/08/31042827cc61fd9.webp\" /></div>\n        <figcaption class=\"media__caption  \">SPACEX launches Roman on a Falcon ",
    "link": "https://www.dawn.com/news/2026258/nasa-launches-new-telescope-to-map-cosmos",
-   "hours_old": 2.6
+   "hours_old": 4.3
   },
   {
    "source": "Dawn",
    "title": "Central Development Working Party clears five projects worth over Rs60 billion",
    "summary": "<p>• Plans include Gwadar water scheme, Karachi neighbourhood project, Gilgit medical college, NDU campus and Orakzai road<br />\n• Study on wastewater treatment in Gwadar ordered to prevent sewage from polluting sea           </p>\n\n<p>ISLAMABAD: The Central Development Working Party (CDWP) has cleared five development projects involving an estimated cost of over Rs60 billion, including a multi-bil",
    "link": "https://www.dawn.com/news/2026262/central-development-working-party-clears-five-projects-worth-over-rs60-billion",
-   "hours_old": 2.8
+   "hours_old": 4.5
   },
   {
    "source": "Dawn",
    "title": "Health minister opposes ‘permanent’ staff in public sector hospitals",
    "summary": "<p>• Mustafa Kamal says not minister’s job to manage a hospital; says elected mayor or his team should be looking after Pims affairs<br />• Suggests bringing in CEO from private sector; all hirings on contract, performance-basis<br />• New Pims ED takes charge, vows to prioritise patient safety</p>\n<p>ISLAMABAD: Days after a<a href=\"https://www.dawn.com/news/2025385\"> tragic fire </a>at the Pakist",
    "link": "https://www.dawn.com/news/2026266/health-minister-opposes-permanent-staff-in-public-sector-hospitals",
-   "hours_old": 2.9
+   "hours_old": 4.6
+  },
+  {
+   "source": "Tribune",
+   "title": "Oil jumps more than 2% after US attack on Iran's Larak island",
+   "summary": "Brent crude climbed $2.51 to $90.61 a barrel as of 0741 PKT; US WTI crude up $2.13 to $85.53",
+   "link": "https://tribune.com.pk/story/2626680/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island",
+   "hours_old": 5.7
+  },
+  {
+   "source": "Tribune",
+   "title": "Two terrorists killed in Balochistan's Washuk IBO: state media",
+   "summary": "Slain terrorists were involved in Mashkhel police station, Customs House attacks",
+   "link": "https://tribune.com.pk/story/2626678/two-terrorists-killed-in-balochistans-washuk-ibo-state-media",
+   "hours_old": 6.7
+  },
+  {
+   "source": "Tribune",
+   "title": "Iran’s Pezeshkian says Tehran ‘not looking for war’ after US attack on Larak Island",
+   "summary": "Says Tehran 'will give decisive response' if attacked, warns regional instability will challenge all countries",
+   "link": "https://tribune.com.pk/story/2626677/irans-pezeshkian-says-tehran-not-looking-for-war-after-us-attack-on-larak-island",
+   "hours_old": 7.1
   },
   {
    "source": "BBC World",
    "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
    "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-   "hours_old": 5.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Funeral of Norway's late King Harald set for Sept 9",
-   "summary": ".",
-   "link": "https://tribune.com.pk/story/2626669/funeral-of-norways-late-king-harald-set-for-sept-9",
    "hours_old": 7.2
   },
   {
@@ -152,188 +194,146 @@
    "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
    "summary": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
    "link": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 8.7
-  },
-  {
-   "source": "Guardian World",
-   "title": "‘Sad day in Australian sport’: tributes flow for trailblazing boxing great Tony Mundine",
-   "summary": "<p>Fellow boxers, sporting figures, politicians and celebrities have paid tribute to the champion boxer and community leader, who died aged 75</p><ul><li><p><em><strong>Warning:</strong> Aboriginal and Torres Strait Islander readers are advised that this article contains images and names of Indigenous Australians who have died</em></p></li><li><p><a href=\"https://www.theguardian.com/australia-news",
-   "link": "https://www.theguardian.com/sport/2026/aug/31/australian-boxing-great-tony-mundine-dies-aged-75-ntwnfb",
-   "hours_old": 9.0
+   "hours_old": 10.4
   },
   {
    "source": "Tribune",
-   "title": "Manhunt in Switzerland after rave shooting",
+   "title": "PTI seeks withdrawal of cases against Imran, Bushra",
    "summary": ".",
-   "link": "https://tribune.com.pk/story/2626637/manhunt-in-switzerland-after-rave-shooting",
-   "hours_old": 9.8
+   "link": "https://tribune.com.pk/story/2626639/pti-seeks-withdrawal-of-cases-against-imran-bushra",
+   "hours_old": 11.5
   },
   {
    "source": "Tribune",
-   "title": "Iceland votes 'no' to resuming EU talks",
-   "summary": "A total of 52.8% of Icelanders rejected membership negotiations suspended 13 years ago",
-   "link": "https://tribune.com.pk/story/2626636/iceland-votes-no-to-resuming-eu-talks",
-   "hours_old": 9.8
-  },
-  {
-   "source": "Tribune",
-   "title": "Russia plans 'massive strikes' on Ukraine",
-   "summary": ".",
-   "link": "https://tribune.com.pk/story/2626635/russia-plans-massive-strikes-on-ukraine",
-   "hours_old": 9.8
+   "title": "800 dead in Nepal-Tibet floods, 3,000 missing",
+   "summary": "Red Cross has estimated that more than 90,000 people are likely to have been affected by the disaster",
+   "link": "https://tribune.com.pk/story/2626638/800-dead-in-nepal-tibet-floods-3000-missing",
+   "hours_old": 11.5
   },
   {
    "source": "Guardian World",
    "title": "Captain and crew arrested after at least eight die in northern Cyprus ferry disaster – as it happened",
    "summary": "<p>An estimated 237 people have been rescued but 18 are missing after accident off the coast of northern Cyprus</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus\">Fatalities after ferry carrying nearly 270 capsizes off northern Cyprus</a></p></li></ul><p>Republican Turkish party MP Sami Ozuslu told the Guardian late on Sunday that the death toll ha",
    "link": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
-   "hours_old": 10.1
+   "hours_old": 11.8
   },
   {
    "source": "Guardian World",
    "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
    "summary": "<p>Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> and <a href=\"https://www.theguardian.com/world/canada\">Canada</a> continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario, with the Ontario premier erecting a",
    "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-   "hours_old": 10.4
+   "hours_old": 12.1
   },
   {
    "source": "BBC World",
    "title": "'A giant leap forward': Nasa launches powerful new space telescope",
    "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
    "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.5
+   "hours_old": 12.2
   },
   {
    "source": "Tribune",
    "title": "Istanbul huddle sets Makkah pact in motion",
    "summary": "Trilateral committee meets in Turkiye today\n  Military chiefs, ministers to discuss defence coordination\n  Talks to",
    "link": "https://tribune.com.pk/story/2626628/istanbul-huddle-sets-makkah-pact-in-motion",
-   "hours_old": 10.5
+   "hours_old": 12.2
   },
   {
-   "source": "Dawn",
-   "title": "Islamabad, Riyadh agree to boost Pakistani agri and food exports to $3bn",
-   "summary": "<p>Islamabad and Riyadh have agreed to boost Pakistani agricultural and food exports to Saudi Arabia up to $3 billion, the countries said in a joint statement on Sunday.</p>\n<p>The statement, shared by the Prime Minister’s Office (PMO), said the agreement was reached after “successful” talks between Saudi Arabia’s agriculture ministry and Pakistan’s food security ministry, at the initiative of PM ",
-   "link": "https://www.dawn.com/news/2026165/islamabad-riyadh-agree-to-boost-pakistani-agri-and-food-exports-to-3bn",
-   "hours_old": 10.7
+   "source": "Tribune",
+   "title": "Pakistan, Saudi Arabia set $3b food export target",
+   "summary": "Rice and red meat lead priority areas for trade expansion",
+   "link": "https://tribune.com.pk/story/2626631/pakistan-saudi-arabia-set-3b-food-export-target",
+   "hours_old": 12.2
   },
   {
-   "source": "Dawn",
-   "title": "Pakistan, Saudi Arabia, Turkiye to hold first meeting under Makkah pact in Istanbul on Monday",
-   "summary": "<p>Pakistan, Saudi Arabia and Turkiye will hold their first meeting under the Makkah Joint Defence Agreement in Istanbul on Monday, the Foreign Office (FO) confirmed.</p>\n<p>In a statement, FO said the “inaugural meeting of the Strategic Political and Defence Committee established under the Makkah Joint Defence Agreement (Makkah Accord)” will be held in the Turkish capital.</p>\n<p>Pakistan will be",
-   "link": "https://www.dawn.com/news/2026140/pakistan-saudi-arabia-turkiye-to-hold-first-meeting-under-makkah-pact-in-istanbul-on-monday",
-   "hours_old": 10.9
+   "source": "Tribune",
+   "title": "Nawaz shares 100-day uplift plan with AJK PM",
+   "summary": "PML-N leadership urges Gillani to follow Punjab's development model",
+   "link": "https://tribune.com.pk/story/2626630/nawaz-shares-100-day-uplift-plan-with-ajk-pm",
+   "hours_old": 12.2
+  },
+  {
+   "source": "Tribune",
+   "title": "PDMA issues GLOF alert for upper K-P",
+   "summary": "Warns of increased risk of sudden flooding following hot weather, intermittent rainfall expected from Aug 31-Sept 4",
+   "link": "https://tribune.com.pk/story/2626627/pdma-issues-glof-alert-for-upper-k-p",
+   "hours_old": 12.2
   },
   {
    "source": "BBC World",
    "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
    "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
    "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-   "hours_old": 11.5
+   "hours_old": 13.2
   },
   {
    "source": "BBC World",
    "title": "Zambian opposition leader charged with treason",
    "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
    "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.3
+   "hours_old": 14.0
   },
   {
    "source": "BBC World",
    "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
    "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
    "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.6
+   "hours_old": 14.3
   },
   {
    "source": "Tribune",
    "title": "Catastrophe bond for Pakistan",
    "summary": "WB-supported bond can absorb fiscal shocks caused by climate disasters",
    "link": "https://tribune.com.pk/story/2626607/catastrophe-bond-for-pakistan",
-   "hours_old": 12.7
+   "hours_old": 14.4
   },
   {
    "source": "Tribune",
    "title": "Preparing youth for AI-disrupted job market",
    "summary": "Adding AI course to old curriculum is not same as reforming education for AI economy",
    "link": "https://tribune.com.pk/story/2626612/preparing-youth-for-ai-disrupted-job-market",
-   "hours_old": 12.7
-  },
-  {
-   "source": "Tribune",
-   "title": "Financialisation of households",
-   "summary": "Individuals take different types of loans to meet essential needs, which increases import bill",
-   "link": "https://tribune.com.pk/story/2626609/financialisation-of-households",
-   "hours_old": 12.7
-  },
-  {
-   "source": "Tribune",
-   "title": "Agricultural tax failure is political, not policy",
-   "summary": "First-year unified regime shows enforcement is the real challenge, not design",
-   "link": "https://tribune.com.pk/story/2626608/agricultural-tax-failure-is-political-not-policy",
-   "hours_old": 12.7
+   "hours_old": 14.4
   },
   {
    "source": "BBC World",
    "title": "Russia says it helped to repel Niger attempted coup",
    "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
    "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.8
+   "hours_old": 14.5
   },
   {
    "source": "BBC World",
    "title": "Iceland votes against restarting EU membership talks",
    "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 13.2
+   "hours_old": 14.9
   },
   {
    "source": "BBC World",
    "title": "British woman killed in stabbing at German railway station",
    "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
    "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-   "hours_old": 13.2
+   "hours_old": 14.9
   },
   {
    "source": "Guardian World",
    "title": "Jason Arday accuser given three-month teaching ban but can continue research",
    "summary": "<p>Nathan Cofnas told by Ghent University to work remotely as US ambassador claims credit for lifting of suspension </p><p>Prof Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent University campus for three months but has been allowed to continue his research position.</p><p>Cofnas, an American academic, was <a href=\"https://www.theguardian.com/uk-news/2026/aug/20/academic-",
    "link": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
-   "hours_old": 13.8
+   "hours_old": 15.5
   },
   {
    "source": "Guardian World",
    "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
    "summary": "<p>Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country</p><p>Venezuela’s interim president, Delcy Rodríguez, has defended her government’s <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement\">highly controversial energy deal</a> with Donald Trump, insisting the South American country will maintain ow",
    "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
-   "hours_old": 14.2
-  },
-  {
-   "source": "Tribune",
-   "title": "Pakistan, Saudi Arabia, Turkiye to hold first defence pact meeting in Istanbul on Monday",
-   "summary": "FO says DPM Dar, Defence Minister Khawaja Asif, and CDF Munir to represent Pakistan at Makkah Accord meeting",
-   "link": "https://tribune.com.pk/story/2626548/pakistan-saudi-arabia-turkiye-to-hold-first-defence-pact-meeting-in-istanbul-on-monday",
-   "hours_old": 20.2
+   "hours_old": 15.9
   },
   {
    "source": "Tribune",
    "title": "Pakistan, Saudi Arabia aim to boost agricultural, food exports to $3 billion",
    "summary": "Joint statement says rice, red meat, fruits and water-efficient agricultural technologies identified as priority areas",
    "link": "https://tribune.com.pk/story/2626543/pakistan-saudi-arabia-aim-to-boost-agricultural-food-exports-to-3-billion",
-   "hours_old": 21.7
-  },
-  {
-   "source": "Tribune",
-   "title": "PML-N leadership urges prioritising healthcare, education, infrastructure in meeting with new AJK PM Gilani",
-   "summary": "Nawaz Sharif shares a 100-day reform plan with the AJK PM targeting public sector",
-   "link": "https://tribune.com.pk/story/2626542/pml-n-leadership-urges-prioritising-healthcare-education-infrastructure-in-meeting-with-new-ajk-pm",
-   "hours_old": 23.0
-  },
-  {
-   "source": "Guardian World",
-   "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-   "summary": "<p>More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts</p><p>Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour i",
-   "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
    "hours_old": 23.4
   }
  ],
