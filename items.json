@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-02T04:20:12.313415+00:00",
+ "built_at": "2026-09-02T05:52:21.156751+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -9,247 +9,296 @@
  "items": [
   {
    "source": "Dawn",
+   "title": "Planning minister calls stunting a 'national development challenge'",
+   "summary": "<p>A two-day international conference, ‘Act For Nutrition: The Emergency We Can No Longer Ignore’, is being held at Islamabad’s Serena Hotel on Pakistan’s persistent nutrition and stunting crisis.</p>\n<p>With more than 40 per cent of children under five stunted, a maternal mortality rate of 155 deaths per 100,000 live births, and malnutrition costing Pakistan upwards of $17 billion annually, the c",
+   "link": "https://www.dawn.com/news/2026823/planning-minister-calls-stunting-a-national-development-challenge",
+   "hours_old": 0.1
+  },
+  {
+   "source": "Guardian World",
+   "title": "Japan halves speed limit to 30km/h on all narrow city streets",
+   "summary": "<p>Speed limit dropped from 60km/h for around 70% of general roads in the hope of making narrow streets of crowded cities safer</p><p>Drivers on residential roads in <a href=\"https://www.theguardian.com/world/japan\">Japan</a> have been forced to take their foot off the accelerator, after the speed limit was slashed from 60km/h (37mph) to 30km/h in an attempt to reduce deaths and injuries among ped",
+   "link": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
+   "hours_old": 0.6
+  },
+  {
+   "source": "Guardian World",
+   "title": "Australia news live: Jim Chalmers hails ‘resilient’ economy but expert says national accounts show ’too little growth and too much inflation’",
+   "summary": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Ride share driver charged on allegations of committing sexual acts",
+   "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
+   "hours_old": 0.6
+  },
+  {
+   "source": "BBC World",
+   "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+   "summary": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+   "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 0.7
+  },
+  {
+   "source": "BBC World",
+   "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
+   "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+   "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 0.8
+  },
+  {
+   "source": "Guardian World",
+   "title": "Jury in Bruce Lehrmann’s Queensland rape trial may face questions about prior knowledge of case",
+   "summary": "<p>Lehrmann is accused of raping a woman in 2021 and will stand trial in Toowoomba in November. He intends to contest the charges</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news po",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/02/bruce-lehrmann-queensland-rape-trial-jury-prior-knowledge-ntwnfb",
+   "hours_old": 0.8
+  },
+  {
+   "source": "Guardian World",
+   "title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
+   "summary": "<p>Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China </p><p><a href=\"https://www.theguardian.com/profile/joshua-wong\">Joshua Wong</a>, one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and China, a national security charge that carries a",
+   "link": "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
+   "hours_old": 0.9
+  },
+  {
+   "source": "BBC World",
+   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+   "summary": "Wong, 29, is already in prison on subversion charges under the controversial National Security Law.",
+   "link": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 1.4
+  },
+  {
+   "source": "BBC World",
+   "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+   "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 1.5
+  },
+  {
+   "source": "Dawn",
    "title": "Iran targets American assets in Middle East after vowing 'severe' consequences for fresh wave of US strikes",
    "summary": "<p>Iran pushed ahead with strikes targeting American interests around the Middle East on Wednesday after vowing “severe” consequences to a <a href=\"https://www.dawn.com/news/2026803\">fresh wave of US attacks</a>.</p>\n<p>The latest flare-up is part of a cycle of retaliation that followed US strikes on Iran, with fighting over the Hormuz strait expanding to Washington’s Gulf allies, military bases a",
    "link": "https://www.dawn.com/news/2026830/iran-targets-american-assets-in-middle-east-after-vowing-severe-consequences-for-fresh-wave-of-us-strikes",
-   "hours_old": 0.1
+   "hours_old": 1.6
   },
   {
    "source": "Guardian World",
    "title": "USS Abraham Lincoln arrives at Thai port after gruelling 270 days at sea",
    "summary": "<p>Ship has been plagued by reports of deteriorating living conditions and poor mental health because of lengthy deployment</p><p>The USS Abraham Lincoln, an US aircraft carrier at the centre of a row over conditions on board after months at sea as part of Donald Trump’s war against Iran, has arrived off a Thai port.</p><p>Reports of <a href=\"https://www.theguardian.com/us-news/2026/aug/17/trump-u",
    "link": "https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincoln-arrives-thailand-after-270-days-at-sea",
-   "hours_old": 0.3
+   "hours_old": 1.9
   },
   {
-   "source": "Guardian World",
-   "title": "Global heating will hit at least 1.8C, UN warns, and there are ‘no good outcomes’",
-   "summary": "<p>Human health, water supplies, nature, cities, infrastructure and economies could all be severely damaged by temperature rises</p><p>Global heating will reach at least 1.8C under even the most optimistic future, well beyond the Paris agreement goal of 1.5C, according to a UN report that warns every fraction of temperature rise intensifies destructive extreme weather, glacier melt, ecosystem loss",
-   "link": "https://www.theguardian.com/environment/2026/sep/02/global-heating-warming-1-8c-best-case-scenario-un-united-nations-environment-programme-report",
-   "hours_old": 0.3
-  },
-  {
-   "source": "Guardian World",
-   "title": "News live: Australians splurging on EVs and not travelling overseas, ABS data shows; economy grows by 2.1% in year to June",
-   "summary": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Ride share driver charged on allegations of committing sexual acts",
-   "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-   "hours_old": 0.5
+   "source": "Dawn",
+   "title": "E-challans for littering in Lahore markets",
+   "summary": "<p>LAHORE: The Suthra Punjab Authority (SPA) on Tuesday launched an e-challan system to penalise littering at public places in Lahore, whereas burning tyres and waste will be dealt very strictly with fines up to Rs500,000 with imprisonment.</p>\n<p>“It is a pilot project limited to the Lahore metropolitan city’s 200 commercial markets and major roads, including The Mall, Jail Road and Ferozepur Roa",
+   "link": "https://www.dawn.com/news/2026764/e-challans-for-littering-in-lahore-markets",
+   "hours_old": 2.1
   },
   {
    "source": "Dawn",
    "title": "Sexual crimes against women, kids: 80pc of offenders are people known to victims, says Punjab IGP",
    "summary": "<p>LAHORE: Punjab Inspector General of Police (IGP) Abdul Kareem has said that immediate action is being taken to curb sexual crimes against women and children on the chief minister’s directives and that 80 per cent of such crimes are committed by the relatives or people known to the victims.</p>\n<p>The IGP said this at a ‘Meet the Press’ programme organised by the Lahore Press Club here on Tuesda",
    "link": "https://www.dawn.com/news/2026759/sexual-crimes-against-women-kids-80pc-of-offenders-are-people-known-to-victims-says-punjab-igp",
-   "hours_old": 0.5
-  },
-  {
-   "source": "BBC World",
-   "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-   "summary": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
-   "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 1.0
+   "hours_old": 2.1
   },
   {
    "source": "Dawn",
    "title": "IT minister showcases digital transformation in Riyadh",
    "summary": "<figure class=\"media  w-full sm:w-full  media--center    media--uneven  media--stretch\">\n        <div class=\"media__item  \"><img alt=\" IT Minister Shaza Fatima Khawaja meets Abdullah bin Sharaf Alghamdi, president of the Saudi Data and AI Authority.&mdash;APP \" src=\"https://i.dawn.com/large/2026/09/020243069236421.webp\" /></div>\n        <figcaption class=\"media__caption  \">IT Minister Shaza Fatima",
    "link": "https://www.dawn.com/news/2026740/it-minister-showcases-digital-transformation-in-riyadh",
-   "hours_old": 1.2
+   "hours_old": 2.7
   },
   {
    "source": "Dawn",
    "title": "Aaqib Javed defends Pakistan’s mid-series shake-up, says team failed to compete in England",
    "summary": "<p>KARACHI: National selector Aaqib Javed on Tuesday defended the Pakistan Cricket Board’s (PCB) controversial <a href=\"https://www.dawn.com/news/2026659\">mid-series shake-up</a>, saying the team’s inability to compete in the first two Tests against England had forced the selectors to change the combination and “mindset” for the final match of the series.</p>\n<p>The PCB’s <a href=\"https://www.dawn",
    "link": "https://www.dawn.com/news/2026783/aaqib-javed-defends-pakistans-mid-series-shake-up-says-team-failed-to-compete-in-england",
-   "hours_old": 1.3
+   "hours_old": 2.8
   },
   {
    "source": "Dawn",
    "title": "Xi visits Egypt as US sanctions threat looms over Iran links",
    "summary": "<p>BEIJING: Chinese Pres­ident Xi Jinping arrived in Egypt on Tuesday evening, making a rare trip to the Middle East as both countries face the threat of US sanctions over financial links to Iran.</p>\n<p>The <a href=\"https://www.dawn.com/live/iran-israel-war\">months-long Middle East war,</a> which began when the United States and Israel jointly launched strikes against Iran on February 28, has thr",
    "link": "https://www.dawn.com/news/2026790/xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links",
-   "hours_old": 1.4
+   "hours_old": 3.0
+  },
+  {
+   "source": "BBC World",
+   "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
+   "summary": "The USS Lincoln is docking close to Pattaya, known for its raucous nightlife, and for sex tourism.",
+   "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 3.2
   },
   {
    "source": "Dawn",
    "title": "Govt told to renegotiate IMF terms",
    "summary": "<p>ISLAMABAD: Pakistan will phase out Export Processing Zones (EPZs) and Special Economic Zones (SEZs) nationwide by 2035, under the <a href=\"https://www.dawn.com/news/1998860\">IMF’s Extended Fund Facility</a> conditionality, to bring all sectors under a uniform tax regime, a parliamentary committee was told on Tuesday.</p>\n<p>The subcommittee of the Senate Standing Committee on Finance and Revenu",
    "link": "https://www.dawn.com/news/2026750/govt-told-to-renegotiate-imf-terms",
-   "hours_old": 1.9
+   "hours_old": 3.4
   },
   {
    "source": "Dawn",
    "title": "Shanghai Cooperation Organisation names Lahore as its ‘Tourism and Cultural capital’",
    "summary": "<p>BISHKEK: The city of Lahore has been named the Tourism and Cultural Capital for 2026-27 by the Shanghai Cooperation Organisation (SCO).</p>\n<p>The decision was anno­unced at the 26th meeting of the SCO Council of Heads of State in the Kyr­gyz capital, which was<a href=\"https://www.dawn.com/news/2026583/pm-shehbaz-says-water-lifeblood-of-region-must-never-be-weaponised\"> att­e­nded </a>by PM She",
    "link": "https://www.dawn.com/news/2026806/shanghai-cooperation-organisation-names-lahore-as-its-tourism-and-cultural-capital",
-   "hours_old": 1.9
+   "hours_old": 3.4
   },
   {
    "source": "Dawn",
    "title": "Pakistan launches dual-tranche Eurobond offering",
    "summary": "<p>ISLAMABAD: Pakistan on Tuesday launched the process for a US dollar-denominated benchmark dual-tranche Eurobond offering with five-year and 10-year tenors, as the government seeks to deepen its return to international capital markets following recent sovereign rating upgrades.</p>\n<p>Adviser to the Finance Minister Khurram Schehzad said in a post on X that the proposed transaction was subject t",
    "link": "https://www.dawn.com/news/2026805/pakistan-launches-dual-tranche-eurobond-offering",
-   "hours_old": 2.0
+   "hours_old": 3.6
+  },
+  {
+   "source": "BBC World",
+   "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+   "summary": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+   "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 3.9
   },
   {
    "source": "BBC World",
    "title": "Germany says Russia behind Leipzig airport drone attack",
    "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 2.3
+   "hours_old": 3.9
   },
   {
-   "source": "Guardian World",
-   "title": "Relief as five Australians missing in Nepal-Tibet flood disaster found alive",
-   "summary": "<p>Several missing Australians have been found since Tuesday morning, bringing the total citizens unaccounted for to 38</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-australians-missing-list-names-what-we-know-so-far-ntwnfb\">Australians missing in the Nepal floods: what we know so far</a></p></li></ul><p>A total of five Australians missing after devastatin",
-   "link": "https://www.theguardian.com/world/2026/sep/01/missing-australian-found-alive-nepal-tibet-floods",
-   "hours_old": 2.4
-  },
-  {
-   "source": "Guardian World",
-   "title": "More than a third of prenatal reports to NSW protective services not investigated, ombudsman finds",
-   "summary": "<p>Other families have been unlawfully compelled to be case-managed without consent, watchdog finds</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb\">Follow our Australia news live blog for latest updates</a></p",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/02/nsw-unborn-children-prenatal-caseworker-ombudsman-ntwnfb",
+   "source": "BBC World",
+   "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+   "summary": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
+   "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
    "hours_old": 4.3
+  },
+  {
+   "source": "BBC World",
+   "title": "Tiger Woods to change plea after crash arrest",
+   "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
+   "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+   "hours_old": 5.4
+  },
+  {
+   "source": "Tribune",
+   "title": "11 people in Iran killed as US and Iran exchange strikes",
+   "summary": "7 killed, 8 injured in US strikes on Iran’s Khuzestan province",
+   "link": "https://tribune.com.pk/story/2627042/11-people-in-iran-killed-as-us-and-iran-exchange-strikes",
+   "hours_old": 5.7
+  },
+  {
+   "source": "Tribune",
+   "title": "K-P developing grid, transmission system",
+   "summary": "Afridi urges fair share of hydrocarbon resources",
+   "link": "https://tribune.com.pk/story/2627040/k-p-developing-grid-transmission-system",
+   "hours_old": 7.0
+  },
+  {
+   "source": "Tribune",
+   "title": "Sariab-Kuchlak railway project completed",
+   "summary": "Project was completed through cooperation between Pakistan Railways and the Government of Balochistan",
+   "link": "https://tribune.com.pk/story/2627039/sariab-kuchlak-railway-project-completed",
+   "hours_old": 7.0
+  },
+  {
+   "source": "Tribune",
+   "title": "PA seeks social media curbs for under-16s",
+   "summary": "House calls for stronger child protection measures, religious education opportunities in jails",
+   "link": "https://tribune.com.pk/story/2627032/pa-seeks-social-media-curbs-for-under-16s",
+   "hours_old": 7.5
   },
   {
    "source": "BBC World",
    "title": "Ariana Grande completes tour and steps back from public life",
    "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
    "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 6.7
-  },
-  {
-   "source": "BBC World",
-   "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-   "summary": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
-   "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 7.9
-  },
-  {
-   "source": "BBC World",
-   "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-   "summary": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
-   "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
    "hours_old": 8.2
   },
   {
-   "source": "Dawn",
-   "title": "Afghan-origin doctor, policeman among eight held; meth worth Rs900m seized",
-   "summary": "<p>KARACHI: A police task force on narcotics in Karachi, in collaboration with a federal civilian intelligence agency, carried out an intelligence-based raid on a warehouse in Mehran Town, Korangi, on Tuesday, arresting eight members of an alleged “international narcotics network” and recovering 50kg of crystal meth, also known as ice, worth Rs900 million.</p>\n<p>Speaking at a press conference, We",
-   "link": "https://www.dawn.com/news/2026679/afghan-origin-doctor-policeman-among-eight-held-meth-worth-rs900m-seized",
-   "hours_old": 9.2
+   "source": "Tribune",
+   "title": "Brawl over a chair at SAU leaves nine injured",
+   "summary": "Baton-wielding men allegedly forced their way into the town's rural health centre, partially ransacked the facility",
+   "link": "https://tribune.com.pk/story/2627028/brawl-over-a-chair-at-sau-leaves-nine-injured",
+   "hours_old": 8.2
   },
   {
-   "source": "Dawn",
-   "title": "PM Shehbaz says water ‘lifeblood’ of region, must never be weaponised",
-   "summary": "<p>Prime Minister Shehbaz Sharif on Tuesday said water was the “lifeblood” of the region and must never be weaponised, as he addressed a summit of the Shanghai Cooperation Organisation (SCO) in Kyrgyzstan.</p>\n<p>Speaking at the SCO Council of Heads of States (CHS) meeting in the Kyrgyz capital Bishkek, the premier said the region cannot “realise its full potential without lasting peace”.</p>\n<p>W",
-   "link": "https://www.dawn.com/news/2026583/pm-shehbaz-says-water-lifeblood-of-region-must-never-be-weaponised",
-   "hours_old": 9.3
+   "source": "Tribune",
+   "title": "Record family cases filed as courts reopen",
+   "summary": "Rawalpindi's family courts receive 214 new cases on the first day after summer recess",
+   "link": "https://tribune.com.pk/story/2627020/record-family-cases-filed-as-courts-reopen",
+   "hours_old": 8.7
+  },
+  {
+   "source": "Tribune",
+   "title": "Ahsan Iqbal proposes 15 new provinces",
+   "summary": "Minister says existing two-tier system has failed to improve social indicators",
+   "link": "https://tribune.com.pk/story/2627006/ahsan-iqbal-proposes-15-new-provinces",
+   "hours_old": 9.9
+  },
+  {
+   "source": "Tribune",
+   "title": "NEPRA orders K-Electric to end load-shedding",
+   "summary": "Very-high-loss feeders, serving about 1.18m consumers, record average daily outages of 12 hours, 14 minutes",
+   "link": "https://tribune.com.pk/story/2627009/nepra-orders-k-electric-to-end-load-shedding",
+   "hours_old": 9.9
+  },
+  {
+   "source": "Tribune",
+   "title": "GLOF risk rises amid heavy rains in north",
+   "summary": "NDMA warns of floods, landslides as glaciers melt",
+   "link": "https://tribune.com.pk/story/2626993/glof-risk-rises-amid-heavy-rains-in-north",
+   "hours_old": 11.1
+  },
+  {
+   "source": "Tribune",
+   "title": "Imran's sister to file contempt petition against PM",
+   "summary": "Uzma alleges govt functionaries deliberately violated SC's Aug 18 order",
+   "link": "https://tribune.com.pk/story/2627001/imrans-sister-to-file-contempt-petition-against-pm",
+   "hours_old": 11.1
   },
   {
    "source": "Dawn",
    "title": "Govt raises petrol price by Rs1.08, high-speed diesel by Rs0.51",
    "summary": "<p>The government on Tuesday raised the price of petrol by Rs1.08 per litre and that of high-speed diesel (HSD) by Rs0.51 per litre.</p>\n<p>Following the revision, petrol will retail at Rs343.87 per litre while HSD will cost Rs370.92 per litre. The government continues to levy Rs114 per litre in taxes and duties on petrol and Rs100 per litre on diesel.</p>\n<p>According to the Petroleum Division’s ",
    "link": "https://www.dawn.com/news/2026676/govt-raises-petrol-price-by-rs108-high-speed-diesel-by-rs051",
-   "hours_old": 10.0
-  },
-  {
-   "source": "BBC World",
-   "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-   "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
-   "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.2
-  },
-  {
-   "source": "Tribune",
-   "title": "Fuel, wheat push inflation to 11.2%",
-   "summary": "CPI back in double-digit as cost-recovery policy elevates pressure on households",
-   "link": "https://tribune.com.pk/story/2626979/fuel-wheat-push-inflation-to-112",
    "hours_old": 11.5
-  },
-  {
-   "source": "BBC World",
-   "title": "Pistol in a lake gives hope for French cold case",
-   "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
-   "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 11.8
   },
   {
    "source": "BBC World",
    "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
    "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
    "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.1
-  },
-  {
-   "source": "BBC World",
-   "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
-   "summary": "The EFCC boss says more than five of the dismissed officials are already facing prosecution.",
-   "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.4
+   "hours_old": 13.7
   },
   {
    "source": "Guardian World",
    "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
    "summary": "<p>Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insults</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>Mark Carney has rebuked Donald Trump’s administration and urge",
    "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-   "hours_old": 12.5
+   "hours_old": 14.1
   },
   {
    "source": "BBC World",
    "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
    "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
    "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.8
-  },
-  {
-   "source": "BBC World",
-   "title": "France targets Shein and Temu with fast fashion fees",
-   "summary": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
-   "hours_old": 13.1
+   "hours_old": 14.3
   },
   {
    "source": "Dawn",
    "title": "5 security personnel among 6 martyred in Balochistan Customs House attack, 21 terrorists killed across province: ISPR",
    "summary": "<p>Five security personnel, including two officers, and a Customs official were martyred during a “coordinated attack in an attempt to breach the Customs House” on the night of August 31-September 1 in Balochistan, the military’s media wing said.</p>\n<p>In a statement issued on Tuesday, Inter-Services Public Relations (ISPR) said that on the night of Aug 31-Sept 1, during multiple incidents in Nok",
    "link": "https://www.dawn.com/news/2026635/5-security-personnel-among-6-martyred-in-balochistan-customs-house-attack-21-terrorists-killed-across-province-ispr",
-   "hours_old": 13.3
+   "hours_old": 14.8
   },
   {
    "source": "Guardian World",
    "title": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
    "summary": "<p>Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’</p><p>A pioneering online mapping app that defied <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> by refusing to <a href=\"https://www.theguardian.com/us-news/2026/aug/30/trump-lake-america-ontario\">rename</a> Lake Ontario has become the most in-demand naviga",
    "link": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
-   "hours_old": 14.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Fact check: Viral video doesn't show recent 'Free Imran Khan' billboard in US; it's old from Oct 2025",
-   "summary": "The video is as old as Jan 2026 at least",
-   "link": "https://tribune.com.pk/story/2626941/fact-check-viral-video-doesnt-show-recent-free-imran-khan-billboard-in-us-its-old-from-oct-2025",
-   "hours_old": 15.4
+   "hours_old": 16.0
   },
   {
    "source": "Guardian World",
    "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
    "summary": "<p>Claims that Trump and Rubio are trying to influence result have parallels with CIA intervention 64 years ago</p><p>The year was 1962 and the Kennedy administration was desperate to swing Brazil’s congressional elections against its leftwing president, João Goulart, as a way of countering the supposed communist threat sweeping a region the US considered its back yard.</p><p>Historians say that i",
    "link": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
-   "hours_old": 16.3
-  },
-  {
-   "source": "Tribune",
-   "title": "Govt approaches JI for talks over petroleum prices, levy as party demands ‘complete package’",
-   "summary": "Jamaat-e-Islami says government negotiating team must present a ‘complete package’ before formal talks can begin",
-   "link": "https://tribune.com.pk/story/2626931/govt-approaches-ji-for-talks-over-petroleum-prices-levy-as-party-demands-complete-package",
-   "hours_old": 16.8
-  },
-  {
-   "source": "Tribune",
-   "title": "Himalayas face severe glacial flood risks in years ahead, UN official warns",
-   "summary": "Researchers found 47 dangerous glacial lakes in Nepal, China and India in 2020; the number is now much higher",
-   "link": "https://tribune.com.pk/story/2626923/himalayas-face-severe-glacial-flood-risks-in-years-ahead-un-official-warns",
    "hours_old": 17.9
   },
   {
@@ -257,91 +306,42 @@
    "title": "Amna Ilyas says online critics have 'given men a licence' to control women",
    "summary": "Zhalay Sarhadi also calls out 'misogynists' targeting women online, saying their words can reinforce harmful attitudes",
    "link": "https://tribune.com.pk/story/2626922/amna-ilyas-says-online-critics-have-given-men-a-licence-to-control-women",
-   "hours_old": 18.1
-  },
-  {
-   "source": "Tribune",
-   "title": "Heavy rain, landslides feared across northern areas: NDMA",
-   "summary": "Weather can trigger landslides and urban flooding, tourists and travellers advised to avoid unnecessary travel",
-   "link": "https://tribune.com.pk/story/2626919/heavy-rain-landslides-feared-across-northern-areas-ndma",
-   "hours_old": 18.3
+   "hours_old": 19.6
   },
   {
    "source": "Tribune",
    "title": "Duane 'Keffe D' Davis found guilty in Tupac Shakur murder",
    "summary": "A Las Vegas jury found 63-year-old Duane 'Keffe D' Davis guilty of murder in the long-unsolved 1996 shooting",
    "link": "https://tribune.com.pk/story/2626915/duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder",
-   "hours_old": 19.1
-  },
-  {
-   "source": "Tribune",
-   "title": "SCO leaders adopt Bishkek Declaration to expand cooperation on security, trade and technology",
-   "summary": "Pakistan takes over chairmanship, to host next meeting of the SCO Council of Heads of State in 2027",
-   "link": "https://tribune.com.pk/story/2626913/sco-leaders-adopt-bishkek-declaration-to-expand-cooperation-on-security-trade-and-technology",
-   "hours_old": 19.4
-  },
-  {
-   "source": "Tribune",
-   "title": "Swineryy joins 'Pakkay Dost' season 4 as Mobi",
-   "summary": "Content creator opens up about overcoming imposter syndrome and discovering challenges of puppeteering, singing",
-   "link": "https://tribune.com.pk/story/2626911/swineryy-joins-pakkay-dost-season-4-as-mobi",
-   "hours_old": 19.7
+   "hours_old": 20.6
   },
   {
    "source": "Guardian World",
    "title": "Trump suggests he is reviewing US support for UK over Falkland Islands",
    "summary": "<p>Comments signal president prepared to use dispute to push UK to raise defence spending and Nato contributions</p><p>Donald Trump has suggested he is reconsidering US support for Britain’s sovereignty over the Falkland Islands, in a move likely to strain the “special relationship” between Washington and London.</p><p>“I always review every position – that’s just one of many,” the US president to",
    "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
-   "hours_old": 19.8
+   "hours_old": 21.3
   },
   {
    "source": "Guardian World",
    "title": "Thai resort prepares to host USS Abraham Lincoln sailors after more than 270 days at sea",
    "summary": "<p>Security stepped up in Pattaya before arrival of thousands of sailors and marines whose deployment was extended due to US war in Iran</p><p>Authorities in the Thai resort city of Pattaya have stepped up security as they prepare to welcome thousands of sailors and marines from the USS Abraham Lincoln who have spent <a href=\"https://www.theguardian.com/us-news/2026/aug/12/uss-abraham-lincoln-over",
    "link": "https://www.theguardian.com/world/2026/sep/01/thailand-pattaya-uss-abraham-lincoln-sailors-marines",
-   "hours_old": 19.8
-  },
-  {
-   "source": "Tribune",
-   "title": "6 personnel martyred in Balochistan Customs House attack, 21 terrorists killed across province: ISPR",
-   "summary": "Operations were conducted in Nokcha, Chagai district and Ziarat Cross, Pishin district, on Monday night",
-   "link": "https://tribune.com.pk/story/2626907/6-personnel-martyred-in-balochistan-customs-house-attack-21-terrorists-killed-across-province-ispr",
-   "hours_old": 20.3
+   "hours_old": 21.4
   },
   {
    "source": "Guardian World",
    "title": "Canada’s ruling Liberals sweep byelections in boost to Mark Carney",
    "summary": "<p>Three projected victories are a message to US that Carney has support of the Canadian people, says one MP</p><p>Canada’s ruling Liberal party has swept three byelections, a result that showed voters backing the prime minister, Mark Carney, after his face-off <a href=\"https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-natur",
    "link": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
-   "hours_old": 20.6
+   "hours_old": 22.2
   },
   {
    "source": "Guardian World",
    "title": "Shein shares slide on fast-fashion retailer’s stock market debut",
    "summary": "<p>Hong Kong flotation at $26bn by firm once valued at $100bn follows failure to list in US and UK</p><p>Shares in the fast-fashion brand Shein slumped by as much as 10% as the China-founded company made its <a href=\"https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut\">long-anticipated trading debut</a> on the Hong Kong stock exchange.</p><p>T",
    "link": "https://www.theguardian.com/business/2026/sep/01/shein-shares-slide-fast-fashion-retailer-stock-market-debut-hong-kong",
-   "hours_old": 21.1
-  },
-  {
-   "source": "Tribune",
-   "title": "Student cleared after driverless car collides with police vehicle at Islamabad’s D-Chowk",
-   "summary": "Inventor says a technical mistake caused the car to turn left instead of right and into the path of the police vehicle",
-   "link": "https://tribune.com.pk/story/2626901/student-cleared-after-driverless-car-collides-with-police-vehicle-at-islamabads-d-chowk",
-   "hours_old": 21.9
-  },
-  {
-   "source": "Tribune",
-   "title": "Iranian president criticises UN response to Israeli actions in Gaza, Lebanon",
-   "summary": "Pezeshkian says if US returns to MoU commitments, Iran will immediately reciprocate",
-   "link": "https://tribune.com.pk/story/2626897/iranian-president-criticizes-un-response-to-israeli-actions-in-gaza-lebanon",
-   "hours_old": 22.3
-  },
-  {
-   "source": "BBC World",
-   "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-   "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-   "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-   "hours_old": 23.3
+   "hours_old": 22.7
   }
  ],
  "warnings": []
