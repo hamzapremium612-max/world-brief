@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-06T03:04:08.024734+00:00",
+ "built_at": "2026-09-06T04:26:25.585227+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -8,340 +8,340 @@
  ],
  "items": [
   {
+   "source": "Guardian World",
+   "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
+   "summary": "<p>Anika Wells expected to release legislation creating a digital duty of care in parliament this week, but Coalition argues it is ‘attempt to censor the internet’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
+   "hours_old": 0.3
+  },
+  {
+   "source": "Dawn",
+   "title": "Cloudburst-induced floods disrupt life in Gilgit-Baltistan's Ghizer, Hunza",
+   "summary": "<figure class=\"media  w-full sm:w-4/5  media--center    media--uneven  media--stretch\">\n        <div class=\"media__item  \"><img alt=\"  Karakoram Highway being cleared in Murtazaabad, Hunza.&mdash;Photo by the writer  \" src=\"https://i.dawn.com/large/2026/09/06031846dde8db0.webp\" /></div>\n        <figcaption class=\"media__caption  \">Karakoram Highway being cleared in Murtazaabad, Hunza.—Photo by the",
+   "link": "https://www.dawn.com/news/2027786/cloudburst-induced-floods-disrupt-life-in-gilgit-baltistans-ghizer-hunza",
+   "hours_old": 0.3
+  },
+  {
+   "source": "Guardian World",
+   "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
+   "summary": "<p>Serhii Beskrestnov says deadlock on frontline and increasing use of deep strikes is placing civilians and infrastructure at greater risk</p><p>Russia and Ukraine are locked in an escalating war of long-range strikes with a growing risk to civilians in which neither side can entirely prevail, according to Volodymyr Zelenskyy’s defence technology adviser.</p><p>Serhii Beskrestnov, widely known by",
+   "link": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+   "hours_old": 0.4
+  },
+  {
+   "source": "Guardian World",
+   "title": "Australia news live: up to 6,000 tradies to get free qualifications under Labor scheme",
+   "summary": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Duniam targets ‘frivolous’ asylum seeker claims</strong></p><p>The o",
+   "link": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+   "hours_old": 0.5
+  },
+  {
+   "source": "Dawn",
+   "title": "PM, president highlight Pakistan's growing role in regional security as nation observes Defence Day",
+   "summary": "<p>Prime Minister Shehbaz Sharif and President Asif Zardari highlighted Pakistan’s growing role in regional security on Sunday as the nation observed on 61st Defence and Martyrs’ Day.</p>\n<p>The day began with thirty-one gun salute in Islamabad and twenty-one gun salute at provincial capitals, state broadcaster <a class=\"link--external\" href=\"https://www.radio.gov.pk/06-09-2026/defence-and-martyrs",
+   "link": "https://www.dawn.com/news/2027870/pm-president-highlight-pakistans-growing-role-in-regional-security-as-nation-observes-defence-day",
+   "hours_old": 0.5
+  },
+  {
+   "source": "Dawn",
+   "title": "Punjab faces threats thru tri-border area, says Maryam",
+   "summary": "<p>• Says AI incorporated into province’s security system; sees 70pc drop in crime<br />• Opposition slams CM’s remarks, seeks apology</p>\n<p>LAHORE: Punjab Chief Minister Maryam Nawaz has claimed security situation has improved considerably with the use of technology, yet the province faced a greater security threat coming through its provincial borders.</p>\n<p>Speaking at an AI technology event ",
+   "link": "https://www.dawn.com/news/2027834/punjab-faces-threats-thru-tri-border-area-says-maryam",
+   "hours_old": 0.9
+  },
+  {
+   "source": "Dawn",
+   "title": "JI, govt set to hold talks tomorrow amid protests",
+   "summary": "<p>• Party warns of nationwide wheel-jam strike if demands face delays; says protests will continue alongside negotiations<br />• Hafiz Naeem claims demonstrations forced cuts in power, fuel prices; announces 50 million-signature campaign for economic relief</p>\n<p>ISLAMABAD: Formal negotiations between the government and Jamaat-i-Islami will begin on Monday, the party’s chief announced on Saturda",
+   "link": "https://www.dawn.com/news/2027789/ji-govt-set-to-hold-talks-tomorrow-amid-protests",
+   "hours_old": 0.9
+  },
+  {
    "source": "Dawn",
    "title": "Fire safety drills become mandatory for house officers",
    "summary": "<p>ISLAMABAD: After the Aug 26 incident at the Pakistan Institute of Medical Sciences (Pims) in which 14 newborn babies <a href=\"https://www.dawn.com/news/2025385\">died</a> amid a fire eruption, the Pakistan Medical and Dental Council (PMDC) has decided to implement a training programme for house officers in all medical and dental colleges.</p>\n<p>The programme aims to raise fire safety awareness ",
    "link": "https://www.dawn.com/news/2027798/fire-safety-drills-become-mandatory-for-house-officers",
-   "hours_old": 0.0
+   "hours_old": 1.4
   },
   {
    "source": "Dawn",
    "title": "Eight AJK ministers allocated portfolios",
    "summary": "<p>MUZAFFARABAD: Azad Jammu and Kashmir (AJK) Prime Minister Iftikhar Gillani allocated portfolios to his eight-member council of ministers on Saturday, a day after the relatively small cabinet was <a href=\"https://www.dawn.com/news/2027628/ajk-premier-unveils-eight-member-cabinet-leaves-portfolios-open\">sworn</a> into office.</p>\n<p>According to a government notification, the assignments were mad",
    "link": "https://www.dawn.com/news/2027797/eight-ajk-ministers-allocated-portfolios",
-   "hours_old": 0.1
-  },
-  {
-   "source": "Guardian World",
-   "title": "Australia news live: Labor say Coalition plan to criminalise flag burning has ‘element of desperation, trying to chase One Nation’",
-   "summary": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Duniam targets ‘frivolous’ asylum seeker claims</strong></p><p>The o",
-   "link": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
-   "hours_old": 0.3
+   "hours_old": 1.5
   },
   {
    "source": "Dawn",
    "title": "Digital model for pesticide regulation unveiled",
    "summary": "<p>ISLAMABAD: The Nati­onal Agri-Trade and Food Safety Authority (NAFSA) has unveiled plans for a modern, transparent and digitally enabled regulatory framework for <a href=\"https://www.dawn.com/news/2014228\">pesticides</a> and agro-chemicals.</p>\n<p>According to a statement, the NAFSA Act, 2026, will replace the existing regulatory framework under the Agricultural Pesticides Ordinance, 1971, and ",
    "link": "https://www.dawn.com/news/2027832/digital-model-for-pesticide-regulation-unveiled",
-   "hours_old": 0.4
+   "hours_old": 1.8
   },
   {
    "source": "Dawn",
    "title": "Naqvi doubles down on demand for new provinces",
    "summary": "<p>• Interior minister says new units have to be created as population can’t be managed through existing structure<br />• Khawaja Asif says devolution of power ‘inevitable’, accuses major ally of ‘contradictory stance’<br />• PPP opposes division of Sindh; Rabbani says creating new provinces not a federal matter<br />• PTI asks why PM largely absent from debate</p>\n<p>LAHORE/KARACHI: Interior Mini",
    "link": "https://www.dawn.com/news/2027835/naqvi-doubles-down-on-demand-for-new-provinces",
-   "hours_old": 0.5
+   "hours_old": 1.9
   },
   {
    "source": "BBC World",
    "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
    "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "hours_old": 0.7
+   "hours_old": 2.0
   },
   {
    "source": "Guardian World",
    "title": "Trump envoys and Putin discussed ‘next steps’ for ending Ukraine war, White House says",
    "summary": "<p>‘Substantive plans’ will be announced in ‘coming weeks’ as envoys head to Kyiv for talks with Ukraine’s president, Volodymyr Zelenskyy</p><p>Donald Trump’s envoys “discussed substantive plans for next steps” for ending the war between Ukraine and Russia during their meeting on Saturday in Moscow with Vladimir Putin, the White House said.</p><p>Those steps would be announced in “coming weeks”, a",
    "link": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-   "hours_old": 0.7
+   "hours_old": 2.1
   },
   {
    "source": "BBC World",
    "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
    "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
    "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-   "hours_old": 1.2
-  },
-  {
-   "source": "Guardian World",
-   "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
-   "summary": "<p>Anika Wells expected to release legislation creating a digital duty of care in parliament this week, but Coalition argues it is ‘attempt to censor the internet’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
-   "hours_old": 1.5
+   "hours_old": 2.5
   },
   {
    "source": "Guardian World",
    "title": "Manhunt after alleged axe attack in Victoria leaves three people with serious injuries",
    "summary": "<p>Police search for alleged attacker, in his 50s, after incident in Gippsland town of Tyers</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CM",
    "link": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
-   "hours_old": 2.7
+   "hours_old": 4.1
   },
   {
    "source": "BBC World",
    "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
    "summary": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
    "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 2.8
+   "hours_old": 4.2
   },
   {
    "source": "BBC World",
    "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
    "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
    "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 3.2
+   "hours_old": 4.5
   },
   {
    "source": "BBC World",
    "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
    "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
    "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 3.7
+   "hours_old": 5.1
   },
   {
    "source": "BBC World",
    "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
    "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 4.3
+   "hours_old": 5.7
   },
   {
    "source": "Guardian World",
    "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
    "summary": "<p>US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has long embraced vengeance. “I am your retribution,” he <a href=\"https://www.theguardian.com/us-news/2023/mar/05/i-am-your-retribution-trump-rules-supreme-at-cpac-as-he-relaunches-bid-for-white-house\">dec",
    "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-   "hours_old": 4.7
+   "hours_old": 6.1
   },
   {
    "source": "Guardian World",
    "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
    "summary": "<p>Officials accuse National Liberation Army of launching strike followed by clash inside military compound</p><p>An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least three soldiers and wounded four, Colombia’s army said on Saturday.</p><p>Local authorities blamed the attack – which took place late on Friday",
    "link": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
-   "hours_old": 4.8
-  },
-  {
-   "source": "Guardian World",
-   "title": "Prince William to represent King Charles at funeral of Norway’s King Harald V",
-   "summary": "<p>Duty falls by precedent to William to attend service of late monarch, alongside Princess Royal, who is godmother to new king Haakon VIII </p><p>The Prince of Wales is to represent his father at the funeral of King Harald V of Norway next week, Buckingham Palace has announced.</p><p>William, the heir to the throne, will be joined by his aunt the Princess Royal, who is attending in a private and ",
-   "link": "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v",
-   "hours_old": 4.9
+   "hours_old": 6.2
   },
   {
    "source": "BBC World",
    "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
    "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
    "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 5.6
+   "hours_old": 6.9
   },
   {
    "source": "BBC World",
    "title": "Prince William to attend King Harald's funeral in Norway",
    "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
    "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-   "hours_old": 6.1
-  },
-  {
-   "source": "Guardian World",
-   "title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss",
-   "summary": "<p>Microbats and wombats among the most common species found in buildings, with some discovered in letter boxes or air conditioning systems</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"h",
-   "link": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
-   "hours_old": 7.1
+   "hours_old": 7.4
   },
   {
    "source": "Guardian World",
    "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
    "summary": "<p>A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardia",
    "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-   "hours_old": 7.1
+   "hours_old": 8.4
   },
   {
    "source": "Dawn",
    "title": "Putin meets US envoys for Ukraine war talks",
    "summary": "<p>Russian President Vladimir Putin began talks with <a href=\"https://www.dawn.com/news/2027621\">US envoys</a> Jared Kushner and Steve Witkoff on ending more than four years of war in Ukraine in the Kremlin Saturday, ahead of their first visit to Kyiv expected on Sunday.</p>\n<p>Both Russia and Ukraine vowed not to strike each other’s capitals for three days during the negotiations, as Washington t",
    "link": "https://www.dawn.com/news/2027693/putin-meets-us-envoys-for-ukraine-war-talks",
-   "hours_old": 8.2
+   "hours_old": 9.6
   },
   {
    "source": "Dawn",
    "title": "India upend Pakistan for seven-wicket win in Women’s Asia Cup",
    "summary": "<p>India brushed Pakistan aside in an emphatic seven-wicket win when the two sides met during the Women’s Asia Cup in Dubai on Saturday, marking India’s seventh Asia Cup triumph against Pakistan in eight matches.</p>\n<p>Captain Fatima Sana won the toss and chose to bat first, trying to replicate the successful template of Pakistan’s win against Thailand on Tuesday.</p>\n<p>India captain Harmanpreet",
    "link": "https://www.dawn.com/news/2027720/india-upend-pakistan-for-seven-wicket-win-in-womens-asia-cup",
-   "hours_old": 8.3
-  },
-  {
-   "source": "Dawn",
-   "title": "UN agrees text on lethal autonomous weapons",
-   "summary": "<p>Nearly 130 countries on Saturday agreed on a text defining lethal autonomous weapons systems (LAWS) — “killer robots” to their critics — a first step towards talks on a possible international treaty to regulate them.</p>\n<p>The text agreed upon has not yet been made public — but campaign groups following the talks have already criticised leading countries for dragging their feet on the issue.</",
-   "link": "https://www.dawn.com/news/2027728/un-agrees-text-on-lethal-autonomous-weapons",
-   "hours_old": 8.5
+   "hours_old": 9.7
   },
   {
    "source": "Guardian World",
    "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
    "summary": "<p>Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs</p><p>An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday.</p><p>The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which deal",
    "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-   "hours_old": 9.1
+   "hours_old": 10.4
   },
   {
    "source": "Dawn",
    "title": "CDF Munir reaffirms Balochistan’s peace, prosperity central to state efforts: ISPR",
    "summary": "<p>Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir on Saturday visited Quetta Garrison, where he reaffirmed that the peace, prosperity and well-being of the people of Balochistan remained paramount for the state.</p>\n<p>The visit came amid a recent surge in terrorist activity in the province, including attacks in Pishin and Chagai and major counter-terrorism <a href=\"https",
    "link": "https://www.dawn.com/news/2027723/cdf-munir-reaffirms-balochistans-peace-prosperity-central-to-state-efforts-ispr",
-   "hours_old": 9.4
-  },
-  {
-   "source": "Dawn",
-   "title": "Punjab faces greater threat from other provinces than 'neighbouring countries': CM Maryam",
-   "summary": "<p>Punjab Chief Minister Maryam Nawaz on Saturday said the province faced a greater security threat from “neighbouring provinces than from neighbouring countries”, stressing that terrorism entered Punjab through its provincial borders.</p>\n<p>Speaking at an AI technology event in Lahore, the chief minister said: “The unfortunate thing is that the threat [Punjab] faces comes less from my neighbouri",
-   "link": "https://www.dawn.com/news/2027700/punjab-faces-greater-threat-from-other-provinces-than-neighbouring-countries-cm-maryam",
-   "hours_old": 10.3
+   "hours_old": 10.7
   },
   {
    "source": "Dawn",
    "title": "Brian Lara joins cricket legends in call for proper medical care for Imran Khan",
    "summary": "<p>West Indies batting great Brian Lara on Saturday joined an international appeal for proper medical treatment and dignified conditions for imprisoned former Pakistan captain and prime minister Imran Khan, saying the issue was one of “basic humanity”, rather than politics.</p>\n<p>Last month, 22 international cricketers, including 21 ex-captains, <a href=\"https://www.dawn.com/news/2024773\">wrote a",
    "link": "https://www.dawn.com/news/2027721/brian-lara-joins-cricket-legends-in-call-for-proper-medical-care-for-imran-khan",
-   "hours_old": 10.7
+   "hours_old": 12.1
   },
   {
    "source": "BBC World",
    "title": "What different world maps get right - and what they get wrong",
    "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
    "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.8
-  },
-  {
-   "source": "Dawn",
-   "title": "Inter Board Coordination Commission relaxes equivalence criteria for foreign-board students with two science subjects",
-   "summary": "<p>ISLAMABAD: The Inter Board Coordination Commission (IBCC) on Saturday decided that Science Group equivalence would be awarded to students of foreign boards who had passed at least two science subjects, providing greater flexibility in academic pathways.</p>\n<p>Similarly, the forum recommended 12 additional Deeni Madaris for equivalence of their qualifications with SSC and HSSC, bringing the tot",
-   "link": "https://www.dawn.com/news/2027716/inter-board-coordination-commission-relaxes-equivalence-criteria-for-foreign-board-students-with-two-science-subjects",
-   "hours_old": 11.1
+   "hours_old": 12.2
   },
   {
    "source": "BBC World",
    "title": "At least two dead in blast at Bolivia military barracks",
    "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 11.7
-  },
-  {
-   "source": "Dawn",
-   "title": "US ambassador says Israel not planning forced displacement from Gaza",
-   "summary": "<p>The US ambassador to Israel said on Saturday there was no plan underway to force Palestinians out of Gaza, after Israeli ministers laid out ideas on how to expel the war-battered territory’s two million people.</p>\n<p>“I can tell you categorically there is no plan of the Israelis to displace people out of Gaza against their will,” Ambassador Mike Huckabee told reporters as he visited Palestinia",
-   "link": "https://www.dawn.com/news/2027689/us-ambassador-says-israel-not-planning-forced-displacement-from-gaza",
-   "hours_old": 11.9
+   "hours_old": 13.1
   },
   {
    "source": "Tribune",
    "title": "Referendum to decide creation of new provinces",
    "summary": "Experts believe interior minister may be referring to a referendum as a means of ascertaining public opinion",
    "link": "https://tribune.com.pk/story/2627661/referendum-to-decide-creation-of-new-provinces",
-   "hours_old": 11.9
+   "hours_old": 13.3
   },
   {
    "source": "Tribune",
    "title": "Rising costs revive repair economy",
    "summary": "Consumers keep old devices alive as e-waste recycling market forecasts growth",
    "link": "https://tribune.com.pk/story/2627656/rising-costs-revive-repair-economy",
-   "hours_old": 12.1
+   "hours_old": 13.5
+  },
+  {
+   "source": "Tribune",
+   "title": "Geopolitical tensions drag stocks down",
+   "summary": "KSE-100 index loses \n1.3% as US-Iran conflict rattles investors",
+   "link": "https://tribune.com.pk/story/2627659/geopolitical-tensions-drag-stocks-down",
+   "hours_old": 13.5
   },
   {
    "source": "Tribune",
    "title": "Field Marshal Munir reaffirms peace, prosperity of Balochistan central to state’s efforts amid uptick in attacks",
    "summary": "Says secure environment will facilitate development initiatives, improve prospects for people of Balochistan",
    "link": "https://tribune.com.pk/story/2627635/field-marshal-munir-reaffirms-peace-prosperity-of-balochistan-central-to-states-efforts",
-   "hours_old": 13.5
+   "hours_old": 14.9
   },
   {
    "source": "Tribune",
    "title": "'Spider-Man: Brand New Day' becomes fastest film to cross $900m at domestic Box Office",
    "summary": "The blockbuster crossed the milestone in just 36 days, surpassing the record held by 'Star Wars: The Force Awakens'",
    "link": "https://tribune.com.pk/story/2627632/spider-man-brand-new-day-becomes-fastest-film-to-cross-900m-at-domestic-box-office",
-   "hours_old": 13.9
+   "hours_old": 15.3
   },
   {
    "source": "Tribune",
    "title": "Uproar as CM Maryam's 'chauvinistic' remarks cause controversy over provincial divide",
    "summary": "Demands arise that CM Maryam withdraw remarks insulting provinces that have borne the brunt of terrorism",
    "link": "https://tribune.com.pk/story/2627623/uproar-as-cm-maryams-chauvinistic-remarks-cause-controversy-over-provincial-divide",
-   "hours_old": 15.5
+   "hours_old": 16.9
   },
   {
    "source": "Guardian World",
    "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
    "summary": "<p>Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation</p><p>Emergency responders have rescued a Chinese man and a Nepali woman in two separate operations as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal.</p><p>The Nepali military said on Saturday a joint team comprising personnel from i",
    "link": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
-   "hours_old": 15.6
+   "hours_old": 17.0
   },
   {
    "source": "Tribune",
    "title": "Punjab at greater threat from other provinces than neighbouring countries: CM Maryam",
    "summary": "Terrorism enters Punjab through provincial borders, Maryam says, calling for stronger security coordination",
    "link": "https://tribune.com.pk/story/2627620/punjab-faces-greater-threat-from-neighbouring-provinces-than-countries-cm-maryam",
-   "hours_old": 16.3
+   "hours_old": 17.6
   },
   {
    "source": "Guardian World",
    "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
    "summary": "<p>Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency</p><p>The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the election and still refusing to recognise the result, he summoned the heads of the armed forces to a meeting.</p><p>The defence minister, Gen Paulo Sérgio Nog",
    "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
-   "hours_old": 17.1
+   "hours_old": 18.4
   },
   {
    "source": "Tribune",
    "title": "Ethiopian Miss World contestant spotlights pain of sister's murder",
    "summary": "Ethiopian contestant carries her murdered sister's memory onto the Miss World stage, vowing to turn grief into purpose",
    "link": "https://tribune.com.pk/story/2627613/ethiopian-miss-world-contestant-spotlights-pain-of-sisters-murder",
-   "hours_old": 17.2
+   "hours_old": 18.6
   },
   {
    "source": "BBC World",
    "title": "Trump signs order to remove endangered species protection for grey wolves",
    "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
    "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 17.9
+   "hours_old": 19.2
   },
   {
    "source": "Tribune",
    "title": "Israeli journalist Gideon Levy says attacks by Israeli occupiers in West Bank amount to ethnic cleansing",
    "summary": "West Bank attacks rose from 1,291 in 2023 to 1,835 in 2025, with 761 recorded in early 2026",
    "link": "https://tribune.com.pk/story/2627606/israeli-journalist-gideon-levy-says-attacks-by-israeli-occupiers-in-west-b-ethnic-cleansing",
-   "hours_old": 18.7
+   "hours_old": 20.0
+  },
+  {
+   "source": "Guardian World",
+   "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
+   "summary": "<p>A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p><",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
+   "hours_old": 21.0
   },
   {
    "source": "BBC World",
    "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
    "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
    "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 19.7
+   "hours_old": 21.1
   },
   {
    "source": "Tribune",
    "title": "Naqvi vows not to back down from demand for new provinces, says decision must reflect public will",
    "summary": "Says his remarks calling for 'reset' were not directed at any political party",
    "link": "https://tribune.com.pk/story/2627599/naqvi-vows-not-to-back-down-from-demand-for-new-provinces-says-decision-must-reflect-public-will",
-   "hours_old": 21.1
+   "hours_old": 22.5
   },
   {
    "source": "Tribune",
    "title": "Indonesia's Mount Anak Krakatau erupts, spews rocks, volcanic ash",
    "summary": "Geological Agency says there is no potential for a collapse large enough to trigger tsunami",
    "link": "https://tribune.com.pk/story/2627594/indonesias-mount-anak-krakatau-erupts-spews-rocks-volcanic-ash",
-   "hours_old": 21.9
+   "hours_old": 23.3
   },
   {
    "source": "Tribune",
    "title": "Challan holds Gul Plaza administration responsible for fire, exonerates govt bodies",
    "summary": "Tanveer Pasta named main accused as forensic report rules out explosive material, flammable liquid",
    "link": "https://tribune.com.pk/story/2627591/challan-holds-gul-plaza-administration-responsible-for-fire-exonerates-govt-bodies",
-   "hours_old": 22.2
-  },
-  {
-   "source": "Tribune",
-   "title": "Nu.WAV's debut track 'Dil' gets a mixed reception online",
-   "summary": "Coke Studio's new platform kicked off with a song that split listeners right down the middle",
-   "link": "https://tribune.com.pk/story/2627586/nuwavs-debut-track-dil-gets-a-mixed-reception-online",
-   "hours_old": 23.4
+   "hours_old": 23.5
   }
  ],
  "warnings": []
