@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-08T04:24:51.483627+00:00",
+ "built_at": "2026-09-08T06:00:28.066976+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -8,340 +8,340 @@
  ],
  "items": [
   {
+   "source": "Dawn",
+   "title": "Why has oil stayed below $100 a barrel despite supply disruptions amid US-Iran escalation?",
+   "summary": "<p>Global oil benchmark Brent crude has rallied this month but stayed below $100 a barrel despite <a href=\"https://www.dawn.com/news/2026830\">recent escalation</a> in the US-Iran <a href=\"https://www.dawn.com/live/iran-israel-war\">conflict</a> that has disrupted Gulf exports from the Strait of Hormuz and the Red Sea.</p>\n<p>Crude oil shipments from Middle East producers are at about 11 million bar",
+   "link": "https://www.dawn.com/news/2028333/why-has-oil-stayed-below-100-a-barrel-despite-supply-disruptions-amid-us-iran-escalation",
+   "hours_old": 0.1
+  },
+  {
    "source": "Guardian World",
-   "title": "Australia politics live: Labor unveils ‘my feed, my way’ rules to allow everyone to opt in or out of social media algorithms",
+   "title": "Australian politics live: Wilson claims Labor taxes delivered ‘trifecta of housing failures’ as Butler accuses opposition of playing ‘follow the leader’ with One Nation",
    "summary": "<p>Follow the day’s news live</p><p><strong>One Nation policy will leave people $25k worse off at retirement, Mulino says</strong></p><p>Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.</p><p>It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a hi",
    "link": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
    "hours_old": 0.3
   },
   {
    "source": "Guardian World",
+   "title": "Tokyo tourist hotspot bans short-term rentals amid surge in complaints",
+   "summary": "<p>Shinjuku ward targets accommodation in residential areas and near cultural sites as locals complain visitors disposing of rubbish improperly and being too noisy</p><p>A neighbourhood in Tokyo popular with foreign tourists will ban visitors from using thousands of short-term rental accommodations after a slew of complaints about behaviour.</p><p>In the latest sign that Japan’s patience with <a h",
+   "link": "https://www.theguardian.com/world/2026/sep/08/shinjuku-tokyo-tourism-hotspot-bans-short-term-rentals-airbnb-surge-in-complaints",
+   "hours_old": 0.5
+  },
+  {
+   "source": "Guardian World",
+   "title": "Andrew Hastie threatens One Nation with ‘costly’ fight over claims he is a ‘traitor’ to Australia",
+   "summary": "<p>Liberal MP says One Nation is trying to unseat him because he gave evidence against Victoria Cross recipient Ben Roberts-Smith</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest up",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/08/andrew-hastie-threatens-one-nation-pauline-hanson-traitor-to-australia-ntwnfb",
+   "hours_old": 0.8
+  },
+  {
+   "source": "Dawn",
+   "title": "Canada's retaliatory tariffs take effect as US trade talks stall",
+   "summary": "<p>Canada’s retaliatory tariffs on US goods took effect just after midnight on Tuesday as Prime Minister Mark Carney increased economic pressure on his country’s biggest trading partner after <a href=\"https://www.dawn.com/news/2024597\">negotiations collapsed</a> last month, intensifying an 18-month-old trade war.</p>\n<p>The counter-tariffs cover $20 billion of US goods, with duties ranging from 15",
+   "link": "https://www.dawn.com/news/2028326/canadas-retaliatory-tariffs-take-effect-as-us-trade-talks-stall",
+   "hours_old": 0.9
+  },
+  {
+   "source": "Guardian World",
+   "title": "Ban on neo-Nazi White Australia party is ‘authoritarian’ and breaches constitution, high court hears",
+   "summary": "<p>Lawyers also argue commonwealth does not have the power to ban a political party, as the high court ruled in 1951 over attempt to ban the Communist party</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia n",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/08/neo-nazi-white-australia-ban-authoritarian-breaches-constitution-high-court-ntwnfb",
+   "hours_old": 1.0
+  },
+  {
+   "source": "Guardian World",
+   "title": "Witness told Alan Jones he was ‘the greatest broadcaster ever’ while labelling SMH reporter a ‘bitch’",
+   "summary": "<p>Former 2GB and 2UE radio host has denied 22 indecent assault and sexual touching charges</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a hr",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/08/alan-jones-trial-sexual-touching-witness-promised-loyalty-to-greatest-broadcaster-ever-ntwnfb",
+   "hours_old": 1.3
+  },
+  {
+   "source": "Guardian World",
+   "title": "Australia to force social media platforms to allow users to opt out of algorithms",
+   "summary": "<p>Draft legislation enforces digital duty of care including limiting children’s exposure to misogynistic and eating disorder content</p><p>Australia will allow social media account holders to opt out of the powerful algorithms pushing dangerous and divisive content into users’ feeds, part of new laws designed to boost online safety.</p><p>Users over 16 years of age will be given new tools to turn",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care",
+   "hours_old": 1.4
+  },
+  {
+   "source": "Dawn",
+   "title": "Pakistan Super League teams seek lower player salary purse amid rising costs",
+   "summary": "<p>LAHORE: Some franchises of the HBL Pakistan Super League (PSL) have asked the Pakistan Cricket Board (PCB) to reduce the base player salary purse, arguing that the existing amount is too high, sources told <em>Dawn</em> on Monday.</p>\n<p>The proposal was raised at the latest PSL Council meeting, which was held in London last week under the chairmanship of PCB chairman Mohsin Naqvi.</p>\n<p>Accor",
+   "link": "https://www.dawn.com/news/2028232/pakistan-super-league-teams-seek-lower-player-salary-purse-amid-rising-costs",
+   "hours_old": 1.5
+  },
+  {
+   "source": "Guardian World",
    "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
    "summary": "<p>US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa</p><p>The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgen",
    "link": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-   "hours_old": 0.4
+   "hours_old": 2.0
   },
   {
    "source": "Guardian World",
    "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
    "summary": "<p>Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods </p><p>Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">trade fight</a> that has been marked by intensifying te",
    "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-   "hours_old": 0.4
+   "hours_old": 2.0
   },
   {
    "source": "BBC World",
    "title": "North Korea and Russia open first road bridge linking both countries",
    "summary": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
    "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 0.5
+   "hours_old": 2.1
   },
   {
    "source": "Dawn",
    "title": "Ruling PML-N backs proposal to give Islamabad provincial status",
    "summary": "<p>ISLAMABAD: The Pakistan Muslim League-Nawaz’s (PML-N) Islamabad chapter has fully endorsed Interior Minister Mohsin Naqvi’s recent proposal that Islamabad should be given provincial status.</p>\n<p>Chairperson of the National Assembly Standing Committee on Interior Raja Khurram Shahzad Nawaz, who is the local MNA from Islamabad, told <em>Dawn</em>, “We are not only backing the interior minister’",
    "link": "https://www.dawn.com/news/2028199/ruling-pml-n-backs-proposal-to-give-islamabad-provincial-status",
-   "hours_old": 0.7
-  },
-  {
-   "source": "Guardian World",
-   "title": "‘Forced out with nowhere to go’: First Nations families face eviction as council sells homes over charity’s unpaid rates",
-   "summary": "<p>Mount Isa city council to auction off first of 24 homes after Aboriginal and Torres Strait Islander Corporation for Welfare Services accrues almost $1m in unpaid debts</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow o",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
-   "hours_old": 1.0
+   "hours_old": 2.3
   },
   {
    "source": "Dawn",
    "title": "PTI warns against ‘hasty decisions’ on provinces",
    "summary": "<p>• KP CM backs Sindh’s stance, says will not support new units without Imran’s nod<br />• Gohar says decision without consensus to weaken federation<br />• Senate opposition leader suggests collective stand against move</p>\n<p>KARACHI: Khyber Pakhtunkhwa Chief Minister Sohail Afridi on Monday said the PTI would not back any move to create new provinces without the explicit approval of party foun",
    "link": "https://www.dawn.com/news/2028255/pti-warns-against-hasty-decisions-on-provinces",
-   "hours_old": 1.7
+   "hours_old": 3.3
   },
   {
    "source": "Dawn",
    "title": "SC upholds Bait-ul-Mal aid for Hindu girls",
    "summary": "<p>• Rejects plea against SHC order requiring Pakistan Bait-ul-Mal to pay Rs10,000 per month to each girl, with 10pc annual increase until marriage<br />• CJP says courts may look beyond legal questions to address underlying predicament</p>\n<p>ISLAMABAD: The Supreme Court on Monday rejected a plea filed by the Pakistan Bait-ul-Mal (PBM) challenging the Sindh High Court’s Dec 1, 2022, order <a href",
    "link": "https://www.dawn.com/news/2028256/sc-upholds-bait-ul-mal-aid-for-hindu-girls",
-   "hours_old": 1.8
+   "hours_old": 3.4
   },
   {
    "source": "Dawn",
    "title": "Seven GB roads set for federal takeover to boost tourism",
    "summary": "<p>• 464km of thoroughfares to be rehabilitated, maintained by NHA<br />• Federal cabinet to consider proposal after approval by GB cabinet<br />• Roads frequently damaged by landslides and flash floods<br />• Tour operators, hotel owners and transporters welcome PM’s initiatives</p>\n<p>GILGIT: The federal government has identified seven roads spanning 464 kilometres across Gilgit-Baltistan (GB) f",
    "link": "https://www.dawn.com/news/2028257/seven-gb-roads-set-for-federal-takeover-to-boost-tourism",
-   "hours_old": 1.9
+   "hours_old": 3.5
   },
   {
    "source": "Dawn",
    "title": "Nepra clears key hurdle to competitive power market",
    "summary": "<p>• Approves uniform charges for all Discos; participating bulk power consumers to pay Rs6.23-Rs19.62 per unit<br />• Clears path for first 400MW open-access electricity auction</p>\n<p>ISLAMABAD: The Nat­ional Electric Power Regu­latory Authority (Nepra) on Monday approved use of system charges (UoSC) ranging from Rs6.23 to Rs19.62 per unit for bulk power consumers (BPCs) of all distribution comp",
    "link": "https://www.dawn.com/news/2028259/nepra-clears-key-hurdle-to-competitive-power-market",
-   "hours_old": 2.0
-  },
-  {
-   "source": "Guardian World",
-   "title": "Barnaby Joyce says he’s not ‘Jesus Christ’ and admits One Nation has not modelled super policy in fiery interviews",
-   "summary": "<p>Jim Chalmers says One Nation’s superannuation policy is ‘an absolute shambles’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https:",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/08/barnaby-joyce-not-jesus-christ-one-nation-early-access-super-policy",
-   "hours_old": 2.1
-  },
-  {
-   "source": "Dawn",
-   "title": "Legal challenge launched against PTI’s planned march on Islamabad",
-   "summary": "<p>• IHC CJ Dogar to take up petition against Sept 27 protest today<br />• Petitioner fears disruption of routine life, traffic, and businesses, seeks court intervention against use of provincial resources for march<br />• KP CM asks Karachi lawyers to join protest, says Imran not cutting any deals</p>\n<p>ISLAMABAD: The Islamabad High Court (IHC) has been moved against the PTI’s<a href=\"https://ww",
-   "link": "https://www.dawn.com/news/2028262/legal-challenge-launched-against-ptis-planned-march-on-islamabad",
-   "hours_old": 2.1
+   "hours_old": 3.6
   },
   {
    "source": "Dawn",
    "title": "ECC okays Rs6.6bn for bulletproof vehicles",
    "summary": "<p>ISLAMABAD: The Economic Coordination Committee (ECC) of the Cabinet on Monday approved a supplementary grant of Rs6.6 billion to purchase 30 bulletproof vehicles for the upcoming Shanghai Cooperation Organisation (SCO) summit next year and allowed continuation of gas supply to two Punjab-based fertiliser plants.</p>\n<p>The ECC meeting, presided over by Finance Minister Muhammad Aurangzeb, was a",
    "link": "https://www.dawn.com/news/2028280/ecc-okays-rs66bn-for-bulletproof-vehicles",
-   "hours_old": 2.1
+   "hours_old": 3.6
   },
   {
-   "source": "Guardian World",
-   "title": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
-   "summary": "<p>Federal Greens partyroom split over plan for NSW to get millions of dollars’ worth in carbon credits for creating a koala national park</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for ",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park",
-   "hours_old": 2.3
+   "source": "Dawn",
+   "title": "Legal challenge launched against PTI’s planned march on Islamabad",
+   "summary": "<p>• IHC CJ Dogar to take up petition against Sept 27 protest today<br />• Petitioner fears disruption of routine life, traffic, and businesses, seeks court intervention against use of provincial resources for march<br />• KP CM asks Karachi lawyers to join protest, says Imran not cutting any deals</p>\n<p>ISLAMABAD: The Islamabad High Court (IHC) has been moved against the PTI’s<a href=\"https://ww",
+   "link": "https://www.dawn.com/news/2028262/legal-challenge-launched-against-ptis-planned-march-on-islamabad",
+   "hours_old": 3.7
   },
   {
    "source": "Guardian World",
    "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
    "summary": "<p>Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024</p><p>The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery.</p><p>Australian brothers Jake and Callum Robinson, aged 30 and 33, respect",
    "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-   "hours_old": 2.4
+   "hours_old": 4.0
   },
   {
    "source": "BBC World",
    "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-   "summary": "Foreign Secretary Ed Miliband is expected to outline proposals targeting goods from Israeli-occupied areas on Tuesday.",
+   "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
    "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 2.6
+   "hours_old": 4.2
   },
   {
    "source": "BBC World",
    "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
    "summary": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
    "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 2.9
+   "hours_old": 4.5
   },
   {
    "source": "BBC World",
    "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
    "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
    "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 3.3
+   "hours_old": 4.9
   },
   {
    "source": "BBC World",
    "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
    "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
    "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 3.6
+   "hours_old": 5.2
   },
   {
    "source": "BBC World",
    "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
    "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
    "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 4.6
+   "hours_old": 6.2
+  },
+  {
+   "source": "Tribune",
+   "title": "ADB to expand social development support",
+   "summary": "CM highlights focus on agricultural financing, \ncold-chain facilities",
+   "link": "https://tribune.com.pk/story/2628060/adb-to-expand-social-development-support",
+   "hours_old": 7.5
   },
   {
    "source": "BBC World",
-   "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+   "title": "Flight recorders recovered from Amazon cargo plane crash",
    "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
    "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 6.0
+   "hours_old": 7.6
   },
   {
    "source": "BBC World",
    "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
    "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
    "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 7.2
+   "hours_old": 8.8
+  },
+  {
+   "source": "Tribune",
+   "title": "RIC medics stop work after alleged assault",
+   "summary": "Hospital staff demands registration of FIR, inquiry and guarantees for their security",
+   "link": "https://tribune.com.pk/story/2628037/ric-medics-stop-work-after-alleged-assault",
+   "hours_old": 9.7
   },
   {
    "source": "Dawn",
    "title": "Govt jacks up petrol price by Rs12.90, HSD by Rs3.72",
    "summary": "<p>The government on Monday jacked up the price of petrol by Rs12.90 per litre while increasing the price of high-speed diesel (HSD) by Rs3.72 per litre.</p>\n<p>Following the revision, petrol will retail at Rs358.77 per litre while HSD will cost Rs381.77 per litre. The government continues to levy Rs114 per litre in taxes and duties on petrol and Rs100 per litre on diesel.</p>\n<p>According to the ",
    "link": "https://www.dawn.com/news/2028176/govt-jacks-up-petrol-price-by-rs1290-hsd-by-rs372",
-   "hours_old": 9.2
+   "hours_old": 10.8
   },
   {
-   "source": "Dawn",
-   "title": "JI submits six proposals as first round of talks with govt concludes",
-   "summary": "<p>ISLAMABAD: The first round of talks between Jamaat-i-Islami and the federal government on abolishing the petroleum levy and providing relief to the public concluded in Islamabad on Monday, with the party submitting six key proposals to the government committee.</p>\n<p>Both sides agreed to hold the next round on Thursday.</p>\n<p>Last week, the government and JI <a href=\"https://www.dawn.com/news",
-   "link": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes",
-   "hours_old": 9.5
+   "source": "Tribune",
+   "title": "ECC slashes SCO summit vehicles budget",
+   "summary": "Rs6.6b approved for bullet-proof vehicles against demand for Rs12.6b",
+   "link": "https://tribune.com.pk/story/2628028/ecc-slashes-sco-summit-vehicles-budget",
+   "hours_old": 11.0
   },
   {
-   "source": "Dawn",
-   "title": "Pakistan through to Women’s Asia Cup semi-finals as Nashra leads Hong Kong rout",
-   "summary": "<p>Pakistan booked their place in the Women’s Asia Cup semi-finals after spinner Nashra Sandhu’s triggered a 72-run drubbing of Hong Kong, China at the Dubai International Cricket Stadium on Monday night.</p>\n<p>Nashra took six wickets as Pakistan defended 143 runs — that included a stand-out contribution by Shawaal Zulfiqaar — to set their last-four date against Sri Lanka on Friday.</p>\n<p>Pakist",
-   "link": "https://www.dawn.com/news/2028178/pakistan-through-to-womens-asia-cup-semi-finals-as-nashra-leads-hong-kong-rout",
-   "hours_old": 9.9
+   "source": "Tribune",
+   "title": "Power tariff raised by Rs0.52 per unit",
+   "summary": "Regulator also decided to extend the quarterly adjustment to K-Electric consumers for the same period",
+   "link": "https://tribune.com.pk/story/2628027/power-tariff-raised-by-rs052-per-unit",
+   "hours_old": 11.0
   },
   {
-   "source": "Dawn",
-   "title": "Interpol Pakistan issues 286 red notices in 7 months, 53 fugitives repatriated",
-   "summary": "<p>ISLAMABAD: Interpol’s National Central Bureau (NCB) in Pakistan issued 286 Red Notices in the last seven months as part of efforts to track fugitives involved in murder, fraud, terrorism and human trafficking, according to Federal Investigation Agency (FIA) Director General Dr Usman Anwar.</p>\n<p>A Red Notice is a request to law enforcement agencies by Interpol to locate and provisionally arres",
-   "link": "https://www.dawn.com/news/2028172/interpol-pakistan-issues-286-red-notices-in-7-months-53-fugitives-repatriated",
-   "hours_old": 10.5
+   "source": "Tribune",
+   "title": "Senate panel backs death penalty for acid attacks",
+   "summary": "Clears tougher penalties for LPG decanting, domestic-worker abuse",
+   "link": "https://tribune.com.pk/story/2628029/senate-panel-backs-death-penalty-for-acid-attacks",
+   "hours_old": 11.0
+  },
+  {
+   "source": "Tribune",
+   "title": "PR to finally begin ML-1 work this year",
+   "summary": "Rs25b allocated for flagship project out of Rs40b released to railways",
+   "link": "https://tribune.com.pk/story/2628011/pr-to-finally-begin-ml-1-work-this-year",
+   "hours_old": 12.1
+  },
+  {
+   "source": "Tribune",
+   "title": "SC upholds Bait-ul-Mal support for Hindu girls",
+   "summary": "Says judges may refer cases to welfare institution",
+   "link": "https://tribune.com.pk/story/2628021/sc-upholds-bait-ul-mal-support-for-hindu-girls",
+   "hours_old": 12.1
+  },
+  {
+   "source": "Tribune",
+   "title": "Afridi opposes proposal to divide Sindh",
+   "summary": "K-P CM Says ready to even sacrifice his life to ensure integrity of province",
+   "link": "https://tribune.com.pk/story/2628017/afridi-opposes-proposal-to-divide-sindh",
+   "hours_old": 12.1
+  },
+  {
+   "source": "Tribune",
+   "title": "IHC orders PCL names removed by Monday",
+   "summary": "Justice Azam said more than 100 contempt of court petitions were pending before the high court",
+   "link": "https://tribune.com.pk/story/2628015/ihc-orders-pcl-names-removed-by-monday",
+   "hours_old": 12.1
+  },
+  {
+   "source": "Tribune",
+   "title": "JI talks at table, turns heat on streets",
+   "summary": "Presents six proposals to govt on petroleum levy, as Hafiz Naeem announces train march",
+   "link": "https://tribune.com.pk/story/2628023/ji-talks-at-table-turns-heat-on-streets",
+   "hours_old": 12.1
   },
   {
    "source": "Guardian World",
    "title": "German chancellor vows to stay in office despite AfD triumph in state election",
    "summary": "<p>Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’ after far-right victory in Saxony-Anhalt</p><p>A “shocked” and chastened Friedrich Merz has vowed to stay in office despite <a href=\"https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund\">the far right’s triumph in a state election</a> that has brought anti-immigrant, pro-Kr",
    "link": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
-   "hours_old": 10.6
+   "hours_old": 12.2
   },
   {
    "source": "Dawn",
    "title": "Senate panel passes bill proposing death penalty for perpetrators of acid attacks",
    "summary": "<p>ISLAMABAD: The Senate Standing Committee on Interior on Monday passed a series of key criminal law amendments, including a bill proposing the death penalty for acid attacks, as it moved to strengthen protections for vulnerable groups and public safety.</p>\n<p>Chaired by Senator Faisal Saleem Rehman, the committee considered private members’ bills relating to acid crimes, protection of domestic ",
    "link": "https://www.dawn.com/news/2028160/senate-panel-passes-bill-proposing-death-penalty-for-perpetrators-of-acid-attacks",
-   "hours_old": 12.0
+   "hours_old": 13.6
   },
   {
-   "source": "Guardian World",
-   "title": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
-   "summary": "<p>Saxony-Anhalt win part of wider trend driven by mainstream policy failures and gradual normalisation of far right ideas</p><p>The numbers speak for themselves: Alternative für Deutschland (AfD), a party that dabbles in Nazi imagery, distinguishes between “biological” and “passport” Germans, and is too extreme even for France’s far-right leader Marine Le Pen, nearly doubled its score in Sunday’s",
-   "link": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
-   "hours_old": 12.2
+   "source": "Tribune",
+   "title": "Traders urged to opt for new tax regime",
+   "summary": "RTO asks businesses to file returns; Asaan Scheme simplifies taxation",
+   "link": "https://tribune.com.pk/story/2628008/traders-urged-to-opt-for-new-tax-regime",
+   "hours_old": 13.8
   },
   {
    "source": "BBC World",
    "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
    "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
    "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 13.0
-  },
-  {
-   "source": "Guardian World",
-   "title": "Stolen Generations survivors have more health challenges than other First Nations people",
-   "summary": "<p>Indigenous Australians forcibly removed under government policies more likely to have severe or profound disability, report finds</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/08/stolen-generations-survivors-have-more-health-challenges-than-other-first-nations-people-ntwnfb",
-   "hours_old": 13.4
+   "hours_old": 14.5
   },
   {
    "source": "BBC World",
    "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
    "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
    "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 13.6
+   "hours_old": 15.2
   },
   {
    "source": "BBC World",
    "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
    "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
    "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 14.3
-  },
-  {
-   "source": "Tribune",
-   "title": "Senate panel approves death penalty for perpetrators of acid attacks",
-   "summary": "Tougher penalties passed for abuse of domestic workers, unauthorised LPG decanting, wrongful detention of dead bodies",
-   "link": "https://tribune.com.pk/story/2627986/senate-panel-approves-death-penalty-for-perpetrators-of-acid-attacks",
-   "hours_old": 14.3
+   "hours_old": 15.9
   },
   {
    "source": "BBC World",
    "title": "Israeli strikes in southern Lebanese village kill 12",
    "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 14.8
+   "hours_old": 16.4
   },
   {
    "source": "Tribune",
    "title": "Govt sharply hikes petrol price by Rs12.9, HSD by Rs3.72 per litre for Sept 8",
    "summary": "Petrol price increases to Rs358.77 per litre, while HSD will cost Rs381.77",
    "link": "https://tribune.com.pk/story/2627979/govt-hikes-petrol-price-by-rs1290-increases-hsd-by-rs372-per-litre-for-sept-8",
-   "hours_old": 16.0
-  },
-  {
-   "source": "Tribune",
-   "title": "'Shut Karachi for a week, they will hold your feet': CM Afridi urges people to join September 27 protest",
-   "summary": "Says 'thieves' will run away from Sindh and that only Imran will rule as time has come to change province's destiny",
-   "link": "https://tribune.com.pk/story/2627972/shut-karachi-for-a-week-they-will-hold-your-feet-cm-afridi-urges-people-to-join-september-27-protest",
-   "hours_old": 18.1
-  },
-  {
-   "source": "Tribune",
-   "title": "AI could pose 'existential' risk to humanity, UN rights chief warns",
-   "summary": "Calls for 'cast-iron guarantees' to secure AI, demands accountability on US immigration custodial deaths",
-   "link": "https://tribune.com.pk/story/2627971/ai-could-pose-existential-risk-to-humanity-un-rights-chief-warns",
-   "hours_old": 18.2
-  },
-  {
-   "source": "Tribune",
-   "title": "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
-   "summary": "Election result could test Germany's mainstream parties' refusal to work with AfD, known as the 'firewall'",
-   "link": "https://tribune.com.pk/story/2627970/far-right-win-leaves-germanys-merz-shaken-as-afd-plots-path-to-power",
-   "hours_old": 18.2
+   "hours_old": 17.6
   },
   {
    "source": "Guardian World",
    "title": "Russia and North Korea open first road bridge across their shared border",
    "summary": "<p>Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine</p><p></p><p>Russia and North Korea have opened <a href=\"https://www.theguardian.com/world/2026/jul/28/russia-north-korea-road-bridge\">the first road bridge across their shared border</a>, in the latest sign of the rapidly deepening ties between the two countries since the start ",
    "link": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
-   "hours_old": 18.5
-  },
-  {
-   "source": "Tribune",
-   "title": "PTI's Barrister Gohar warns against dividing provinces without broad public consensus",
-   "summary": "Urges political forces to avoid taking decisions on the creation of new provinces in haste",
-   "link": "https://tribune.com.pk/story/2627969/ptis-barrister-gohar-warns-against-dividing-provinces-without-broad-public-consensus",
-   "hours_old": 18.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Sharjeel Memon lambasts 'Form 47' federal ministers over new provinces",
-   "summary": "Says people sitting on 'charitable or artificial mandates' cannot make the decisions of the nation",
-   "link": "https://tribune.com.pk/story/2627967/sharjeel-memon-lambasts-form-47-federal-ministers-over-new-provinces",
-   "hours_old": 19.1
-  },
-  {
-   "source": "Tribune",
-   "title": "Former Quetta police surgeon Dr Ayesha Faiz remanded in CTD custody for three days",
-   "summary": "Balochistan home minister says police action was taken due to her alleged statements against the state, institutions",
-   "link": "https://tribune.com.pk/story/2627963/former-quetta-police-surgeon-dr-ayesha-faiz-remanded-in-ctd-custody-for-three-days",
-   "hours_old": 19.4
+   "hours_old": 20.1
   },
   {
    "source": "Guardian World",
    "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
    "summary": "<p>Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat</p><p>Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong provinces in south-east China last week. The city of Putian, in Fujian province, recorded 416.5mm of rain in a 24-hour period between Thursday and Friday, with su",
    "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-   "hours_old": 20.0
-  },
-  {
-   "source": "Tribune",
-   "title": "Fire engulfs factory in Karachi's Landhi, spreads to adjacent building",
-   "summary": "CM Murad takes notice, seeking details of the incident and the extent of the damage from fire brigade officials",
-   "link": "https://tribune.com.pk/story/2627935/fire-engulfs-factory-in-karachis-landhi-spreads-to-adjacent-building",
-   "hours_old": 22.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Lahore ATC grants 20-day remand of PTI leader Hammad Azhar in Jinnah House attack case",
-   "summary": "Azhar's mother approaches LHC to produce her son, disclose basis of his arrest and detention",
-   "link": "https://tribune.com.pk/story/2627936/lahore-atc-grants-20-day-remand-of-pti-leader-hammad-azhar-in-jinnah-house-attack-case",
-   "hours_old": 22.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Zara Noor Abbas gets action-ready in first look at 'Sheroes' story 'Gear Up'",
-   "summary": "Actor plays a police officer in the segment, featuring car chases, a bomb-disposal sequence and a motorbike arrival",
-   "link": "https://tribune.com.pk/story/2627934/zara-noor-abbas-gets-action-ready-in-first-look-at-sheroes-story-gear-up",
-   "hours_old": 22.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Islamabad ATC grants bail to Mushtaq Ahmad, 95 others over AJK protest",
-   "summary": "Former senator faces charges under provisions of PPC, Peaceful Assembly, Public Order Act, Anti-Terrorism Act",
-   "link": "https://tribune.com.pk/story/2627918/islamabad-atc-grants-bail-to-mushtaq-ahmad-95-others-over-ajk-protest",
-   "hours_old": 23.8
+   "hours_old": 21.6
   }
  ],
  "warnings": []
