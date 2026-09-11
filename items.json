@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-11T04:28:33.770740+00:00",
+ "built_at": "2026-09-11T06:03:51.636841+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -8,255 +8,325 @@
  ],
  "items": [
   {
+   "source": "Dawn",
+   "title": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction",
+   "summary": "<p>Growing numbers of US lawmakers are calling for new rules to govern artificial intelligence (AI) systems after dire warnings from two Anthropic researchers that rapidly progressing artificial intelligence could lead to the extinction of the human race in the not-too-distant future.</p>\n<p>Alarm about the potential harm from AI grew this week when Anthropic researcher Jacob Coxon said he had <a ",
+   "link": "https://www.dawn.com/news/2029078/more-us-lawmakers-seek-new-ai-rules-after-anthropic-researchers-warn-of-human-extinction",
+   "hours_old": 0.2
+  },
+  {
    "source": "Guardian World",
-   "title": "Australia news live: Victoria premier says NFL game shows state is ‘major events capital’; ASX set for worst week since US-Iran war began",
+   "title": "Australia news live: One fight cancelled every three days due to staff shortages; ASX set for worst week since US-Iran war began",
    "summary": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>‘Profound’ increase in death rate for welfare recipients, report f",
    "link": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
-   "hours_old": 0.3
+   "hours_old": 0.4
+  },
+  {
+   "source": "Guardian World",
+   "title": "Iceland to submit bill that could ban whaling in its waters",
+   "summary": "<p>The country is one of just three that still permits commercial whaling, while its government has faced mounting pressure to ban the practice</p><p>Iceland will submit a bill in February 2027 which could permanently ban whaling in its waters, a move that would leave Norway and Japan as the only two countries to permit commercial whaling.</p><p>Whaling in Iceland has been put under intense scruti",
+   "link": "https://www.theguardian.com/environment/2026/sep/11/iceland-bill-commercial-whaling-ban-mounting-pressure",
+   "hours_old": 1.1
+  },
+  {
+   "source": "Guardian World",
+   "title": "NSW police settle trespass case after visiting Indigenous children’s home 150 times in 20 months",
+   "summary": "<p>Trespass case launched by two mothers settled after officers often went to families’ houses between midnight and 4am</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get ou",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/11/nsw-police-trespass-settlement-aboriginal-families-ntwnfb",
+   "hours_old": 1.2
   },
   {
    "source": "Guardian World",
    "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
    "summary": "<p>Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally  </p><p>Frontline activists and leaders in the fight against female genital mutilation, which has affected more than <a href=\"https://data.unicef.org/topic/child-protection/female-genital-mutilation/\">230 million women and girls worldwide</a>, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating",
    "link": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
-   "hours_old": 0.5
-  },
-  {
-   "source": "Dawn",
-   "title": "‘Sale of govt jobs’ won’t be allowed, says Balochistan CM Bugti",
-   "summary": "<p>QUETTA: Balochistan Chief Minister Sarfraz Bugti has warned that no government job in the province will be allowed to be sold, saying that no minister or secretary would be spared if credible evidence of such a practice emerges.</p>\n\n<p>Chairing a meeting of the secretaries’ committee on Thursday, CM Bugti ordered an inquiry into complaints of irregularities in recruitment within the forest dep",
-   "link": "https://www.dawn.com/news/2028991/sale-of-govt-jobs-wont-be-allowed-says-balochistan-cm-bugti",
-   "hours_old": 1.2
+   "hours_old": 2.1
   },
   {
    "source": "Dawn",
    "title": "Hasina’s daughter resigns as WHO regional head",
    "summary": "<p>NEW DELHI: Saima Wazed, the World Health Organisation’s Southeast Asia head and daughter of ousted Bangladeshi Prime Minister Sheikh Hasina, resigned on Wednesday, according to her resignation letter, following fraud investigations by the UN agency and Bangladeshi authorities.</p>\n<p>Wazed’s case shows how the fallout from Hasina’s <a href=\"https://www.dawn.com/news/1850245\">ouster</a> followin",
    "link": "https://www.dawn.com/news/2029019/hasinas-daughter-resigns-as-who-regional-head",
-   "hours_old": 1.3
+   "hours_old": 2.8
+  },
+  {
+   "source": "Dawn",
+   "title": "‘Sale of govt jobs’ won’t be allowed, says Balochistan CM Bugti",
+   "summary": "<p>QUETTA: Balochistan Chief Minister Sarfraz Bugti has warned that no government job in the province will be allowed to be sold, saying that no minister or secretary would be spared if credible evidence of such a practice emerges.</p>\n\n<p>Chairing a meeting of the secretaries’ committee on Thursday, CM Bugti ordered an inquiry into complaints of irregularities in recruitment within the forest dep",
+   "link": "https://www.dawn.com/news/2028991/sale-of-govt-jobs-wont-be-allowed-says-balochistan-cm-bugti",
+   "hours_old": 2.8
   },
   {
    "source": "Dawn",
    "title": "Leaders reaffirm commitment to Quaid-i-Azam’s principles",
    "summary": "<p>ISLAMABAD: President Asif Ali Zardari and Prime Minister Shehbaz Sharif on Thursday paid tribute to Quaid-i-Azam Mohammad Ali Jinnah on his 78th death anniversary, which falls on Sept 11 (today), lauding his visionary leadership, political acumen and lifelong struggle for the constitutional, legal, religious, cultural and human rights of the Muslims of the subcontinent that culminated in the cr",
    "link": "https://www.dawn.com/news/2028994/leaders-reaffirm-commitment-to-quaid-i-azams-principles",
-   "hours_old": 1.3
+   "hours_old": 2.9
   },
   {
    "source": "Guardian World",
    "title": "Hastie accepts apology from Joyce over ‘traitor’ cartoon as Hanson doubles down and tells critics to ‘chill’",
    "summary": "<p>A split emerges in One Nation over the video, with Barnaby Joyce offering an apology as Pauline Hanson continues to refuse to take it down</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb\">Follow our Australia news live blog for latest updates</a>",
    "link": "https://www.theguardian.com/australia-news/2026/sep/11/andrew-hastie-accepts-joyce-apology-traitor-cartoon-hanson-tells-critics-chill-ntwnfb",
-   "hours_old": 1.5
+   "hours_old": 3.1
   },
   {
    "source": "Dawn",
    "title": "Azma Bokhari defends Punjab CM’s use of official jet for London trip",
    "summary": "<p>LAHORE: Punjab Chief Minister Maryam Nawaz’s use of the provincial government’s jet during her recent private visit to London has triggered a fresh controversy, with opposition leaders questioning the use of an official aircraft for a family event.</p>\n<p>CM Maryam travelled to London last week to attend the graduation ceremony of her daughter Mahnoor and returned to Lahore on Wednes­day. The g",
    "link": "https://www.dawn.com/news/2028993/azma-bokhari-defends-punjab-cms-use-of-official-jet-for-london-trip",
-   "hours_old": 1.5
+   "hours_old": 3.1
   },
   {
    "source": "Guardian World",
    "title": "Former Carlton president apologises to ex-wife as lewd photo defamation case settles",
    "summary": "<p>Luke Sayers says he accepts Cate Sayers did not post photo of his genitals as she says settlement closes ‘painful and difficult chapter’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb\">Follow our Australia news live blog for latest updates</a></",
    "link": "https://www.theguardian.com/australia-news/2026/sep/11/former-carlton-president-luke-sayers-apologises-to-ex-wife-as-lewd-photo-defamation-case-settles-ntwnfb",
-   "hours_old": 1.8
+   "hours_old": 3.4
   },
   {
    "source": "Dawn",
    "title": "Twin cities prepare strategy to counter PTI’s Sept 27 protest",
    "summary": "<p>ISLAMABAD: The administrations of the twin cities of Rawalpindi and Islamabad have started preparations to counter the PTI’s announced countrywide protest, including a request for detention of activists, arranging containers, seeking additional personnel and procuring anti-riot gear.</p>\n<p>The Islamabad police are also collecting information related to the protest, including preparations by th",
    "link": "https://www.dawn.com/news/2029048/twin-cities-prepare-strategy-to-counter-ptis-sept-27-protest",
-   "hours_old": 1.8
-  },
-  {
-   "source": "Guardian World",
-   "title": "Molly Ticehurst’s killer Daniel Billings sentenced to 28 years in jail for her murder",
-   "summary": "<p>Ticehurst’s former partner had pleaded guilty to stabbing her 15 times at her Forbes home just before midnight on 21 April 2024</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><l",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/11/molly-ticehursts-killer-daniel-billings-sentenced-ntwnfb",
-   "hours_old": 2.0
+   "hours_old": 3.4
   },
   {
    "source": "Dawn",
    "title": "Vessel carrying Qatari LNG arrives at Port Qasim",
    "summary": "<p>KARACHI: A cargo ship carrying around 82,000 tonnes of liquefied natural gas (LNG) from Qatar arrived in Pakistan through the near-closed Strait of Hormuz, <a class=\"link--external\" href=\"https://www.aa.com.tr/en/asia-pacific/pakistan-receives-1st-lng-cargo-from-qatar-since-july/4052995\" rel=\"noopener noreferrer\" target=\"_blank\">reported</a> <em>Anadolu</em> news agency on Thursday.</p>\n<p>Al M",
    "link": "https://www.dawn.com/news/2029001/vessel-carrying-qatari-lng-arrives-at-port-qasim",
-   "hours_old": 2.0
+   "hours_old": 3.5
+  },
+  {
+   "source": "Guardian World",
+   "title": "Molly Ticehurst’s killer Daniel Billings sentenced to 28 years in jail for her murder",
+   "summary": "<p>Ticehurst’s former partner had pleaded guilty to stabbing her 15 times at her Forbes home just before midnight on 21 April 2024</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><l",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/11/molly-ticehursts-killer-daniel-billings-sentenced-ntwnfb",
+   "hours_old": 3.6
   },
   {
    "source": "Dawn",
    "title": "NCCIA quizzes cricketers over ‘dressing room leaks’",
    "summary": "<p>LAHORE: In an unprecedented development, two players from the national cricket side appeared before the National Cyber Crime Investigation Agency (NCCIA) in connection with an investigation into alleged dressing-room leaks during the recent England series.</p>\n<p>The cybercrime agency quizzed Imamul Haq and Mohammad Rizwan on Thursday, pursuant to a <a href=\"https://www.dawn.com/news/2028120\">c",
    "link": "https://www.dawn.com/news/2028985/nccia-quizzes-cricketers-over-dressing-room-leaks",
-   "hours_old": 2.1
+   "hours_old": 3.7
   },
   {
    "source": "Dawn",
    "title": "Govt increases petrol price by Rs3.05, diesel by Rs5.37",
    "summary": "<p>The government on Thursday increased the price of petrol by Rs3.05 per litre and that of high-speed diesel (HSD) by Rs5.37 per litre.</p>\n<p>Following the revision, petrol will retail at Rs370.80 per litre while HSD will cost Rs398.04 per litre. The government continues to levy Rs114 per litre in taxes and duties on petrol and Rs100 per litre on diesel.</p>\n<p>According to the Petroleum Divisio",
    "link": "https://www.dawn.com/news/2028913/govt-increases-petrol-price-by-rs305-diesel-by-rs537",
-   "hours_old": 2.2
+   "hours_old": 3.8
   },
   {
    "source": "Dawn",
    "title": "GB auctions hunting permits",
    "summary": "<p>GILGIT: The Gilgit-Baltistan (GB) Wildlife and Parks Department auctioned hunting permits for 117 animals for the 2026-27 trophy hunting season on Thursday, with the top permit for an Astore markhor fetching $356,000.</p>\n\n<p>The second Astore markhor permit sold for $301,000, and the third went for $294,000. One additional Astore markhor permit had been carried over from the last hunting seaso",
    "link": "https://www.dawn.com/news/2028988/gb-auctions-hunting-permits",
-   "hours_old": 2.5
+   "hours_old": 4.0
   },
   {
    "source": "BBC World",
    "title": "Coach crash kills several people in Swiss Alps",
    "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 3.5
+   "hours_old": 5.0
   },
   {
-   "source": "Guardian World",
-   "title": "Woolworths increased prices of at least four ‘family staples’ during ‘Price Freeze’ promotion",
-   "summary": "<p><strong>Exclusive:</strong> Analysis shows cost of chicken fillets, potatoes and donuts rose during supermarket giant’s three-month promotion</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb\">Follow our Australia news live blog for latest updates<",
-   "link": "https://www.theguardian.com/business/2026/sep/11/woolworths-hike-family-staples-during-price-freeze-promotion",
-   "hours_old": 6.4
+   "source": "BBC World",
+   "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+   "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+   "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 7.5
+  },
+  {
+   "source": "Tribune",
+   "title": "K-P CM pushes reforms to strengthen Sehat card",
+   "summary": "Seeks greater transparency, expanded coverage",
+   "link": "https://tribune.com.pk/story/2628666/cm-pushes-reforms-tostrengthen-sehat-card",
+   "hours_old": 9.2
+  },
+  {
+   "source": "Tribune",
+   "title": "Kundi seeks parliament session on K-P",
+   "summary": "Governor urges federal-provincial consultations to address terrorism",
+   "link": "https://tribune.com.pk/story/2628668/kundi-seeks-parliament-session-on-k-p",
+   "hours_old": 9.2
   },
   {
    "source": "Guardian World",
    "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
    "summary": "<p>Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community</p><p>Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to deepen their alliance during a visit by Volodymyr Zelenskyy.</p><p>Mark Carney hosted the president of Ukraine in Calgary in the western province of Alber",
    "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-   "hours_old": 7.9
+   "hours_old": 9.5
   },
   {
    "source": "BBC World",
    "title": "Man jailed after threatening to kill son's teacher in French village",
    "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
    "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 8.3
+   "hours_old": 9.9
+  },
+  {
+   "source": "Tribune",
+   "title": "IHC seeks arguments on Imran's X ban plea",
+   "summary": "Court also took up contempt petition concerning denial of meeting between PTI founder and his lawyer",
+   "link": "https://tribune.com.pk/story/2628654/ihc-seeks-arguments-on-imrans-x-ban-plea",
+   "hours_old": 10.5
+  },
+  {
+   "source": "Tribune",
+   "title": "Bridge on Quetta-Karachi highway blown up",
+   "summary": "Explosion damaged the bridge and disrupted traffic on the national highway",
+   "link": "https://tribune.com.pk/story/2628656/bridge-on-quetta-karachi-highway-blown-up",
+   "hours_old": 10.5
+  },
+  {
+   "source": "Tribune",
+   "title": "AJK govt mulls outsourcing solid waste management",
+   "summary": "AJK produces around 1,300 tonnes of solid waste every day",
+   "link": "https://tribune.com.pk/story/2628655/ajk-govt-mulls-outsourcing-solid-waste-management",
+   "hours_old": 10.5
   },
   {
    "source": "BBC World",
    "title": "More than 20 children killed in DR Congo school fire",
    "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
    "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 9.2
+   "hours_old": 10.8
+  },
+  {
+   "source": "Tribune",
+   "title": "Pakistan plays down Yemen war role",
+   "summary": "FO rules out military response under defence accord against Houthis",
+   "link": "https://tribune.com.pk/story/2628651/pakistan-plays-down-yemen-war-role",
+   "hours_old": 10.9
+  },
+  {
+   "source": "Tribune",
+   "title": "PM invites opp leader for CEC consultations",
+   "summary": "Shehbaz responds to Achakzai's new letter",
+   "link": "https://tribune.com.pk/story/2628652/pm-invites-opp-leader-for-cec-consultations",
+   "hours_old": 10.9
   },
   {
    "source": "BBC World",
    "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
    "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
    "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.2
+   "hours_old": 11.8
   },
   {
    "source": "Dawn",
    "title": "Parliament to debate new provinces next month, says minister",
    "summary": "<p>Parliamentary Affairs Minister Tariq Fazal Chaudhry said on Thursday that parliament was expected to debate the issue of new provinces next month.</p>\n<p>Addressing the corporate sector in late July, Interior Minister Mohsin Naqvi had <a href=\"https://www.dawn.com/news/2019599\">called</a> for the creation of new provinces or administrative units, saying that the current system had “collapsed”.<",
    "link": "https://www.dawn.com/news/2028912/parliament-to-debate-new-provinces-next-month-says-minister",
-   "hours_old": 10.3
+   "hours_old": 11.9
+  },
+  {
+   "source": "Tribune",
+   "title": "PTI mulls mobilisation amid Punjab crackdown",
+   "summary": "Khyber-Pakhtunkhwa chief minister will visit key province to galvanise support",
+   "link": "https://tribune.com.pk/story/2628641/pti-mulls-mobilisation-amid-punjab-crackdown",
+   "hours_old": 12.3
+  },
+  {
+   "source": "Tribune",
+   "title": "Pakistanis lose Rs8.32b to cyber fraud",
+   "summary": "Multiple lawmakers among 227,000 Pakistanis targeted",
+   "link": "https://tribune.com.pk/story/2628638/pakistanis-lose-rs832b-to-cyber-fraud",
+   "hours_old": 12.3
+  },
+  {
+   "source": "Tribune",
+   "title": "IHC says judiciary needs no political crutches",
+   "summary": "CJ says court will protect citizens' rights amid PTI march plea",
+   "link": "https://tribune.com.pk/story/2628644/ihc-says-judiciary-needs-no-political-crutches",
+   "hours_old": 12.3
   },
   {
    "source": "Guardian World",
    "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
    "summary": "<p>Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch</p><p>A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor.</p><p>King Oyo Nyimba Kabamba Iguru Rukidi IV, who became the world’s you",
    "link": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
-   "hours_old": 11.0
-  },
-  {
-   "source": "BBC World",
-   "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-   "summary": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
-   "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 11.2
+   "hours_old": 12.6
   },
   {
    "source": "Tribune",
    "title": "Qawwali, Chinese melodies unite on Great Wall",
    "summary": "Artists from two countries celebrate enduring 'ironclad friendship'",
    "link": "https://tribune.com.pk/story/2628631/qawwali-chinese-melodies-unite-on-great-wall",
-   "hours_old": 11.6
+   "hours_old": 13.2
   },
   {
    "source": "BBC World",
    "title": "Can Trump really pay $5,000 to every American adult?",
    "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
    "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-   "hours_old": 11.7
+   "hours_old": 13.3
   },
   {
    "source": "BBC World",
    "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
    "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
    "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.0
+   "hours_old": 13.5
   },
   {
    "source": "BBC World",
    "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
    "summary": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
    "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.6
-  },
-  {
-   "source": "Dawn",
-   "title": "Trump administration proposes waiving grace period for H-1B holders after job loss",
-   "summary": "<p>The Trump administration has proposed eliminating a 60-day grace period that allows certain immigrants, including skilled workers on H-1B visas, to stay in the United States and find a new sponsor after losing their job, according to a government notice posted online on Thursday.</p>\n<p>Under the planned rule change, published in the <a class=\"link--external\" href=\"https://www.federalregister.g",
-   "link": "https://www.dawn.com/news/2028903/trump-administration-proposes-waiving-grace-period-for-h-1b-holders-after-job-loss",
-   "hours_old": 12.7
+   "hours_old": 14.2
   },
   {
    "source": "Tribune",
    "title": "Israeli whistleblowers detail Gaza civilian toll in Venice film",
    "summary": "'NAZA' refers to expected civilian deaths in strikes, Israeli officers draw Holocaust parallels in testimonies",
    "link": "https://tribune.com.pk/story/2628628/israeli-whistleblowers-detail-gaza-civilian-toll-in-venice-film",
-   "hours_old": 13.0
+   "hours_old": 14.6
+  },
+  {
+   "source": "Guardian World",
+   "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
+   "summary": "<p>Part of Dmitry Donskoy’s right hand sent to ‘spiritually strengthen’ soldiers</p><p>The Russian Orthodox church has sent a fragment of a medieval warrior prince’s remains to troops fighting in Ukraine, saying the relic would “spiritually strengthen” soldiers and help them achieve victory.</p><p>A reliquary containing part of the right hand of Dmitry Donskoy, the 14th-century prince revered in R",
+   "link": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
+   "hours_old": 14.9
+  },
+  {
+   "source": "Guardian World",
+   "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – as it happened",
+   "summary": "<p>Mark Rutte said that Europeans ‘increasingly understand’ the need for their countries to take ‘greater responsibility for our own security’</p><p>Addressing German ambassadors, <strong>Wadephul repeats that the Russian threat “has reached our doorstep and it’s tangible.”</strong></p><p>He adds:</p><p><em>“The Russian attempted attack at the airport in Leipzig is <strong>only the most recent inc",
+   "link": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+   "hours_old": 14.9
   },
   {
    "source": "Dawn",
    "title": "IMF mission due on Sept 23 for biannual review of Pakistan’s economic performance",
    "summary": "<p>ISLAMABAD: An International Monetary Fund (IMF) mission is due to visit Pakistan on September 23 for a biannual review of the country’s economic performance and implementation of the <a href=\"https://www.dawn.com/news/1909691\">$7 billion Extended Fund Facility (EFF)</a> and the $1.4bn Resilience and Sustainability Facility (RSF) for the period ending June 30, 2026.</p>\n<p>Pakistan is currently ",
    "link": "https://www.dawn.com/news/2028892/imf-mission-due-on-sept-23-for-biannual-review-of-pakistans-economic-performance",
-   "hours_old": 13.9
-  },
-  {
-   "source": "Tribune",
-   "title": "JI defers Islamabad long march, to finalise date on Friday",
-   "summary": "JI chief says govt using international oil prices to justify keeping fuel prices high while collecting petroleum levy",
-   "link": "https://tribune.com.pk/story/2628592/ji-defers-islamabad-long-march-to-finalise-date-on-friday",
-   "hours_old": 14.7
+   "hours_old": 15.5
   },
   {
    "source": "BBC World",
    "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
    "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
    "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 15.3
+   "hours_old": 16.9
   },
   {
    "source": "Guardian World",
    "title": "Japan seeks change to new UN world map over Russia 'misconception'",
    "summary": "<p>The new ‘true-scale’ map shrinks Europe and North America while enlarging Africa – and depicts the disputed Kuril islands as ruled by Moscow</p><p>Japan has asked for the revision of a new world map adopted by the UN because it said it made the disputed Kuril islands appear to belong to Russia.</p><p>The UN general assembly voted on Friday to adopt the new map, which makes the African continent",
    "link": "https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception",
-   "hours_old": 15.6
-  },
-  {
-   "source": "Tribune",
-   "title": "Domestic worker files for bail in Hina Javed murder case",
-   "summary": "Denies involvement in murder, contends allegations in FIR are completely false",
-   "link": "https://tribune.com.pk/story/2628587/domestic-worker-files-for-bail-in-hina-javed-murder-case",
-   "hours_old": 15.9
+   "hours_old": 17.1
   },
   {
    "source": "BBC World",
    "title": "Twenty-five dead after fire on cargo ship in eastern China",
    "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
    "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 16.1
-  },
-  {
-   "source": "Tribune",
-   "title": "Israeli newspaper rejects Netanyahu’s demands, vows to reveal truth in court after lawsuit threat",
-   "summary": "Haaretz claims Netanyahu ignored the 'UAE warning' about the possibility of a Hamas attack 10 days before Oct 7",
-   "link": "https://tribune.com.pk/story/2628570/israeli-newspaper-rejects-netanyahus-demands-vows-to-reveal-truth-in-court-after-lawsuit-threat",
    "hours_old": 17.6
   },
   {
@@ -264,84 +334,14 @@
    "title": "Iran war won't end until after crucial November elections, says Trump",
    "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
    "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 17.7
-  },
-  {
-   "source": "Tribune",
-   "title": "PM Shehbaz stresses digital payments, polio eradication in meeting with Gates Foundation team",
-   "summary": "Hails foundation for its role in polio eradication, health, nutrition and financial inclusion",
-   "link": "https://tribune.com.pk/story/2628566/pm-shehbaz-stresses-digital-payments-polio-eradication-in-meeting-with-gates-foundation-team",
-   "hours_old": 18.0
+   "hours_old": 19.3
   },
   {
    "source": "BBC World",
    "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
    "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
    "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 18.9
-  },
-  {
-   "source": "Tribune",
-   "title": "Explainer: Why is the Bab el-Mandeb Strait so important?",
-   "summary": "Houthis have declared control over the strait while declaring a naval blockade ​against Saudi Arabia",
-   "link": "https://tribune.com.pk/story/2628557/explainer-why-is-the-bab-el-mandeb-strait-so-important",
-   "hours_old": 18.9
-  },
-  {
-   "source": "Tribune",
-   "title": "Samar Jafri, Fajr Raza reflect on the making of Express Entertainment's 'Raja London Ka'",
-   "summary": "Actor and director discuss Jafri’s physical transformation, gritty visuals and the creative choices behind the serial",
-   "link": "https://tribune.com.pk/story/2628547/samar-jafri-fajr-raza-reflect-on-the-making-of-express-entertainments-raja-london-ka",
-   "hours_old": 19.8
-  },
-  {
-   "source": "Tribune",
-   "title": "Debate on new provinces to be held in next session of National Assembly, Senate in October: Tariq Fazal",
-   "summary": "Says Islamabad will remain a 'federal territory', efforts will be made to improve its governance model",
-   "link": "https://tribune.com.pk/story/2628545/debate-on-new-provinces-to-be-held-in-next-session-of-national-assembly-senate-in-october",
-   "hours_old": 20.0
-  },
-  {
-   "source": "Tribune",
-   "title": "Algeria to close airspace to UAE-registered aircraft after severing diplomatic ties",
-   "summary": "Algeria severs diplomatic ties with UAE, gives ambassador 48 hours to leave",
-   "link": "https://tribune.com.pk/story/2628535/algeria-cuts-diplomatic-ties-with-the-uae",
-   "hours_old": 21.7
-  },
-  {
-   "source": "Tribune",
-   "title": "13 Afghan medical students challenge PMDC repatriation directives in LHC",
-   "summary": "Petitioners ask LHC to adjudicate upon 2 PMDC directives and declare them 'illegal and unconstitutional'",
-   "link": "https://tribune.com.pk/story/2628530/13-afghan-medical-students-challenge-pmdc-repatriation-directives-in-lhc",
-   "hours_old": 22.2
-  },
-  {
-   "source": "Guardian World",
-   "title": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
-   "summary": "<p>Dow Jones convicted of one count of deterring Selina Cheng from role at Hong Kong Journalist Association but cleared of second charge</p><p>A Hong Kong court has convicted the publisher of the Wall Street Journal of deterring a reporter from taking up a trade union role, in a case that raised concerns about press freedom in the city.</p><p>The newspaper <a href=\"https://www.theguardian.com/medi",
-   "link": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
-   "hours_old": 22.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Gohar reiterates call for Sept 27 'Justice March' for Imran's release at LHC lawyers' convention",
-   "summary": "PTI chairman urges political parties, lawyers and public to unite for an independent judiciary and Election Commission",
-   "link": "https://tribune.com.pk/story/2628524/gohar-reiterates-call-for-sept-27-justice-march-for-imrans-release-at-lhc-lawyers-convention",
-   "hours_old": 22.5
-  },
-  {
-   "source": "Guardian World",
-   "title": "Deadly Philippines ferry fire triggers search for scores of missing",
-   "summary": "<p>Multiple search and rescue vessels deployed after blaze off Palawan island leaves at least five dead, says coast guard</p><p>A large-scale ⁠search and rescue operation ​is under way off the western Philippine island of Palawan on Thursday after a passenger ferry caught fire, killing five people and leaving ⁠scores of passengers missing.</p><p>The Philippine coast guard said multiple vessels and",
-   "link": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
-   "hours_old": 22.6
-  },
-  {
-   "source": "Guardian World",
-   "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
-   "summary": "<p>The International Atomic Energy Agency voices ‘serious concerns’ over expansion of Yongbyon facility to enrich uranium</p><p>The International Atomic Energy Agency (IAEA) has voiced “serious concern” over evidence that <a href=\"https://www.theguardian.com/world/north-korea\">North Korea</a> has built a facility capable of enriching weapons-grade uranium to bolster its nuclear arsenal.</p><p>The ",
-   "link": "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
-   "hours_old": 23.3
+   "hours_old": 20.5
   }
  ],
  "warnings": []
