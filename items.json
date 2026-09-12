@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-12T04:25:30.587538+00:00",
+ "built_at": "2026-09-12T05:52:29.824255+00:00",
  "feeds": [
   "BBC World",
   "Guardian World",
@@ -8,340 +8,340 @@
  ],
  "items": [
   {
-   "source": "Dawn",
-   "title": "Sikh pilgrims in Faisalabad stopped from flying to India over incomplete documents",
-   "summary": "<p>LAHORE: Around 100 Pakistani Sikh pilgrims, including women and children, were stopped at Faisalabad International Airport on Friday from travelling to India to perform religious rituals at Gurdwara Sri Hemkund Sahib, after the immigration authorities raised questions over their travel documents and arrangements.</p>\n<p>The pilgrims, who had secured Indian visas independently, arrived at the ai",
-   "link": "https://www.dawn.com/news/2029217/sikh-pilgrims-in-faisalabad-stopped-from-flying-to-india-over-incomplete-documents",
-   "hours_old": 0.2
+   "source": "Guardian World",
+   "title": "Sweden’s extremely close election could see far right enter government",
+   "summary": "<p>Latest poll shows 0.3-point gap between left and right blocs, with country’s reputation as global champion of human rights said to be at stake</p><p>Sweden goes to the polls on Sunday in an extremely close election that could see the far right enter government for the first time if the country’s rightwing parties can form a majority.</p><p>Opinion polls show the centre-left opposition alliance ",
+   "link": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
+   "hours_old": 0.9
   },
   {
    "source": "Guardian World",
-   "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
-   "summary": "<p>Many fear chancellor is wrong man for the job at a time when Germany’s defences against far right are crumbling</p><p>A cataclysm. A 9.0 earthquake. A five-alarm fire. A bitter rejection of <a href=\"https://www.theguardian.com/world/germany\">Germany</a>’s joyous reunification three decades ago, and a threat to the democratic postwar order.</p><p>Sizing up the repercussions of last weekend’s <a ",
-   "link": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
-   "hours_old": 0.4
-  },
-  {
-   "source": "Guardian World",
-   "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
-   "summary": "<p>Global struggle for control of Bab al-Mandab strait threatens to turn Yemen’s on-off conflict into a forever war</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war\">Violence erupts in Yemen again: why it matters globally and how it is linked to the US-Iran war</a></p></li></ul><p>Nea",
-   "link": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
-   "hours_old": 0.4
+   "title": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
+   "summary": "<p>The deadly fire had begun in the ferry’s cargo hold, then tore through the ship within seconds</p><p>The bodies of passengers killed in a <a href=\"https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing\">ferry fire off the Philippines</a> arrived at a port near the resort town of Coron, Palawan, on Saturday morning, as the country’s coast guar",
+   "link": "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow",
+   "hours_old": 1.0
   },
   {
    "source": "Dawn",
    "title": "Saudi Arabia says Iraqi drones forced temporary closure of crucial oil pipeline",
    "summary": "<p>Saudi authorities said on Friday drones launched from Iraq led to the temporary closure of a crucial oil export route used to bypass the <a href=\"https://www.dawn.com/news/2028778\">lockdown</a> of the Strait of Hormuz.</p>\n<p>Riyadh has increased its use of the East-West pipeline, which links Abqaiq, near the Gulf, to the port of Yanbu on the Red Sea, since the start of the Middle East war to b",
    "link": "https://www.dawn.com/news/2029319/saudi-arabia-says-iraqi-drones-forced-temporary-closure-of-crucial-oil-pipeline",
-   "hours_old": 0.9
+   "hours_old": 1.1
+  },
+  {
+   "source": "BBC World",
+   "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+   "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+   "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+   "hours_old": 1.2
+  },
+  {
+   "source": "Guardian World",
+   "title": "Alleged drone operator charged with murder after mistaken identity shooting in Sydney",
+   "summary": "<p>NSW police say 18-year-old was operating drone when arrested and likely ‘conducting surveillance on someone or some premises’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news pod",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/12/alleged-drone-operator-charged-murder-mistaken-identity-shooting-western-sydney-ntwnfb",
+   "hours_old": 1.2
+  },
+  {
+   "source": "Dawn",
+   "title": "Sikh pilgrims in Faisalabad stopped from flying to India over incomplete documents",
+   "summary": "<p>LAHORE: Around 100 Pakistani Sikh pilgrims, including women and children, were stopped at Faisalabad International Airport on Friday from travelling to India to perform religious rituals at Gurdwara Sri Hemkund Sahib, after the immigration authorities raised questions over their travel documents and arrangements.</p>\n<p>The pilgrims, who had secured Indian visas independently, arrived at the ai",
+   "link": "https://www.dawn.com/news/2029217/sikh-pilgrims-in-faisalabad-stopped-from-flying-to-india-over-incomplete-documents",
+   "hours_old": 1.7
+  },
+  {
+   "source": "Guardian World",
+   "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
+   "summary": "<p>Many fear chancellor is wrong man for the job at a time when Germany’s defences against far right are crumbling</p><p>A cataclysm. A 9.0 earthquake. A five-alarm fire. A bitter rejection of <a href=\"https://www.theguardian.com/world/germany\">Germany</a>’s joyous reunification three decades ago, and a threat to the democratic postwar order.</p><p>Sizing up the repercussions of last weekend’s <a ",
+   "link": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
+   "hours_old": 1.9
   },
   {
    "source": "Guardian World",
    "title": "Court case brought by Zionist federation against journalist Mary Kostakidis ended ‘by consent’",
    "summary": "<p>Former SBS newsreader had been accused by Zionist Federation of Australia of breaching Racial Discrimination Act when sharing X posts</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily ",
    "link": "https://www.theguardian.com/media/2026/sep/12/journalist-mary-kostakidis-court-case-zionist-federation-australia-discontinued-by-consent-ntwnfb",
-   "hours_old": 1.1
-  },
-  {
-   "source": "Dawn",
-   "title": "Govt weighs NFC-based financial framework for Gilgit-Baltistan",
-   "summary": "<p>GILGIT: Federal Minister for Law and Justice Senator Azam Nazeer Tarar said on Friday that consultations on the constitutional and legal status of Gilgit-Baltistan (GB) were under way, while the federal government was considering an arrangement to give the region a share in the National Finance Commission (NFC) award.</p>\n<p>The federal government currently provides annual financial grants to G",
-   "link": "https://www.dawn.com/news/2029268/govt-weighs-nfc-based-financial-framework-for-gilgit-baltistan",
-   "hours_old": 1.3
+   "hours_old": 2.5
   },
   {
    "source": "BBC World",
    "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
    "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
    "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 1.4
+   "hours_old": 2.8
+  },
+  {
+   "source": "Dawn",
+   "title": "Govt weighs NFC-based financial framework for Gilgit-Baltistan",
+   "summary": "<p>GILGIT: Federal Minister for Law and Justice Senator Azam Nazeer Tarar said on Friday that consultations on the constitutional and legal status of Gilgit-Baltistan (GB) were under way, while the federal government was considering an arrangement to give the region a share in the National Finance Commission (NFC) award.</p>\n<p>The federal government currently provides annual financial grants to G",
+   "link": "https://www.dawn.com/news/2029268/govt-weighs-nfc-based-financial-framework-for-gilgit-baltistan",
+   "hours_old": 2.8
   },
   {
    "source": "Dawn",
    "title": "Group in Yemen used Claude AI for missile projects, Anthropic says",
    "summary": "<p>• Identifies cell of threat actors running three weapons development programmes<br />• Claims it banned accounts as soon as it detected illegal activity</p>\n<p>PARIS: A group in Yemen attempted to use Anthropic’s Claude chatbot to build guided rockets and missiles, the US firm has revealed, as Houthi forces are on the offensive in the country.</p>\n<p>In a report published on Thursday on how it ",
    "link": "https://www.dawn.com/news/2029255/group-in-yemen-used-claude-ai-for-missile-projects-anthropic-says",
-   "hours_old": 1.4
+   "hours_old": 2.9
   },
   {
    "source": "Dawn",
    "title": "Sherry Rehman raises alarm over child abuse crisis",
    "summary": "<p>• Says 1,914 cases of violence and abuse against children were reported from January to June 2026<br />• Urges speedy trials, strict punishment for perpetrators</p>\n<p>ISLAMABAD: PPP Vice President Senator Sherry Rehman on Friday expressed deep concern over what she called a “serious child protection crisis” in Pakistan, citing 1,914 reported cases of violence and abuse against children between",
    "link": "https://www.dawn.com/news/2029254/sherry-rehman-raises-alarm-over-child-abuse-crisis",
-   "hours_old": 1.5
-  },
-  {
-   "source": "BBC World",
-   "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-   "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-   "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 1.9
-  },
-  {
-   "source": "Dawn",
-   "title": "Nepra okays $58bn 11-year power plan amid reservations",
-   "summary": "<p>ISLAMABAD: In a controversial decision, the National Electric Power Regulatory Authority (Nepra) on Friday approved the contentious Integrated System Plan (ISP) 2025, entailing a total investment of about $58 billion in the power generation and transmission sectors over 11 years.</p>\n<p>In a 45-page decision conditionally approving the 11-year (2025-35) planning document, all three members, inc",
-   "link": "https://www.dawn.com/news/2029253/nepra-okays-58bn-11-year-power-plan-amid-reservations",
-   "hours_old": 1.9
+   "hours_old": 3.0
   },
   {
    "source": "Dawn",
    "title": "JUI-F agrees to join PTI-led multi-party opposition moot",
    "summary": "<p>• PTI delegation meets Fazl; both sides discuss joint strategy on national issues<br />• Opposition leaders to review conference preparations on 15th</p>\n<p>ISLAMABAD: The JUI-F on Friday agreed to participate in the multi-party conference (MPC) being organised by the PTI ahead of its long march to Islamabad on Sept 27.</p>\n<p>A PTI delegation met JUI-F chief Maulana Fazlur Rehman at his reside",
    "link": "https://www.dawn.com/news/2029274/jui-f-agrees-to-join-pti-led-multi-party-opposition-moot",
-   "hours_old": 1.9
+   "hours_old": 3.3
+  },
+  {
+   "source": "BBC World",
+   "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+   "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
+   "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+   "hours_old": 3.4
+  },
+  {
+   "source": "Dawn",
+   "title": "Nepra okays $58bn 11-year power plan amid reservations",
+   "summary": "<p>ISLAMABAD: In a controversial decision, the National Electric Power Regulatory Authority (Nepra) on Friday approved the contentious Integrated System Plan (ISP) 2025, entailing a total investment of about $58 billion in the power generation and transmission sectors over 11 years.</p>\n<p>In a 45-page decision conditionally approving the 11-year (2025-35) planning document, all three members, inc",
+   "link": "https://www.dawn.com/news/2029253/nepra-okays-58bn-11-year-power-plan-amid-reservations",
+   "hours_old": 3.4
   },
   {
    "source": "Dawn",
    "title": "KP Assembly seeks Article 6 action against Punjab CM",
    "summary": "<p>• Passes resolution against Maryam Nawaz; terms her remarks about ‘security threats from neighbouring provinces’ harmful to national unity<br />• PML-N claims her statement is being misread, misrepresented</p>\n<p>PESHAWAR: After suspending the day’s agenda, the Khyber Pakhtunkhwa Assembly on Friday passed a majority resolution seeking action against Punjab Chief Minister Maryam Nawaz under Arti",
    "link": "https://www.dawn.com/news/2029270/kp-assembly-seeks-article-6-action-against-punjab-cm",
-   "hours_old": 2.2
+   "hours_old": 3.6
   },
   {
    "source": "Dawn",
    "title": "Govt raises petrol price by Rs5.02 per litre, HSD by Rs5.28 amid rising global oil prices",
    "summary": "<p>The government on Friday increased the price of petrol by Rs5.02 per litre and that of high-speed diesel (HSD) by Rs5.28 per litre.</p>\n<p>Following the revision, petrol will retail at Rs375.82 per litre while HSD will cost Rs403.32 per litre. The government continues to levy Rs114 per litre in taxes and duties on petrol and Rs100 per litre on diesel.</p>\n<p>According to the Petroleum Division’",
    "link": "https://www.dawn.com/news/2029153/govt-raises-petrol-price-by-rs502-per-litre-hsd-by-rs528-amid-rising-global-oil-prices",
-   "hours_old": 2.3
+   "hours_old": 3.7
   },
   {
    "source": "Guardian World",
    "title": "NSW police seize 36 illegal ebikes on northern beaches that are now destined for the crusher",
    "summary": "<p>Officers found one 14-year-old’s ebike was capable of hitting 90km/h. Owners have two weeks to appeal the seizure before the bikes will be crushed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cva",
    "link": "https://www.theguardian.com/world/2026/sep/12/nsw-police-seize-illegal-ebikes-northern-beaches-crushed",
-   "hours_old": 2.5
+   "hours_old": 4.0
   },
   {
    "source": "Guardian World",
    "title": "As China rises, Australia is increasingly enmeshed in the US war machine. Is the alliance still worth the risk?",
    "summary": "<p>Australia is being exploited by an ally that could draw it, however unwillingly, into war with China, experts warn</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p",
    "link": "https://www.theguardian.com/australia-news/2026/sep/12/rise-of-china-is-australia-us-alliance-still-worth-the-risk-kevin-rudd",
-   "hours_old": 4.4
+   "hours_old": 5.9
   },
   {
    "source": "Dawn",
    "title": "Action ordered against PIA, ASF staff for misbehaving with lawmakers",
    "summary": "<p>ISLAMABAD: The Senate Rules of Procedure and Privile­ges Committee on Friday directed Pakistan International Airlines (PIA) and the Airport Security Force (ASF) to initiate disciplinary action against staff members accused of misbehaving with senators, saying such conduct damages the credibility of government’s institutions. </p>\n\n<p>Chaired by Senator Syed Waqar Mehdi, the meeting at Parliamen",
    "link": "https://www.dawn.com/news/2029266/action-ordered-against-pia-asf-staff-for-misbehaving-with-lawmakers",
-   "hours_old": 4.5
+   "hours_old": 5.9
   },
   {
    "source": "BBC World",
    "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
    "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
    "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 6.1
+   "hours_old": 7.6
   },
   {
    "source": "BBC World",
    "title": "Passenger train derails in France leaving at least 44 injured",
    "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
    "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 7.0
+   "hours_old": 8.4
   },
   {
    "source": "BBC World",
    "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
    "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
    "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 7.9
+   "hours_old": 9.3
   },
   {
    "source": "Dawn",
    "title": "Fatima Sana's all-round effort in vain as Sri Lanka down Pakistan in Women's Asia Cup semi-final",
    "summary": "<p>Pakistan captain Fatima Sana’s all-round effort went in vain as Sri Lanka defeated Pakistan in a Women’s Asia Cup semi-final for the third consecutive edition on Friday, chasing down their 131-run target with seven balls to spare to set up a final against India.</p>\n<p>Fatima scored an unbeaten 47 off 36 balls and took four wickets, but Sri Lanka reached 134-6 with Harshita Samarawickrama leadi",
    "link": "https://www.dawn.com/news/2029148/fatima-sanas-all-round-effort-in-vain-as-sri-lanka-down-pakistan-in-womens-asia-cup-semi-final",
-   "hours_old": 9.1
+   "hours_old": 10.5
   },
   {
    "source": "Dawn",
    "title": "'Decisive phase': JI chief announces Islamabad march on Sept 20 against petroleum levy",
    "summary": "<p>GUJRANWALA: Jamaat-i-Islami chief Hafiz Naeemur Rehman on Friday announced that the party would <a class=\"link--external\" href=\"https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.dawn.com/news/2023527&amp;ved=2ahUKEwii75SimueWAxWxTKQEHW6FOgsQFnoECC8QAQ&amp;usg=AOvVaw0w8wPLKTyDC3uxVL4I9Y5R\" rel=\"noopener noreferrer\" target=\"_blank\">march</a> towards Isl",
    "link": "https://www.dawn.com/news/2029169/decisive-phase-ji-chief-announces-islamabad-march-on-sept-20-against-petroleum-levy",
-   "hours_old": 9.3
+   "hours_old": 10.7
   },
   {
    "source": "Guardian World",
    "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
    "summary": "<p>Sweden has ordered more Britons, including vulnerable people, to leave post-Brexit than any other EU country</p><p>He arrived with nothing other than the clothes he wore that morning. Hours later he was banged up in a detention centre close to a Stockholm airport to await deportation.</p><p>Charles, a former business director from Cambridge, who did not want his full name published, moved to Sw",
    "link": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu",
-   "hours_old": 10.7
+   "hours_old": 12.2
   },
   {
    "source": "BBC World",
    "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
    "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
    "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 10.9
+   "hours_old": 12.3
+  },
+  {
+   "source": "Tribune",
+   "title": "Sept 27 protest fuels opposition unity drive",
+   "summary": "PTI, JUI-F agree in principle on a joint opposition in NA, Senate",
+   "link": "https://tribune.com.pk/story/2628880/sept-27-protest-fuels-opposition-unity-drive",
+   "hours_old": 13.5
+  },
+  {
+   "source": "Tribune",
+   "title": "FCC to hear challenge against CM Afridi",
+   "summary": "PTI's disgruntled leader Sher Afzal Marwat filed the petition against Afridi",
+   "link": "https://tribune.com.pk/story/2628879/fcc-to-hear-challenge-against-cm-afridi",
+   "hours_old": 13.5
+  },
+  {
+   "source": "Tribune",
+   "title": "'Dialogue, not bullets,' only path to peace in Balochistan",
+   "summary": "Senior security official stresses engaging masses\n  Terms challenges confronting province serious\n  Says Baloch voic",
+   "link": "https://tribune.com.pk/story/2628876/dialogue-not-bullets-only-path-to-peace-in-balochistan",
+   "hours_old": 13.5
+  },
+  {
+   "source": "Tribune",
+   "title": "PM orders two-hour cap on load-shedding",
+   "summary": "Says agri value addition vital to boost exports",
+   "link": "https://tribune.com.pk/story/2628877/pm-orders-two-hour-cap-on-load-shedding",
+   "hours_old": 13.5
+  },
+  {
+   "source": "Tribune",
+   "title": "Internet services to resume in AJK capital",
+   "summary": "DSL connectivity will also be restored while 3G and 4G mobile internet services will remain unavailable",
+   "link": "https://tribune.com.pk/story/2628878/internet-services-to-resume-in-ajk-capital",
+   "hours_old": 13.5
+  },
+  {
+   "source": "Tribune",
+   "title": "JI announces Sept 20 long march on Islamabad over petroleum levy",
+   "summary": "Hafiz Naeem warns of movement to oust govt if petroleum levy not abolished",
+   "link": "https://tribune.com.pk/story/2628868/ji-announces-sept-20-long-march-on-islamabad-over-petroleum-levy",
+   "hours_old": 13.6
   },
   {
    "source": "Guardian World",
    "title": "Ireland holds its breath as its leftwing president prepares to meet Trump",
    "summary": "<p>Many are rooting for vocal critic Catherine Connolly to let rip in Dublin meeting, but others hope she holds back</p><p>Catherine Connolly, Ireland’s president, once said she abhorred Donald Trump’s policies. In his sole previous comment on Connolly, the US president seemed to think she was a man. Now that they are about to meet, Ireland is holding its breath.</p><p>Trump is to fly into Dublin ",
    "link": "https://www.theguardian.com/world/2026/sep/11/ireland-president-catherine-connolly-meet-donald-trump-dublin",
-   "hours_old": 12.2
+   "hours_old": 13.7
+  },
+  {
+   "source": "Tribune",
+   "title": "Supreme Court bars adverse action sans fair hearing",
+   "summary": "Bars unilateral action, preferential treatment for govt departments",
+   "link": "https://tribune.com.pk/story/2628860/supreme-court-bars-adverse-action-sans-fair-hearing",
+   "hours_old": 13.8
+  },
+  {
+   "source": "Tribune",
+   "title": "IHC seeks K-P officials' affidavits over PTI march",
+   "summary": "K-P AG Shah Faisal challenged maintainability of petition, raised preliminary objection to IHC's jurisdiction",
+   "link": "https://tribune.com.pk/story/2628854/ihc-seeks-k-p-officials-affidavits-over-pti-march",
+   "hours_old": 13.8
+  },
+  {
+   "source": "Tribune",
+   "title": "PPP signals flexibility on legislation",
+   "summary": "Further contacts are continuing between the two sides to settle their remaining differences",
+   "link": "https://tribune.com.pk/story/2628857/ppp-signals-flexibility-on-legislation",
+   "hours_old": 13.8
+  },
+  {
+   "source": "Tribune",
+   "title": "G-B's future: stakeholders to be consulted",
+   "summary": "Minister was chairing a meeting of the G-B Issues Working Group at the Ministry of Law and Justice",
+   "link": "https://tribune.com.pk/story/2628866/g-bs-future-stakeholders-to-be-consulted",
+   "hours_old": 13.8
   },
   {
    "source": "BBC World",
    "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
    "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
    "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.4
+   "hours_old": 13.9
   },
   {
    "source": "BBC World",
    "title": "Israel says it has destroyed major underground Hezbollah base",
    "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
    "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 12.6
+   "hours_old": 14.0
   },
   {
    "source": "Guardian World",
    "title": "AfD’s new state MPs include ex-Stasi officer, former porn actor, neopagans and neo-Nazis",
    "summary": "<p>Far-right German party’s newly elected representatives face fresh scrutiny as it tries to form government in Saxony-Anhalt</p><p>• <a href=\"https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer\">Why is the AfD’s state victory significant and what might happen next?</a></p><p>The Alternative für Deutschland is facing scrutiny ",
    "link": "https://www.theguardian.com/world/2026/sep/11/afd-mps-scrutiny-ex-stasi-actor-neopagan-neo-nazi",
-   "hours_old": 12.7
-  },
-  {
-   "source": "Guardian World",
-   "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
-   "summary": "<p>Ulf Kristersson’s comments come ahead of the parliamentary election taking place this Sunday</p><p><em>in Brussels</em></p><p><strong>The European Commission has said it is assessing whether Ukraine has a funding shortfall, amid renewed pressure to use Russia’s frozen assets to aid Kyiv.</strong></p><p><em>“That [frozen assets] is not a primary focus. We have worked extensively on this and now ",
-   "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
-   "hours_old": 13.2
+   "hours_old": 14.2
   },
   {
    "source": "Guardian World",
    "title": "Buddhist monk arrested in Thailand on suspicion of embezzling $2.8m",
    "summary": "<p>Phra Wachirayan Wi arrested alongside woman he was filmed having sex with in latest scandal to hit country’s clergy</p><p>Police in Thailand have arrested a senior Buddhist monk on suspicion of embezzling $2.8m intended for his monastery, alongside a suspected female accomplice he was filmed having sex with.</p><p>The case is the latest scandal to hit the clergy in the Buddhist-majority country",
    "link": "https://www.theguardian.com/world/2026/sep/11/thai-police-arrest-buddhist-abbot-suspicion-embezzling",
-   "hours_old": 13.4
+   "hours_old": 14.8
   },
   {
    "source": "Guardian World",
    "title": "Dementia patients warned off seeking home care in case Australia’s aged care algorithm cuts funding",
    "summary": "<p><strong>Exclusive: </strong>FoI documents show senior health officials were warned of concerns about assessment tool weeks after it launched</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\"",
    "link": "https://www.theguardian.com/australia-news/2026/sep/12/dementia-patients-warned-applying-algorithm-aged-care-funding",
-   "hours_old": 13.4
-  },
-  {
-   "source": "Guardian World",
-   "title": "Labor ditches new packaging laws to cut plastic waste, sparking unprecedented ‘scale and breadth of outrage’",
-   "summary": "<p>Federal environment department tells industry representatives the government does not want to ‘exacerbate cost of living pressures’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily ne",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/12/labor-ditch-new-packaging-laws-breaking-promise-plastic-waste",
-   "hours_old": 13.4
-  },
-  {
-   "source": "Tribune",
-   "title": "Broadband internet services to resume in AJK capital after months-long disruption",
-   "summary": "Fixed-line internet services to resume in Muzaffarabad, while mobile data services remain suspended",
-   "link": "https://tribune.com.pk/story/2628804/ajk-capital-to-get-broadband-internet-services-after-months-long-disruption",
-   "hours_old": 14.3
-  },
-  {
-   "source": "Tribune",
-   "title": "JI announces Sept 20 long march to Islamabad over petroleum levy",
-   "summary": "Hafiz Naeem warns of movement to oust govt if petroleum levy not abolished",
-   "link": "https://tribune.com.pk/story/2628799/ji-announces-sept-20-long-march-to-islamabad-over-petroleum-levy",
-   "hours_old": 15.0
-  },
-  {
-   "source": "Tribune",
-   "title": "Govt increases petrol price by Rs5.02, HSD by Rs5.28 per litre",
-   "summary": "Price of petrol reaches Rs375.82, while diesel rises to Rs403.32 per litre till September 14",
-   "link": "https://tribune.com.pk/story/2628795/govt-increases-petrol-price-by-rs502-hsd-by-rs528-per-litre-till-sept-14",
-   "hours_old": 15.6
-  },
-  {
-   "source": "Tribune",
-   "title": "PM Shehbaz directs authorities to cap load-shedding to two hours",
-   "summary": "Takes notice of prolonged outage, orders authorities to utilise resources to provide relief to consumers",
-   "link": "https://tribune.com.pk/story/2628794/pm-shehbaz-directs-no-area-to-face-more-than-two-hours-of-load-shedding",
-   "hours_old": 16.1
+   "hours_old": 14.9
   },
   {
    "source": "BBC World",
    "title": "Princess Diana's 'revenge dress' goes up for auction",
    "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
    "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-   "hours_old": 16.3
-  },
-  {
-   "source": "Tribune",
-   "title": "Opposition steps up consultations to hold APC on new provinces, law and order",
-   "summary": "PTI delegation meets Maulana Fazlur Rehman to discuss joint opposition; govt, Achakzai offices begin CEC talks",
-   "link": "https://tribune.com.pk/story/2628785/opposition-steps-up-consultations-to-hold-apc-on-new-provinces-law-and-order",
-   "hours_old": 17.4
+   "hours_old": 17.8
   },
   {
    "source": "BBC World",
    "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
    "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
    "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-   "hours_old": 17.6
-  },
-  {
-   "source": "Tribune",
-   "title": "'Dialogue, not bullet', key to peace in Balochistan, says senior security official",
-   "summary": "Stresses security measures alone cannot produce 'lasting peace', winning over the common Baloch is the key to success",
-   "link": "https://tribune.com.pk/story/2628782/dialogue-not-bullet-key-to-peace-in-balochistan-says-senior-security-official",
-   "hours_old": 17.8
-  },
-  {
-   "source": "Tribune",
-   "title": "Modi, Putin agree to strengthen India-Russia partnership on eve of BRICS summit",
-   "summary": "India balances ties with the US, Gulf states, Russia, Iran and Israel amid Ukraine and Iran war disruptions",
-   "link": "https://tribune.com.pk/story/2628772/modi-putin-agree-to-strengthen-india-russia-partnership-on-eve-of-brics-summit",
-   "hours_old": 19.5
-  },
-  {
-   "source": "Tribune",
-   "title": "Iran war tests expanding BRICS as bloc seeks greater global clout",
-   "summary": "Summit to be closely watched in the West, as Modi, Xi Jinping, Putin, Pezeshkian gather 'under same non-Western roof'",
-   "link": "https://tribune.com.pk/story/2628771/iran-war-tests-expanding-brics-as-bloc-seeks-greater-global-clout",
-   "hours_old": 19.6
-  },
-  {
-   "source": "Tribune",
-   "title": "Saudi oil output plunges to lowest since 1990 amid fallout from US-Iran war",
-   "summary": "Saudi Arabia tells OPEC its production fell by 1.9 million barrels per day from 8.1 million barrels per day in July",
-   "link": "https://tribune.com.pk/story/2628765/saudi-oil-output-plunges-to-lowest-since-1990-amid-fallout-from-us-iran-war",
-   "hours_old": 20.1
+   "hours_old": 19.0
   },
   {
    "source": "BBC World",
    "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
    "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
    "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-   "hours_old": 20.2
+   "hours_old": 21.6
   },
   {
    "source": "Tribune",
-   "title": "Americans to mark 25 years since 9/11 attacks amid enduring grief, reflection",
-   "summary": "Vice President JD Vance and all former living presidents to join Mayor Zohran Mamdani at the September 11 memorial",
-   "link": "https://tribune.com.pk/story/2628759/americans-to-mark-25-years-since-september-11-attacks-amid-enduring-grief-reflection",
-   "hours_old": 20.8
-  },
-  {
-   "source": "BBC World",
-   "title": "Philippine rescuers board ferry 40 hours after blaze began",
-   "summary": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
-   "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-   "hours_old": 21.9
+   "title": "Bollywood also jumps on the viral '80s AI trend",
+   "summary": "Actors Kiara Advani, Parineeti Chopra hop on the trend, while Vijay Varma, Farah Khan share real 80's throwbacks",
+   "link": "https://tribune.com.pk/story/2628752/bollywood-also-jumps-on-the-viral-80s-ai-trend",
+   "hours_old": 22.9
   },
   {
    "source": "Tribune",
    "title": "Usman Javed, Meheremaan Khan bid farewell to 'Zanjeerain'",
    "summary": "Actors thank their co-stars and creators as viewers share their disappointment over Torsam and Gul Meher’s fate",
    "link": "https://tribune.com.pk/story/2628746/usman-javed-meheremaan-khan-bid-farewell-to-zanjeerain",
-   "hours_old": 22.1
-  },
-  {
-   "source": "Tribune",
-   "title": "Omar Mansoor brings Punjab's heritage to New York Fashion Week",
-   "summary": "Designer's Spring/Summer 2027 collection celebrates handwoven craft, artisanal skill and natural character of khaddar",
-   "link": "https://tribune.com.pk/story/2628736/omar-mansoor-brings-punjabs-heritage-to-new-york-fashion-week",
-   "hours_old": 23.0
+   "hours_old": 23.5
   }
  ],
  "warnings": []
